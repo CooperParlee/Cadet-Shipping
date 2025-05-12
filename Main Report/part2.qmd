@@ -1,0 +1,34 @@
+Part 2A Main Propulsion, Diesel or Diesel Electric
+
+1.	List and describe the main propulsion diesel engine(s) on your ship in detail including size, speed, power, cycle, type drive, reversing method, control, and the timing of events.
+2.	What is the designation of the main propulsion unit?	Explain its meaning (e.g. Wartsila 6L20).
+3.	List and describe the name plate data for the main propulsion units including any reduction gears, clutches, couplings, and/or main motors and generators.
+4.	What type of governors or engine speed control devices are used on the engine?	Give their name plate data.
+5.	Explain in detail how the main engine speed was controlled on your ship. Briefly describe operation of the overspeed protection system.
+6.	What differences in the plant operation/setup did you observe when entering and leaving port (at sea-maneuvering modes), i.e., sea suctions, type fuel oil, pressure and temperature adjustments made, extra equipment started etc.?
+7.	List and describe the fuel oil storage and transfer system.
+8.	Give a full description of the fuel oil supply to the fuel injection pumps, including the purification system.
+9.	Give a full description of the fuel injection system including the control and variation of the timing and metering employed.
+10.	Explain the path of lube oil flow throughout the engine. How are the liners and bearings lubricated?
+11.	Provide detailed specifications of the various lubrication oils used for this engine. This may be obtained from product data sheets. Give approximate consumption figures.
+12.	Describe the procedure for getting the engine ready for sea, that is, ready for leaving port.
+13.	Describe the external lube oil system including filters and coolers.
+14.	Describe the purification, transfer, and storage system for the lube oil.
+15.	Explain how to check the L.O. level. When and how often was this done? Explain how to add oil to the engine.
+16.	What is meant by "supercharging or turbocharging"? Explain how this is accomplished on your plant.
+17.	Give a full description of the complete cooling water system, including any seawater or Closed Fresh Water circuits.
+18.	Fully describe the starting system equipment and its operation.
+19.	What is "tappet clearance” or “valve lash" and how is it adjusted on the intake/exhaust valves?
+20.	List and describe in detail any maintenance or repairs performed on the main engine while you were on board.
+21.	List and describe the air compressors on your ship, including their type, number, size, pressures, and what the air is used for.
+22.	If the main engines could be controlled from the bridge, list in order the process of transferring control from engine control room to bridge. List precautions.
+23.	List and describe the procedure to transfer main engine control from control room to the emergency position at the engine maneuvering stand or local operating panel. List any precautions to be taken during this evolution.
+24.	Briefly describe the process of reversing the output of the main propulsion unit.
+25.	Give fuel rack readings for stop, lowest operating speed and full sea speed for main engine. If the engine has an electronic governor or electronic injection, give an equivalent % reading.
+26.	What is the viscosity of the fuels used on board? Was the injection viscosity controlled? If so, explain this process.
+27.	Describe in detail the process of getting the propulsion plant ready for departure and arrival. This is not the same as question #9.
+28.	What procedure is followed for securing the main engines after "finished with engine" signal is given?
+29.	List and describe the main engine protection devices, including alarms and trips. Explain how they were tested for satisfactory operation. How often are they tested?
+30.	What type of bearings are used for main, crankpin and crosshead applications? How are these bearings checked?
+31.	What is "crank web deflection"? Provide a copy of a “crank web deflection” report.
+32.	Obtain sample p-v and pressure-crank angle diagrams for the main engine. What is the purpose of these diagrams? What type of aberrations from the norm can be seen in these diagrams?

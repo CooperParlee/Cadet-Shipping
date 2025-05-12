@@ -1,0 +1,22 @@
+---
+format:
+    html: 
+        code-fold: false
+    pdf:
+        papersize: letter
+        number-sections: false
+        colorlinks: true
+        highlight-style: github
+        sansfont: Latin Modern Roman
+editor: visual
+---
+
+## Daily Log
+
+### Day 0: 5/10
+
+This morning, I arrived to the ship after a very early flight. After spending the majority of the morning completing paperwork with the Captain, I spent the early afternoon meeting the engineers and getting a tour of the engine room. The M/V ARC Independence burns a heavy fuel distillate called very low sulfur fuel oil (VLSFO) and, as such, it requires steam heating to reduce the viscosity of the fuel and improve atomization and flow. While there are larger steam heaters, there are steam lines that wrap around the fuel oil lines to the main engine and one of these lines was leaking causing steam condensate to drip below the line onto the deck. I assisted the engineers in performing quick temporary repairs on the line, including using pipe clamps to reduce the pressure of steam into the line and thus reducing the amount of steam that was allowed to leak out. Next, I followed the Third Assistant Engineer around as he started to perform some pre-departure checks given that the vessel was slated to leave tomorrow.
+
+### Day 1: 5/11
+
+The morning's work involved exercising the at-sea spares for the main engine and ship service diesel generator exhaust valves. According to the First Engineer, this maintenance is typical prior to an Atlantic crossing. After threading in a service air connection to the side of the valve body and using the chain hoist to lift the assembly, the exhaust valves were allowed to move about their full length of travel and lubricated with Never-Seez. After the valves were completed. I assisted the Third in troubleshooting some non-functional deck lighting which included replacing light bulbs and chasing bad grounds.

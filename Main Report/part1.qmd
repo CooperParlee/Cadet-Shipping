@@ -10,68 +10,77 @@ format:
         sansfont: Latin Modern Roman
 editor: visual
 ---
+
 ## Part 1: Emergency Rules and Safety Equipment (All Vessels)
 
-1.	List and describe the fire-fighting equipment found in your ship’s machinery spaces.
+1.  List and describe the fire-fighting equipment found in your ship’s machinery spaces.
 
 The fire-fighting equipment in the ship's machinery spaces included the $CO_2$ fixed fire fighting system, the Hyper Mist pressurized water deluge system, fire hoses with the optional addition of aqueous film-forming foam (AFFF) and fire extinguishers. The fixed $CO_2$ system was installed throughout the main engine room and main switchboard room with nozzles preferentially placed around equipment such as the main engine, boilers, and purifiers. The Hyper Mist pressurized water deluge system would create a fog of high pressure water mist in localized zones in the engine room. Fire hoses were placed strategically in locations of higher fire risk, including the auxiliary boiler, diesel generators and main engine. Some locations had AFFF trunks which had jugs of foam concentrate and an applicator. The applicator would connect up to the standard fire hose attachment and draw concentrate from the jugs using an ejector. The main engine room, diesel generator room and machine shop all contained dry chemical fire extinguishers (class ABC). Rooms which contained electrical equipment such as the engine control room (ECR) and the main switchboard room had $CO_2$ fire extinguishers installed.
 
-2.	What type of fire extinguishers were located in the machinery spaces? What class of fires are they capable of extinguishing? Explain their proper operation, coverage, and maintenance requirements.
+2.  What type of fire extinguishers were located in the machinery spaces? What class of fires are they capable of extinguishing? Explain their proper operation, coverage, and maintenance requirements.
 
 Dry chemical fire extinguishers (class ABC) were the primary type of fire extinguisher found within the machinery spaces of the ARC Independence. They are capable of extinguishing solid combustibles (class A), flammable liquids like lube and fuel oil (class B), and electrical fires (class C). Portable fire extinguishers were to be weighed monthly by the 3/M and inspected at least every two years. Maintenance is minimal and included refilling or replacing the extinguishers if they were used.
 
-3.	What type of fixed fire extinguishing systems are installed? Describe the system and explain its operation, protected areas, and maintenance requirements.
+3.  What type of fixed fire extinguishing systems are installed? Describe the system and explain its operation, protected areas, and maintenance requirements.
 
 There were two main fixed fire extinguishing systems aboard the M/V ARC Independence, the Hyper Mist and the $CO_2$ inert gas fire fighting systems. The Hyper Mist is a localized high-pressure water mist deluge system that releases droplets of water over protected zones in the engine room. The zones included the main engine, one; the auxiliary boiler, two; the purifier room, three; the outboard and inboard ship service diesel generators, four and five, respectively; and the incinerator room, zone six. This system could be operated manually from a console in the engine room, the bridge or fire locker A. The $CO_2$ inert gas system was installed to protect machinery spaces and all thirteen levels of the cargo decks. A room on the aft upper deck contained two large cylinders of pressurized $CO_2$. By using the controls mounted in either fire locker B (fire control room) or locally in the fixed fire fighting system.
 
-Maintenance for the Hyper Mist was mostly limited to shipyard periods.
+Maintenance for the Hyper Mist was mostly limited to shipyard periods and included certification of the system using a pressure test, testing the functionality of the system pump and zone sensor testing. Each of the zones contained two sensors and the system would only be alarmed if both sensors were triggered. The two sensors for each zone included a flame eye and a smoke detector, that way if equipment was behaving in such a way that emulated properties of a fire (like an exhaust leak), the system would not be triggered and make a mess in the engine room. Local in-house testing by the engineers did occur and included manually triggering the sensor pair for one zone a month. That zone rotated such that each zone was tested twice yearly.
 
-4.	What are the USCG regulations regarding boat and fire drill? Provide the CFR Reference. What were your assigned duties for Fire AND Boat Drills? What were the instructions you received at your boat station?
-5.	What action is taken by the engineers in the engine room during a fire (drill or actual) AND Boat Drill? List the duties of all the engineers (QMED, 3rd, 2nd, First, Chief)
-6.	What type of breathing apparatus was used on the vessel? Where was it stored?
-7.	List and describe the safety equipment you received instructions about.
-8.	What procedure should be followed if smoke starts coming from the vents of an electric motor?
+NOT DONE
 
-If smoke starts coming out of the vents of an electric motor, it is important to first consider whether or not this motor is tied to a critical system, the operating conditions of the vessel and whether or not there is any redundancy to the motor. It would not be safe to denergize a smoking motor tied to the steering gear system in the case of maneuvering. So, if possible, the components for a secondary motor should be lined up and powered on before de-energizing the smoking motor as quickly as possible. On my vessel, I was instructed to first warn a licensed engineer if a motor was smoking and to only denergize the motor if there were visible flames. After de-energizing, a dry chemical or $CO_2$ fire extinguisher might be used to extinguish the flames as these types of fire extinguishers are safe for use on electrical fires.
+4.  What are the USCG regulations regarding boat and fire drill? Provide the CFR Reference. What were your assigned duties for Fire AND Boat Drills? What were the instructions you received at your boat station?
+5.  What action is taken by the engineers in the engine room during a fire (drill or actual) AND Boat Drill? List the duties of all the engineers (QMED, 3rd, 2nd, First, Chief)
+6.  What type of breathing apparatus was used on the vessel? Where was it stored?
+7.  List and describe the safety equipment you received instructions about.
+8.  What procedure should be followed if smoke starts coming from the vents of an electric motor?
 
-9.	What precautions would you take to prevent fires in the engine room?
+If smoke starts coming out of the vents of an electric motor, it is important to first consider whether or not this motor is tied to a critical system, the operating conditions of the vessel and whether or not there is any redundancy to the motor. It would not be safe to denergize a smoking motor tied to the steering gear system in the case of maneuvering. So, if possible, the components for a secondary motor should be lined up and powered on before de-energizing the smoking motor as quickly as possible. On my vessel, I was instructed to first warn a licensed engineer if a motor was smoking and to only de-energize the motor if there were visible flames. After de-energizing, a dry chemical or $CO_2$ fire extinguisher might be used to extinguish the flames as these types of fire extinguishers are safe for use on electrical fires.
 
-In order to prevent fires in the engine room, there are many steps that can be taken to minimize fire risk. Keeping equipment, especially those that carry flammable materials (fuel lines, lube oil lines, etc.), in working order helps to minimize the risk of fire from the propagation of flammable materials into an ignition source like a steam line or a fluorescent light. Additionally, keeping walkways, bilges and all spaces clear of flammable materials helps to minimize their ignition in the event of some ignition source. To minimize the presence of an ignition source in locations where flammable gas vapors might be present, crew members should use intrinsically safe tools and avoid items that cause a spark like smoking or using a lighter. Additionally, regular testing for flammable vapors should be done in locations where they are likely and oily rags should not be left in the open and instead should be placed in metal "oily waste" containment bins. Another key preventative measure is to foster a safety culture amongst the members of the engineering department. That way, if someone sees a potential hazard for a fire, they will be more likely to either remedy it or bring it up to a higher-up.   
+9.  What precautions would you take to prevent fires in the engine room?
 
-10.	Where is the fixed fire extinguishing system storage room located? Where are its controls?
+In order to prevent fires in the engine room, there are many steps that can be taken to minimize fire risk. Keeping equipment, especially those that carry flammable materials (fuel lines, lube oil lines, etc.), in working order helps to minimize the risk of fire from the propagation of flammable materials into an ignition source like a steam line or a fluorescent light. Additionally, keeping walkways, bilges and all spaces clear of flammable materials helps to minimize their ignition in the event of some ignition source. To minimize the presence of an ignition source in locations where flammable gas vapors might be present, crew members should use intrinsically safe tools and avoid items that cause a spark like smoking or using a lighter. Additionally, regular testing for flammable vapors should be done in locations where they are likely and oily rags should not be left in the open and instead should be placed in metal "oily waste" containment bins. Another key preventative measure is to foster a safety culture among the members of the engineering department. That way, if someone sees a potential hazard for a fire, they will be more likely to either remedy it or bring it up to a higher-up.
+
+10. Where is the fixed fire extinguishing system storage room located? Where are its controls?
 
 The $CO_2$ fixed fire extinguishing system is located on the upper deck near the stern lifeboat aft of the helipad. It can be controlled locally from a panel in the fixed fire extinguishing room or it can be activated in fire locker A, also known as the fire control room, which is on the port side aft of midship.
 
-11.	In what condition should the bilge(s) be kept? Whose responsibility is it and who does the cleaning? How is bilge water handled while in port? While at sea?
-12.	List and describe the remote emergency apparatus installed for use with the main propulsion plant. (Shut-off valves, reach rods, vents, screens, fill lines, etc.)
-13.	If there were any mechanical problems to these devices while you were onboard, please list and describe? What periodic maintenance or repair(s) was done to these devices?
-14.	What are the USCG regulations under which each of these emergency apparatuses are covered? List the articles.
-15.	List and describe the types of fire and smoke detecting equipment fitted in the engine room and accommodation spaces. Explain why one type of detector is chosen over another for a particular application.
-16.	How were each one of these types of detectors tested?
-17.	What is meant by the term explosion proof? Provide examples of explosion proof equipment commonly found aboard ship.
+11. In what condition should the bilge(s) be kept? Whose responsibility is it and who does the cleaning? How is bilge water handled while in port? While at sea?
 
-18.	What is meant by the term intrinsically safe? Provide examples of intrinsically safe equipment commonly found aboard ship.
+12. List and describe the remote emergency apparatus installed for use with the main propulsion plant. (Shut-off valves, reach rods, vents, screens, fill lines, etc.)
 
-Intrinsically safe devices are those which will not light off an explosive mixture. This means that a piece of electrical equipment will not arc or a piece of mechanical equipment will not generate enough heat to light an explosive gas mixture. Some examples of intrinsically safe equipment include Moonbeams, radios, smoke detectors, non-sparking hand tools, and many pneumatic tools. For a tool to be classified as intrinsically safe, it must be certified under UL 913 in the US or ATEX certified in Europe. 
+13. If there were any mechanical problems to these devices while you were onboard, please list and describe? What periodic maintenance or repair(s) was done to these devices?
 
-19.	Did the vessel experience a fire while you were on board? If so, briefly explain what happened, how it was handled, and what was done to prevent such fires in the future, or lessons learned.
+14. What are the USCG regulations under which each of these emergency apparatuses are covered? List the articles.
 
-NOT DONE
+15. List and describe the types of fire and smoke detecting equipment fitted in the engine room and accommodation spaces. Explain why one type of detector is chosen over another for a particular application.
 
-20.	What would you do if you discovered a small fire below the deck plates? Explain your actions in fighting a fire in an engine room, up to and including using the fixed system. Be detailed and specific!
+16. How were each one of these types of detectors tested?
 
-NOT DONE
+17. What is meant by the term explosion proof? Provide examples of explosion proof equipment commonly found aboard ship.
 
-21.	List and describe the sequential process of lowering a lifeboat. Explain the lifeboat lowering gear. How is the speed of descent controlled on a lifeboat when it is being lowered?
+18. What is meant by the term intrinsically safe? Provide examples of intrinsically safe equipment commonly found aboard ship.
+
+Intrinsically safe devices are those which will not light off an explosive mixture. This means that a piece of electrical equipment will not arc or a piece of mechanical equipment will not generate enough heat to light an explosive gas mixture. Some examples of intrinsically safe equipment include Moonbeams, radios, smoke detectors, non-sparking hand tools, and many pneumatic tools. For a tool to be classified as intrinsically safe, it must be certified under UL 913 in the US or ATEX certified in Europe.
+
+19. Did the vessel experience a fire while you were on board? If so, briefly explain what happened, how it was handled, and what was done to prevent such fires in the future, or lessons learned.
 
 NOT DONE
 
-22.	How many life rafts were installed on the vessel? What were their locations?
+20. What would you do if you discovered a small fire below the deck plates? Explain your actions in fighting a fire in an engine room, up to and including using the fixed system. Be detailed and specific!
+
+NOT DONE
+
+21. List and describe the sequential process of lowering a lifeboat. Explain the lifeboat lowering gear. How is the speed of descent controlled on a lifeboat when it is being lowered?
+
+NOT DONE
+
+22. How many life rafts were installed on the vessel? What were their locations?
 
 There were four life rafts installed on the vessel. They were located forward of midships on the upper deck level outside of the accommodation spaces with two of each on the port and starboard sides.
 
-23.	Explain the purpose of a hydrostatic release used in conjunction with an inflatable life raft.
+23. Explain the purpose of a hydrostatic release used in conjunction with an inflatable life raft.
 
-A hydrostatic release on an inflatable life raft will automatically release and inflate the life raft and cause it to float free of the vessel once it is submerged below the water
+A hydrostatic release on an inflatable life raft will automatically release and inflate the life raft and cause it to float free of the vessel once it is submerged below the water. This is helpful in the event that someone was not able to free a life raft in time
 
 DRAWINGS - NONE

@@ -63,7 +63,7 @@ NOT DONE
 
 16.	What is meant by "supercharging or turbocharging"? Explain how this is accomplished on your plant.
 
-Turbocharging and supercharging function to raise the effective scavenging pressure of the engine to increase efficiency and power of the main engine. In a turbocharger, the force due to the pressure of the exhaust gases is used to turn the blades of the turbocharger impeller. The work produced my turning this impeller is used to turn the intake-side impeller, raising the intake pressure and forcing more air into the cylinders of the engine. Turbocharging is not a parasitic draw. Supercharging is the process of using engine work to drive a blower to force air into the engine. It is considered a parasitic draw because it removes some shaft horsepower from the engine to drive the blower, however, it also increases the overall power of the engine. On the ARC Independence, the main engine was turbocharged. ADD PICTURE
+Turbocharging and supercharging function to raise the effective scavenging pressure of the engine to increase efficiency and power of the main engine. In a turbocharger, the force due to the pressure of the exhaust gases is used to turn the blades of the turbocharger impeller. The work produced my turning this impeller is used to turn the intake-side impeller, raising the intake pressure and forcing more air into the cylinders of the engine. Turbocharging is not a parasitic draw. Supercharging is the process of using engine work to drive a blower to force air into the engine. It is considered a parasitic draw because it removes some shaft horsepower from the engine to drive the blower, however, it also increases the overall power of the engine. On the ARC Independence, the main engine was both turbocharged and supercharged. The turbo is driven by the exhaust gas and is used to force air from the surrounding engine room into the charge air cooler. After the charge air cooler are electrically-driven auxiliary blowers. These can further increase the scavenge air pressure going into the engine but are not entirely necessary to the operation of the plant. ADD PICTURE
 
 17.	Give a full description of the complete cooling water system, including any seawater or Closed Fresh Water circuits.
 
@@ -83,7 +83,7 @@ NOT DONE
 
 21.	List and describe the air compressors on your ship, including their type, number, size, pressures, and what the air is used for.
 
-For the main engine start air, there are two Sperre HV2 2-cylinder V-type reciprocating compressors with a capacity of 250 $m^3/hr$ rated for a pressure of 30 bar. 
+For the main engine start air, there are two Sperre HV2 4-cylinder V-type reciprocating compressors with a capacity of 250 $m^3/hr$ rated for a pressure of 30 bar. 
 
 22.	If the main engines could be controlled from the bridge, list in order the process of transferring control from engine control room to bridge. List precautions.
 

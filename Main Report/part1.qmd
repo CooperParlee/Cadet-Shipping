@@ -30,9 +30,20 @@ Maintenance for the Hyper Mist was mostly limited to shipyard periods and includ
 NOT DONE
 
 4.  What are the USCG regulations regarding boat and fire drill? Provide the CFR Reference. What were your assigned duties for Fire AND Boat Drills? What were the instructions you received at your boat station?
+
+US Coast Guard regulations concerning safety drills are listed under CFR 46 § 199.180 Training and drills. It indicates that "Every crewmember must participate in at least one abandon-ship drill and one fire drill every month," and that a drill "must take place within 24 hours of the vessel leaving a port if more than 25 percent of the crew have not participated in abandon-ship and fire drills on board." From subsection d, abandon-ship drills, boat drills must include mustering everyone at their muster stations, the use of the general alarm and relevant PA system, ensuring that everyone is properly dressed, correct donning of life jackets and immersion suits, the lowering of at least one lifeboat, starting of the lifeboat engine and the operation of davits used for launching the life rafts. From subsection f, fire drills must include reporting to muster stations, starting of the fire pumps and the use of at least two hoses (jets) to determine that the system is working, inspection of the proper donning of turnout gear, checking communication equipment, ensuring the proper operation of watertight doors, fire doors and fire dampers, and checking for the proper arrangements for a subsequent abandonment of the vessel. I did not have any specific duties for fire or boat drills beyond "assist as directed." Despite being an engineer, I was instructed to muster at the bridge for both fire and boat drills. At my boat station, we were instructed to don life jackets and then on how to prepare the lifeboat for lowering. 
+
+NOT DONE
+
 5.  What action is taken by the engineers in the engine room during a fire (drill or actual) AND Boat Drill? List the duties of all the engineers (QMED, 3rd, 2nd, First, Chief)
 6.  What type of breathing apparatus was used on the vessel? Where was it stored?
+
+Our ship had MSA-brand SCBA that was stored in both fire room A and B, and the engine control room. There were also emergency escape breathing devices (EEBDs) placed throughout the machinery spaces, including ECR, steering gear, the generator room, and shaft alley among other locations throughout the main engine room.
+
 7.  List and describe the safety equipment you received instructions about.
+
+I received instruction on 
+
 8.  What procedure should be followed if smoke starts coming from the vents of an electric motor?
 
 If smoke starts coming out of the vents of an electric motor, it is important to first consider whether or not this motor is tied to a critical system, the operating conditions of the vessel and whether or not there is any redundancy to the motor. It would not be safe to denergize a smoking motor tied to the steering gear system in the case of maneuvering. So, if possible, the components for a secondary motor should be lined up and powered on before de-energizing the smoking motor as quickly as possible. On my vessel, I was instructed to first warn a licensed engineer if a motor was smoking and to only de-energize the motor if there were visible flames. After de-energizing, a dry chemical or $CO_2$ fire extinguisher might be used to extinguish the flames as these types of fire extinguishers are safe for use on electrical fires.
@@ -47,6 +58,8 @@ The $CO_2$ fixed fire extinguishing system is located on the upper deck near the
 
 11. In what condition should the bilge(s) be kept? Whose responsibility is it and who does the cleaning? How is bilge water handled while in port? While at sea?
 
+The bilge should ideally be kept clean and dry. However, this is not really possible in practice, so it should be kept as free as possible of oil and other flammable materials to minimize the danger of fire. On my ship, the bilge was the responsibility of the third engineer but the oilers did the bilge cleaning. Bilge water cannot be discharged while in port and must be pumped down to a bilge holding tank. This holding tank may be pumped overboard at sea nce the contents are treated with the oily water separator (OWS) to an oil content of less than 15 ppm such that it will not create a sheen.
+
 12. List and describe the remote emergency apparatus installed for use with the main propulsion plant. (Shut-off valves, reach rods, vents, screens, fill lines, etc.)
 
 13. If there were any mechanical problems to these devices while you were onboard, please list and describe? What periodic maintenance or repair(s) was done to these devices?
@@ -55,9 +68,13 @@ The $CO_2$ fixed fire extinguishing system is located on the upper deck near the
 
 15. List and describe the types of fire and smoke detecting equipment fitted in the engine room and accommodation spaces. Explain why one type of detector is chosen over another for a particular application.
 
+In the engine room, there were numerous detectors for various different zones. Certain zones had combination flame and smoke detectors and these were beneficial because they were highly resistant to false alarm and were thus used to trigger the fixed fire fighting system (water mist). Other zones had heat detectors because they were unlikely to elicit a false alarm when exposed to exhaust gases. In the accommodation spaces, smoke detectors were largely used because they are highly sensitive and would give an earlier warning than one of the combination measures. The major exception to this rule was the galley which used heat detectors instead of smoke detectors to avoid the false alarm from moisture from steam that might be created in the galley.
+
 16. How were each one of these types of detectors tested?
 
 17. What is meant by the term explosion proof? Provide examples of explosion proof equipment commonly found aboard ship.
+
+Explosion proof equipment is that which is designed to contain an explosion within without igniting a potentially explosive atmosphere around it. Some examples include engine room lighting, certain gas detectors, alarm bells and horns, and specific motors.
 
 18. What is meant by the term intrinsically safe? Provide examples of intrinsically safe equipment commonly found aboard ship.
 
@@ -65,15 +82,15 @@ Intrinsically safe devices are those which will not light off an explosive mixtu
 
 19. Did the vessel experience a fire while you were on board? If so, briefly explain what happened, how it was handled, and what was done to prevent such fires in the future, or lessons learned.
 
-NOT DONE
+Although a fire (unfortunately) did not occur during my time on the vessel, the engineers recounted some stories about times when fires did occur and describing the fear when it happened. The third used it as a learning experience for me to emphasize the correct way to handle a motor fire. First, he said to secure the motor, then grab the fire extinguisher and be sure to not allow the fire in the path of your escape or the alarm button.
 
 20. What would you do if you discovered a small fire below the deck plates? Explain your actions in fighting a fire in an engine room, up to and including using the fixed system. Be detailed and specific!
 
-NOT DONE
+If I discovered a small fire below the deck plates, my first action would be to raise the alarm. If a phone was nearby, I would call ECR. If a pull station was closer, I would use that. Although the fire is small, I would much rather start the process for getting help down to the fire sooner before trying to fight the fire myself. That way, if the fire grows or I discover a larger fire and I'm overwhelmed, there will be people there to assist me. If the fire was below the deck plates, it would more than likely be a class B fire. As such, I would find a class ABC dry chemical or $CO_2$ fire extinguisher and try to fight the fire from there. If that extinguisher was depleted and there was a hose station nearby and the fire was class A, I would use that. If the fire continues and likely contains liquid material, I would grab the aqueous film-forming foam applicator located on the first engine platform and use that on the fire after connecting it to the hose reel. If the fire is extinguished at any time, I would stay to watch to make sure the fire does not reignite. A fire is not out until it is cold and out. I would not use any of the fixed systems unless the fire was particularly intense. The water mist would be my first fixed system and would be activated from the panel inside of ECR. I would use this system because the implications of using this system are less significant than dropping the $CO_2$ system as the engine room zone where the fire is located can be selected. If the water mist system is ineffective, my final recourse would be to activate the $CO_2$ system (or rather, the Chief Engineer as he is the only one authorized to activate it). If this system were to be used, the entire engine room would need to be evacuated and sealed so a final muster would have to be taken outside of the engine room (likely at the lifeboat if this has become necessary) before the $CO_2$ could be dropped from Fire Control Room A.
 
 21. List and describe the sequential process of lowering a lifeboat. Explain the lifeboat lowering gear. How is the speed of descent controlled on a lifeboat when it is being lowered?
 
-NOT DONE
+On my vessel, we had a free fall lifeboat NOT DONE
 
 22. How many life rafts were installed on the vessel? What were their locations?
 

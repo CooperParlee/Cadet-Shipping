@@ -106,6 +106,8 @@ NOT DONE
 
 The Independence burned MGO, VLSFO and B30 biofuel. The viscosity of MGO at 40\deg C was determined via lab testing to be 3.3 cSt. The viscosities for VLSFO and B30 at 50\deg C are 171.4 cSt and 57 cSt respectively. At 100\deg C, they are 21.4 cSt and 10.7 cSt respectively. Given the low viscosity of MGO, the injection viscosity was not controlled. However, with the high viscosities for VLSFO and B30, these injection viscosities were controlled electronically with the Alfa Laval OPrem system. This system measured the viscosity and temperature of the fuel oil going to the engine and adjusted the amount of steam going to the fuel oil heaters. When switching to and from MGO and a residual fuel, the temperature was controlled manually by the OPrem system, not the viscosity. This was because the MGO was not to be heated above 85\deg C.
 
+ADD VISCOCHIEF PICTURE
+
 27.	Describe in detail the process of getting the propulsion plant ready for departure and arrival. This is not the same as question #9.
 
 NOT DONE

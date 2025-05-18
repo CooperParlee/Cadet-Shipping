@@ -2,8 +2,7 @@ Part 2A Main Propulsion, Diesel or Diesel Electric
 
 1.	List and describe the main propulsion diesel engine(s) on your ship in detail including size, speed, power, cycle, type drive, reversing method, control, and the timing of events.
 
-The Doosan MAN B&W 7S60MC-C Mk7 main propulsion diesel engine of the ARC Independence is a two-stroke single-acting crosshead diesel engine rated for 21,490 BHP (15820 KW) at 105 RPM. With this engine the vessel could make 14 kts at full ahead. The total displacement was 4,753 liters
-NOT DONE
+The Doosan MAN B&W 7S60MC-C Mk7 main propulsion diesel engine of the ARC Independence is a two-stroke single-acting direct-drive, direct reversing crosshead diesel engine rated for 21,490 BHP (15820 KW) at 105 RPM. With this engine the vessel could make 14 kts at full ahead. The total displacement was 4,753 liters. The firing order of the engine was 1-7-2-5-4-3-6.
 
 2.	What is the designation of the main propulsion unit?	Explain its meaning (e.g. Wartsila 6L20).
 
@@ -59,6 +58,7 @@ NOT DONE
 
 15.	Explain how to check the L.O. level. When and how often was this done? Explain how to add oil to the engine.
 
+The main engine L.O. level was checked at the main engine lube oil head tank two levels above the engine room via a staircase on the port side. This level was checked at the beginning of the day during the oiler round or whenever any alarms for lube oil went off. Additionally, it was continuously monitored by the Kongsberg system via a sensor in the main engine system oil sump tank.
 NOT DONE
 
 16.	What is meant by "supercharging or turbocharging"? Explain how this is accomplished on your plant.
@@ -71,6 +71,7 @@ NOT DONE
 
 18.	Fully describe the starting system equipment and its operation.
 
+Starting with the compressors, the two Sperre HV2 compressors kept the two Kumkang 7,000L start air reservoirs pressurized to 30 bar.  
 NOT DONE
 
 19.	What is "tappet clearance” or “valve lash" and how is it adjusted on the intake/exhaust valves?
@@ -83,7 +84,7 @@ NOT DONE
 
 21.	List and describe the air compressors on your ship, including their type, number, size, pressures, and what the air is used for.
 
-For the main engine start air, there are two Sperre HV2 4-cylinder V-type reciprocating compressors with a capacity of 250 $m^3/hr$ rated for a pressure of 30 bar. 
+For the main engine start air, there are two Sperre HV2 4-cylinder V-type reciprocating compressors with a capacity of 250 $m^3/hr$ rated for a pressure of 30 bar. The compressed air is used for starting the main engine. There is also a much smaller Sperre HL2/77 2-cylinder V-type reciprocating compressor rated at 20 $m^3/hr$ at 30 bar used for producing start air for the diesel generators during the event of a plant blackout. This compressor is the only one on the emergency bus. The last air compressor was the Atlas Copco GA37FF working air compressor. It also provided control air after that air traveled through a drier.
 
 22.	If the main engines could be controlled from the bridge, list in order the process of transferring control from engine control room to bridge. List precautions.
 
@@ -103,7 +104,7 @@ NOT DONE
 
 26.	What is the viscosity of the fuels used on board? Was the injection viscosity controlled? If so, explain this process.
 
-NOT DONE
+The Independence burned MGO, VLSFO and B30 biofuel. The viscosity of MGO at 40\deg C was determined via lab testing to be 3.3 cSt. The viscosities for VLSFO and B30 at 50\deg C are 171.4 cSt and 57 cSt respectively. At 100\deg C, they are 21.4 cSt and 10.7 cSt respectively. Given the low viscosity of MGO, the injection viscosity was not controlled. However, with the high viscosities for VLSFO and B30, these injection viscosities were controlled electronically with the Alfa Laval OPrem system. This system measured the viscosity and temperature of the fuel oil going to the engine and adjusted the amount of steam going to the fuel oil heaters. When switching to and from MGO and a residual fuel, the temperature was controlled manually by the OPrem system, not the viscosity. This was because the MGO was not to be heated above 85\deg C.
 
 27.	Describe in detail the process of getting the propulsion plant ready for departure and arrival. This is not the same as question #9.
 

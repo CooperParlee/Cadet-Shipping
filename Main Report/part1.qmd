@@ -31,7 +31,7 @@ NOT DONE
 
 4.  What are the USCG regulations regarding boat and fire drill? Provide the CFR Reference. What were your assigned duties for Fire AND Boat Drills? What were the instructions you received at your boat station?
 
-US Coast Guard regulations concerning safety drills are listed under CFR 46 § 199.180 Training and drills. It indicates that "Every crewmember must participate in at least one abandon-ship drill and one fire drill every month," and that a drill "must take place within 24 hours of the vessel leaving a port if more than 25 percent of the crew have not participated in abandon-ship and fire drills on board." From subsection d, abandon-ship drills, boat drills must include mustering everyone at their muster stations, the use of the general alarm and relevant PA system, ensuring that everyone is properly dressed, correct donning of life jackets and immersion suits, the lowering of at least one lifeboat, starting of the lifeboat engine and the operation of davits used for launching the life rafts. From subsection f, fire drills must include reporting to muster stations, starting of the fire pumps and the use of at least two hoses (jets) to determine that the system is working, inspection of the proper donning of turnout gear, checking communication equipment, ensuring the proper operation of watertight doors, fire doors and fire dampers, and checking for the proper arrangements for a subsequent abandonment of the vessel. I did not have any specific duties for fire or boat drills beyond "assist as directed." Despite being an engineer, I was instructed to muster at the bridge for both fire and boat drills. At my boat station, we were instructed to don life jackets and then on how to prepare the lifeboat for lowering. 
+US Coast Guard regulations concerning safety drills are listed under CFR 46 § 199.180 Training and drills. It indicates that "Every crewmember must participate in at least one abandon-ship drill and one fire drill every month," and that a drill "must take place within 24 hours of the vessel leaving a port if more than 25 percent of the crew have not participated in abandon-ship and fire drills on board." From subsection d, abandon-ship drills, boat drills must include mustering everyone at their muster stations, the use of the general alarm and relevant PA system, ensuring that everyone is properly dressed, correct donning of life jackets and immersion suits, the lowering of at least one lifeboat, starting of the lifeboat engine and the operation of davits used for launching the life rafts. From subsection f, fire drills must include reporting to muster stations, starting of the fire pumps and the use of at least two hoses (jets) to determine that the system is working, inspection of the proper donning of turnout gear, checking communication equipment, ensuring the proper operation of watertight doors, fire doors and fire dampers, and checking for the proper arrangements for a subsequent abandonment of the vessel. I did not have any specific duties for fire or boat drills beyond "assist as directed." Despite being an engineer, I was instructed to muster at the bridge for both fire and boat drills. At my boat station, we were instructed to don life jackets and then on how to prepare the lifeboat for lowering.
 
 NOT DONE
 
@@ -42,7 +42,7 @@ Our ship had MSA-brand SCBA that was stored in both fire room A and B, and the e
 
 7.  List and describe the safety equipment you received instructions about.
 
-I received instruction on 
+I received instruction on life jackets, fire extinguishers, fire hoses, the life boat and immersion suits while aboard the ARC Independence. For life jackets and immersion suits, I was instructed on how to don them during a fire and boat drill. With regards to fire extinguishers, I was reminded of the types of fire extinguishers available, where to locate them and the "Pull-Aim-Squeeze-Sweep" technique for fighting fires. The life boat was really the only piece of equipment that I was previously unfamiliar with because this ship had a free-fall davit. In this life boat, the seats were facing backwards, which the third mate explained was to minimize whiplash.
 
 8.  What procedure should be followed if smoke starts coming from the vents of an electric motor?
 
@@ -62,7 +62,11 @@ The bilge should ideally be kept clean and dry. However, this is not really poss
 
 12. List and describe the remote emergency apparatus installed for use with the main propulsion plant. (Shut-off valves, reach rods, vents, screens, fill lines, etc.)
 
+The remote emergency apparatus installed for use with the main propulsion plant included electronic fuel oil shut off valves activated via the red emergency engine stop button in the ECR and the pneumatically actuated quick-closing valves that could be activated in fire locker A. The quick closing valves would immediately cut fuel to the engine; aux boiler and generators; or lube oil to the all of the above depending on which quick-closing zone was actuated.
+
 13. If there were any mechanical problems to these devices while you were onboard, please list and describe? What periodic maintenance or repair(s) was done to these devices?
+
+No major mechanical issues occurred to these devices while onboard; however, the first engineer noted that the quick closing valve to the diesel generators leaked by a little bit when activated. The periodic maintenance to the quick closing valve consisted of actuating the valve regularly (every Sunday) and tightening the linkages.
 
 14. What are the USCG regulations under which each of these emergency apparatuses are covered? List the articles.
 
@@ -74,7 +78,7 @@ In the engine room, there were numerous detectors for various different zones. C
 
 17. What is meant by the term explosion proof? Provide examples of explosion proof equipment commonly found aboard ship.
 
-Explosion proof equipment is that which is designed to contain an explosion within without igniting a potentially explosive atmosphere around it. Some examples include engine room lighting, certain gas detectors, alarm bells and horns, and specific motors.
+Explosion proof equipment is that which is designed to contain an explosion within it without igniting a potentially explosive atmosphere around it. Some examples include engine room lighting, certain gas detectors, alarm bells and horns, and specific motors.
 
 18. What is meant by the term intrinsically safe? Provide examples of intrinsically safe equipment commonly found aboard ship.
 
@@ -98,6 +102,6 @@ There were four life rafts installed on the vessel. They were located forward of
 
 23. Explain the purpose of a hydrostatic release used in conjunction with an inflatable life raft.
 
-A hydrostatic release on an inflatable life raft will automatically release and inflate the life raft and cause it to float free of the vessel once it is submerged below the water. This is helpful in the event that someone was not able to free a life raft in time
+A hydrostatic release on an inflatable life raft will automatically release and inflate the life raft and cause it to float free of the vessel once it is submerged below the water. This is helpful in the event that someone was not able to free a life raft in time.
 
 DRAWINGS - NONE

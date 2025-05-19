@@ -1,0 +1,35 @@
+---
+format:
+    html: 
+        code-fold: false
+    pdf:
+        papersize: letter
+        number-sections: false
+        colorlinks: true
+        highlight-style: github
+        sansfont: Latin Modern Roman
+editor: visual
+---
+
+## Part 3 Auxiliary Boilers or Continuation of Main Propulsion Boilers (As Applicable)
+
+1.	List and describe the fuel oil service system and operation, including atomizers.
+2.	List the name plate data for the boilers, service pumps and auto-combustion unit. List and describe the feed water reheating process from the hot well to boiler.
+3.	List and describe the soot blowers, if applicable. Include each type and its operation, and procedure for “soot blowing”. If soot blowers are not utilized, how was accumulation of soot removed from tubes?
+4.	What is the procedure for lighting fires in a dead boiler, raising steam, and paralleling this boiler with already one in service.
+5.	How do you change from "auto" to "manual" on the ACC system? How do you vary the combustion rate when in "manual" position?
+6.	List and describe the safety valves used with your boilers, including type and operation.
+7.	What actions are taken if the water level in a boiler sight glass goes out of sight, High/Low?
+8.	Describe the actions needed if a low water level is experienced in a steaming boiler.
+9.	Provide an explanation of how boiler operation is controlled when maneuvering.
+10.	Give a basic description of the Automatic Combustion Control (ACC) system and its operation.
+11.	List and describe the feed water regulator(s) utilized on the boiler and their operation? If the feed water regulator is not used, how is water level regulated or maintained?
+12.	Explain how to cut in and cut out a feed water regulator.
+13.	What is the proper procedure for making up a boiler gauge glass? Explain how to remove and install a gauge glass on the boiler.
+14.	What boiler water treatment was used? How is oxygen, salinity, alkalinity, TDS, and pH maintained.
+15.	Describe the boiler maintenance program. What maintenance activities were performed on the boilers during your stay on board.
+16.	What type of air heaters/economizers does the boiler have? What special operating instructions existed?
+17.	What type of feed water pumps were used? Give a description of each.
+18.	Provide the procedure(s) to align, start and place into operation the main feed pump(s)?
+19.	Explain how to vary and control the capacity of the main feed pumps.
+20.	What safety and operating precautions should be observed for the feed pumps?

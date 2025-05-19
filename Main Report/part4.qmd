@@ -1,0 +1,28 @@
+---
+format:
+    html: 
+        code-fold: false
+    pdf:
+        papersize: letter
+        number-sections: false
+        colorlinks: true
+        highlight-style: github
+        sansfont: Latin Modern Roman
+editor: visual
+---
+
+## Part 4 Electrical (All Vessels)
+
+1.	Provide a detailed explanation of how a generator is started and then paralleled to the electrical bus.
+2.	List the electrical generator name plate data and the number of units.
+3.	How are the lighting circuits supplied with power?
+4.	What signals/causes the emergency generator to start during an emergency? Does it start automatically? How is it secured? Describe in detail.
+5.	What prevents the emergency generator switchboard from paralleling with the main bus during normal operation?
+6.	What equipment protects the ship's lighting circuits, power circuits and generators from overloads, low voltage, etc.?
+7.	How are vital and non-vital circuits differentiated/identified on your ship? How are nonvital loads removed from the bus if needed?
+8.	List and describe the method used to clean generator internal components and/or electric motors. Ensure you include a full description of how you would perform lockout/tagout for this maintenance.
+9.	Give a detailed list of what you would check when inspecting a generating set aboard your ship while standing watch at sea. Be sure to include information on the prime mover as well as the electrical generator.
+10.	What is a "reverse power" trip? Where is it located, and how often is it tested? List and describe its operating principle.
+11.	Provide a list of your ship’s equipment that uses batteries for backup or starting. What type of batteries are they? What routine maintenance is done on them?
+12.	With reference to generators, what is "excitation"?	How were the generators “excited”?
+13.	What class of insulation was used on the generators? What is meant by "megger testing", and what are satisfactory test results? What were the most recent results on your ship?

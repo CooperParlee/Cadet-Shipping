@@ -3,3 +3,7 @@
 .docx
 .pdf
 "Main Report/part1_files/*"
+.css
+.woff
+.js
+.min.js

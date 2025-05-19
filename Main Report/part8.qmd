@@ -1,0 +1,24 @@
+## Part 8 Fresh Water Generating Plants/Supply Systems (All Vessels)
+
+1.	For ships equipped with evaporators (such as Nyrex or flash type), describe how sea water is pumped into the evaporator, how the water level is maintained, how heat for the evaporator is provided, what the operating pressure is in the evaporator shell, and how the shell is protected against excess pressure.
+
+Sea water is pumped into the evaporator from the main sea water system. It would draw water from whatever sea chest was open at that time and pumped through several strainers before it reached the evaporator. The water level is maintained by the ejector pump which pulls fresh water out of the Nyrex as it condenses in addition to maintaining the vacuum. The heat for the evaporator is provided by the main engine jacket water system (or the "HT" loop as it was called on my ship). The shell pressure was maintained between 70 MPa and 85 MPa.
+
+NOT DONE
+
+2.	Provide a detailed report on the starting and operating procedures for each type of fresh water generating plant (reverse osmosis/evaporator/distilling unit) on board.
+3.	What chemicals are used to treat the seawater feed to the water generating plants and what is the purpose of these chemicals?
+
+The Nyrex system used a chemical called Vaptreat 
+
+4.	Describe the operation of the salinity cells and dump valve. What is the maximum salinity allowed in the water produced in each type of freshwater generator? What actions would you take if it was exceeded?
+5.	What maintenance is periodically performed on each type of fresh water generating plant?
+6.	For ships equipped with Reverse Osmosis plant, describe is operation and maintenance. Provide operating pressures, number of stages, type of pump(s) used, post treatment if any, type filtration if any, anti-scalant dosage, and backwash operation if used.
+7.	How is potable water treated prior to consumption?
+
+Potable water originates in the Nyrex as distilled water. From the Nyrex, it is run through one set of UV sterilizers before it is sent to the fresh water tanks. After being produced by the Nyrex, most of the minerals from the water have been removed, so the water is not drinkable for long periods of time. As such, the water must be remineralized. To do this, water is pumped from the fresh water tanks and then travels through both an activated carbon filter, then through a rehardening filter. With the minerals restored, the water travels through another set of two UV sterilizers before it is sent to the ship.
+
+8.	What records are maintained for freshwater generating plants?
+9.	What actions did watch/duty engineers take to maintain proper freshwater production?
+10.	Briefly describe the types and list the capacities of the various water tanks on your ship.
+

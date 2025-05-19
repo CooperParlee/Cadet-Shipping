@@ -85,3 +85,14 @@ Sundays are generally "days off" for the engineers where they work an abbreviate
 ![Note: LT/Central Sea Water heat exchanger](Pictures/log/day8/heat_ex_sw.PNG)
 ![Note: New sea creature discovered?](Pictures/log/day8/strainer_sea_creature.PNG)
 ![Note: Strainer basket removed](Pictures/log/day8/strainer_rem.PNG) 
+
+### Day 9: 5/19
+
+After an easier day yesterday, it was back to work today. My morning began by doing a continuation of the battery testing that I started on day 6. Instead of measuring the voltages of the batteries, I instead connected an inductive load to the battery (called the load tester) and measured the battery voltage while loaded.
+
+![Note: Battery load tester "electric cheese grater"](Pictures/log/day9/electric_cheese_grater.PNG)
+
+Afterwards, all of the engineers received training on both the oily water separator (OWS) and how to start up the plant after a blackout. Apparently, the Independence is so automated that it can basically start up most of the plant independently, pun intended. Still, we went back to basics and both the third engineer and I had the opportunity to manually start the generators and parallel them with the bus. As far as the oily water separator goes, the chief engineer pulled me aside and gave me a full rundown on OWS operation and really dispelled many fears about the system. I learned that it is the addition of significant heat that causes the oil and the water to separate. In the afternoon, the third engineer and I load tested both of the generators and compiled Teknomar reports to submit to the company. After which point, we used pulverized walnuts to clean the exhaust gas turbocharger turbine and water to clean the intake side. 
+
+![Note: Walnut polishing tool "nut blaster"](Pictures/log/day9/nut_blaster.PNG)
+![Note: Polishing tool inserted into diesel generator](Pictures/log/day9/nuts_penetrating.PNG)

@@ -14,6 +14,11 @@ editor: visual
 ## Part 4 Electrical (All Vessels)
 
 1.	Provide a detailed explanation of how a generator is started and then paralleled to the electrical bus.
+
+Generally, a diesel generator was started automatically by the Kongsberg load management program with minimal intervention from the engineers. It could be manually started from the Kongsberg screen by clicking on the generator and clicking connect. However, to manually connect a generator, it could be connected from the Main Switchboard Room. First, you must switch the control mode for the generator to local control. Next, pull out and turn the generator start switch to the start position and listen for the sound of the generator starting up. Once it is started, the switch can be disengaged. Now, go to the bus panel and select the generator you want to start up from the synchroscope menu. Adjust the governor speed from that panel for the generator you want to add to the bus such that the lights are moving "slow in the fast direction." Then, 3 minutes to midnight, pull out the generator bus tie switch and turn it to the closed position (praying is optional here). If you did everything right, the generator should be connected to the grid, but it is not really sharing the load. Grab the governor speed switches for the generators that are on the bus. Turn the switch to the generator that was previously on the bus to the lower position while raising the new generator. Keep a careful eye on the frequency of the bus and then adjust the speed as necessary to ensure that it stays as close to 60.0 Hz as possible. Continue this process until the loads on the two generators are roughly even, you can tell by looking at the the two ammeters for the respective generators.
+
+ADD PICTURE
+
 2.	List the electrical generator name plate data and the number of units.
 3.	How are the lighting circuits supplied with power?
 4.	What signals/causes the emergency generator to start during an emergency? Does it start automatically? How is it secured? Describe in detail.
@@ -22,7 +27,7 @@ editor: visual
 7.	How are vital and non-vital circuits differentiated/identified on your ship? How are nonvital loads removed from the bus if needed?
 8.	List and describe the method used to clean generator internal components and/or electric motors. Ensure you include a full description of how you would perform lockout/tagout for this maintenance.
 9.	Give a detailed list of what you would check when inspecting a generating set aboard your ship while standing watch at sea. Be sure to include information on the prime mover as well as the electrical generator.
-10.	What is a "reverse power" trip? Where is it located, and how often is it tested? List and describe its operating principle.
+10.	What is a "reverse power" trip? Where is it located, and how often is it tested? List and describe its operating principle.`
 11.	Provide a list of your ship’s equipment that uses batteries for backup or starting. What type of batteries are they? What routine maintenance is done on them?
 12.	With reference to generators, what is "excitation"?	How were the generators “excited”?
 13.	What class of insulation was used on the generators? What is meant by "megger testing", and what are satisfactory test results? What were the most recent results on your ship?

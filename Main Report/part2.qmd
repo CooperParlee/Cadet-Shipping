@@ -63,7 +63,13 @@ NOT DONE
 
 16.	What is meant by "supercharging or turbocharging"? Explain how this is accomplished on your plant.
 
-Turbocharging and supercharging function to raise the effective scavenging pressure of the engine to increase efficiency and power of the main engine. In a turbocharger, the force due to the pressure of the exhaust gases is used to turn the blades of the turbocharger impeller. The work produced my turning this impeller is used to turn the intake-side impeller, raising the intake pressure and forcing more air into the cylinders of the engine. Turbocharging is not a parasitic draw. Supercharging is the process of using engine work to drive a blower to force air into the engine. It is considered a parasitic draw because it removes some shaft horsepower from the engine to drive the blower, however, it also increases the overall power of the engine. On the ARC Independence, the main engine was both turbocharged and supercharged. The turbo is driven by the exhaust gas and is used to force air from the surrounding engine room into the charge air cooler. After the charge air cooler are electrically-driven auxiliary blowers. These can further increase the scavenge air pressure going into the engine but are not entirely necessary to the operation of the plant. ADD PICTURE
+Turbocharging and supercharging function to raise the effective scavenging pressure of the engine to increase efficiency and power of the main engine. In a turbocharger, the force due to the pressure of the exhaust gases is used to turn the blades of the turbocharger impeller. The work produced my turning this impeller is used to turn the intake-side impeller, raising the intake pressure and forcing more air into the cylinders of the engine. Turbocharging is not a parasitic draw. Supercharging is the process of using engine work to drive a blower to force air into the engine. It is considered a parasitic draw because it removes some shaft horsepower from the engine to drive the blower, however, it also increases the overall power of the engine. On the ARC Independence, the main engine was both turbocharged and supercharged. The turbo is driven by the exhaust gas and is used to force air from the surrounding engine room into the charge air cooler. 
+
+![Main engine forward turbocharger](Pictures/part2/me_turbo.png)
+
+After the charge air cooler are electrically-driven auxiliary blowers. These can further increase the scavenge air pressure going into the engine but are not entirely necessary to the operation of the plant except in conditions with little exhaust gas pressure when the engine is not at high enough speed (such as maneuvering). ADD PICTURE
+
+![Main engine aftermost blower/supercharger](Pictures/part2/blower.png)
 
 17.	Give a full description of the complete cooling water system, including any seawater or Closed Fresh Water circuits.
 
@@ -84,7 +90,17 @@ NOT DONE
 
 21.	List and describe the air compressors on your ship, including their type, number, size, pressures, and what the air is used for.
 
-For the main engine start air, there are two Sperre HV2 4-cylinder V-type reciprocating compressors with a capacity of 250 $m^3/hr$ rated for a pressure of 30 bar. The compressed air is used for starting the main engine. There is also a much smaller Sperre HL2/77 2-cylinder V-type reciprocating compressor rated at 20 $m^3/hr$ at 30 bar used for producing start air for the diesel generators during the event of a plant blackout. This compressor is the only one on the emergency bus. The last air compressor was the Atlas Copco GA37FF working air compressor. It also provided control air after that air traveled through a drier.
+For the main engine start air, there are two Sperre HV2 4-cylinder V-type reciprocating compressors with a capacity of 250 $m^3/hr$ rated for a pressure of 30 bar. The compressed air is used for starting the main engine. 
+
+![Sperre HV2 air compressor]()
+
+There is also a much smaller Sperre HL2/77 2-cylinder V-type reciprocating compressor rated at 20 $m^3/hr$ at 30 bar used for producing start air for the diesel generators during the event of a plant blackout. This compressor is the only one on the emergency bus. 
+
+![Sperre HL2/77](Pictures/part2/estart_air.PNG)
+
+The last air compressor was the Atlas Copco GA37FF screw-type working air compressor rated for 7.1 $m^3/hr$ at 7.5 bar. It also provided control air after that air traveled through a drier. It is important to note that the chief on my vessel chose to use the crossover from the start air lines to provide control air because he felt that it provided higher capacity, but the previous chief felt that control air should be provided by the working air compressor.
+
+![Atlas Copco GA37FF](Pictures/part2/working_air.PNG)
 
 22.	If the main engines could be controlled from the bridge, list in order the process of transferring control from engine control room to bridge. List precautions.
 
@@ -106,7 +122,7 @@ NOT DONE
 
 The Independence burned MGO, VLSFO and B30 biofuel. The viscosity of MGO at 40\deg C was determined via lab testing to be 3.3 cSt. The viscosities for VLSFO and B30 at 50\deg C are 171.4 cSt and 57 cSt respectively. At 100\deg C, they are 21.4 cSt and 10.7 cSt respectively. Given the low viscosity of MGO, the injection viscosity was not controlled. However, with the high viscosities for VLSFO and B30, these injection viscosities were controlled electronically with the Alfa Laval OPrem system. This system measured the viscosity and temperature of the fuel oil going to the engine and adjusted the amount of steam going to the fuel oil heaters. When switching to and from MGO and a residual fuel, the temperature was controlled manually by the OPrem system, not the viscosity. This was because the MGO was not to be heated above 85\deg C.
 
-ADD VISCOCHIEF PICTURE
+![Note: Viscochief, the control system used to maintain fuel oil viscosity](Pictures/part2/Viscochief.PNG)
 
 27.	Describe in detail the process of getting the propulsion plant ready for departure and arrival. This is not the same as question #9.
 

@@ -1,3 +1,16 @@
+---
+format:
+    html: 
+        code-fold: false
+    pdf:
+        papersize: letter
+        number-sections: false
+        colorlinks: true
+        highlight-style: github
+        sansfont: Latin Modern Roman
+editor: visual
+---
+
 ## Part 8 Fresh Water Generating Plants/Supply Systems (All Vessels)
 
 1.	For ships equipped with evaporators (such as Nyrex or flash type), describe how sea water is pumped into the evaporator, how the water level is maintained, how heat for the evaporator is provided, what the operating pressure is in the evaporator shell, and how the shell is protected against excess pressure.
@@ -9,16 +22,22 @@ NOT DONE
 2.	Provide a detailed report on the starting and operating procedures for each type of fresh water generating plant (reverse osmosis/evaporator/distilling unit) on board.
 3.	What chemicals are used to treat the seawater feed to the water generating plants and what is the purpose of these chemicals?
 
-The Nyrex system used a chemical called Vaptreat 
+The Nyrex system used a chemical called Vaptreat. This chemical was marketed as an all-in-one evaporator treatment chemical and was owned by the parent company Wilhelmsen. Allegedly, it is a scale-prevention additive and an anti-foaming additive. The scale prevention prevents the ions in the salt water from settling out onto the heat exchange surfaces and reducing heat exchanger effectiveness. This increases the amount of time between evaporator cleanings. The anti-foaming additives prevent the salt water from foaming up and potentially carrying over as bubbles into the distillate. This reduces the chances of the presence of bacteria and the solute concentration in the distillate. 
 
 4.	Describe the operation of the salinity cells and dump valve. What is the maximum salinity allowed in the water produced in each type of freshwater generator? What actions would you take if it was exceeded?
 5.	What maintenance is periodically performed on each type of fresh water generating plant?
 6.	For ships equipped with Reverse Osmosis plant, describe is operation and maintenance. Provide operating pressures, number of stages, type of pump(s) used, post treatment if any, type filtration if any, anti-scalant dosage, and backwash operation if used.
+
+Since my vessel was not equipped with a reverse osmosis plant, I am unable to speak to the specifics of my vessel. Generally, reverse osmosis plants operate by using a high pressure pump to produce high pressures at the surface of a fairly large membrane. The pores in the membrane are large enough to let water through, but small enough and polarized to not allow ions (salt) to travel through the membrane. As such, permeate (fresh water with much lower salinity) accumulates on the opposite end of the membrane leaving behind a much saltier water on the other side called brine. An RO plant will generally operate between 25 to 65 bar and as such will require a high-pressure pump (such as a piston or multi-staged centrifugal pump). The output of the water must receive some sort of post treatment such as UV sterilization or chlorination/bromination as the water has not reached temperatures that are safe to drink. It is generally necessary to use a fine filter before the RO unit because debris can damage the membrane and this filter should be backwashed to prevent debris from migrating through the filter and risking damage to the RO membrane. Additionally, since this water from the RO unit produces permeate to a relatively high concentration of solutes, an anti-scalant must be added if it is to be used as makeup water for equipment. This is less of an issue for use as potable water.
+
 7.	How is potable water treated prior to consumption?
 
-Potable water originates in the Nyrex as distilled water. From the Nyrex, it is run through one set of UV sterilizers before it is sent to the fresh water tanks. After being produced by the Nyrex, most of the minerals from the water have been removed, so the water is not drinkable for long periods of time. As such, the water must be remineralized. To do this, water is pumped from the fresh water tanks and then travels through both an activated carbon filter, then through a rehardening filter. With the minerals restored, the water travels through another set of two UV sterilizers before it is sent to the ship.
+Potable water originates in the Nyrex as distilled water. From the Nyrex, it is run through one set of UV sterilizers before it is sent to the fresh water tanks. After being produced by the Nyrex, most of the minerals from the water have been removed, so the water is not drinkable for long periods of time. As such, the water must be remineralized. To do this, water is pumped from the fresh water tanks and then travels through both an activated carbon filter, then through a rehardening filter. With the minerals restored, the water travels through another set of two UV sterilizers before it is sent to the accommodation spaces for drinking.
 
 8.	What records are maintained for freshwater generating plants?
 9.	What actions did watch/duty engineers take to maintain proper freshwater production?
+
+My vessel was highly automated so we only had duty engineers. Given the level of automation on this system, very few steps had to be taken to maintain freshwater production. To make sure we had adequate freshwater reserves, duty engineers would run the Nyrex pretty much continuously for our Atlantic crossing to fill up both the port and starboard fresh water tanks. The only steps they would take would be to check the treatment tank at the beginning of the day and add Vaptreat as necessary but the feed of this into the system was regulated by a dosing pump next to the Nyrex. The system would automatically alarm if the concentration of the solution exceeded 5ppm and the engineers would have to go dump that water to the bilge via a set of manually-actuated valves. Additionally, the system would alarm if the photocell in the UV sterilizers detected that no UV light was being produced but this did not happen while I was on the vessel. As needed, the Nyrex would be de-scaled with Descalex (also by the parent company Wilhelmsen) after it was isolated from the system, but this did not happen while I was on the vessel.
+
 10.	Briefly describe the types and list the capacities of the various water tanks on your ship.
 

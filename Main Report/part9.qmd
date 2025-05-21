@@ -1,0 +1,48 @@
+---
+format:
+    html: 
+        code-fold: false
+    pdf:
+        papersize: letter
+        number-sections: false
+        colorlinks: true
+        highlight-style: github
+        sansfont: Latin Modern Roman
+editor: visual
+---
+
+Part 9 Engine Room Records and Watch Standing Practices (All Vessels)
+
+1.	List and describe in detail the duties of the assistant engineers on your vessel, with emphasis on the third assistant’s role. What, if any, of these duties were you allowed to perform?
+2.	List and describe how fuel remaining on board is calculated. What are the various tables used? How are corrections made to these figures (for trim, heel, and temperature)?
+3.	List and describe the system used to keep track of spare parts on the vessel. If no system was used on your ship, describe how a system might be instituted.
+4.	What is meant by the term "trend analysis"? How does this relate to engine room records? Explain how trend analysis was conducted on your ship, including equipment analyzed, and how often.
+5.	What process was used to track operating hours on the main propulsion unit and its associated equipment between overhauls?
+6.	Explain how maintenance performed on the main propulsion units was recorded, including bearing clearances, limitations, tests performed and inspection results.
+7.	Explain how maintenance was scheduled.
+8.	List and describe what type of records were maintained on fuel oil, fresh water, lube oil, and feed water carried and consumed.
+9.	Fill out a typical noon report (or a midnight report if used on your ship).
+10.	Provide a reproduced and completed page of the engine room logbook for one underway watch.
+11.	Provide a reproduced and completed oiler's round of temperatures and pressures for one underway watch.
+12.	In detail, describe the process of taking over a watch at sea. Also, describe what actions you would take to make a complete round of the engine room during a watch at sea. Or, if there was not a watch procedure, describe in detail how you would go about assuming the DUTY for the day in an unmanned engine room.
+13.	What information is found in the engineer’s turnover reports/notes to their relief counterpart(s)? Describe the company’s policy for these reports. Are they saved or shared?
+14.	Sequentially list the steps in the fuel bunkering process. How are bunker samples drawn for testing purposes? What tests were done on board? Attach a copy of a bunker specification report and a bunker test report.
+15.	If your vessel has a fuel quality testing program, briefly explain the operation of the system.
+16.	How often was lubricating oil tested on board? What tests are performed?
+17.	How often were lube samples sent ashore for testing?	List tests performed. (Attach copy of oil analysis sheet if available).	Explain the significance of each test.
+ 
+18.	Explain how the lube test samples were obtained, including sample point location, for equipment that was tested.
+19.	What is the make and model number of the fuel and lube oil purifiers used?
+20.	Discuss in detail any operational problem encountered with a fuel or lube oil purifier while you were onboard. If no problems were encountered, possibly the engineers could provide you with some working history – good or bad – of the purifiers.
+21.	List typical entries found in an oil record book. When are entries required? Who must sign and review the book?
+22.	Sludge and other oily waste typically find their way into a sludge tank. Describe the process of sludge conditioning and disposal methods employed.
+23.	Provide name plate data for the oil/water separator (OWS).
+24.	List and describe in detail how the oily bilge separator functions. What are the USCG requirements for oil/water separators? List the articles.
+
+The oily bilge water separator functions by drawing a suction from the clean bilge tank. Oily water travels first through a plate type heat exchanger with steam on the other side. The water is heated to drastically increase the propensity that it will separate within the coalescing filter in the next step. In the coalescing filter, dirty bilge water is admitted from the side and is allowed to separate via the differences in specific gravities between the oil and the water. The oil will travel to the top of the column and clean water will travel to the bottom. 
+
+25.	Who runs the Oily Water Separator (OWS)? How often is it placed in service? What are the maintenance procedures for the OWS?
+
+Only the chief was authorized by the company to run the oily water separator. All of the engine room duty engineers (including myself) were authorized to watch the OWS while it was running so the chief could leave, but the engine room could not remain in an unmanned status under the running of the OWS and only the chief was authorized to start the unit. The unit was only placed into service once during a training/test exercise in my time on the vessel, so very rarely. Generally, the ship pumped oily water as slops in port since it was preferable to the company to expend additional money to not separate the water themselves (given some legal troubles they were involved in several years ago over improper oily waste disposal). The chief could submit paperwork to authorize him to use the OWS. The maintenance procedures for the OWS included regularly cleaning the OWS "eye" which determined the concentration of oil within the system and cleaning and removing the water outlet pipe yearly for the Coast Guard inspection.
+
+26.	Provide name plate data for the sewage treatment unit. Explain its operation.

@@ -97,7 +97,7 @@ The flame eye detectors were tested by using a UV flashlight directed at the det
 
 ![UV flashlight](Pictures/part1/uv_tester.PNG)
 
-The smoke detectors were tested using a Testifire combination smoke and heat testing tool. To test one of the combination systems, you were able to trigger one detector at a time as the detector would stay alarmed even after the stimulus was removed. For the heat detectors in the galley, the Testifire tool was also used but this did not happen while I was onboard the vessel. 
+The smoke detectors were tested using a Testifire combination smoke and heat testing tool. To test one of the combination systems, you were able to trigger one detector at a time as the detector would stay alarmed even after the stimulus was removed. For the heat detectors in the galley, the Testifire tool is also used but this did not happen while I was onboard the vessel. 
 
 ![Testifire smoke and fire tester tool](Pictures/part1/comb_tester.PNG)
 
@@ -128,5 +128,3 @@ There were four life rafts installed on the vessel. They were located forward of
 23. Explain the purpose of a hydrostatic release used in conjunction with an inflatable life raft.
 
 A hydrostatic release on an inflatable life raft will automatically release and inflate the life raft and cause it to float free of the vessel once it is submerged below the water. This is helpful in the event that someone was not able to free a life raft in time.
-
-DRAWINGS - NONE

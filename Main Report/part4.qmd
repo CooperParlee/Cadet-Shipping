@@ -23,6 +23,9 @@ ADD PICTURE
 3.	How are the lighting circuits supplied with power?
 4.	What signals/causes the emergency generator to start during an emergency? Does it start automatically? How is it secured? Describe in detail.
 5.	What prevents the emergency generator switchboard from paralleling with the main bus during normal operation?
+
+Normal operation for my vessel dictates the use of the Kongsberg electrical load management system. The emergency diesel generator is not managed by the Kongsberg load system and as such will not automatically be paralleled with the main bus. 
+
 6.	What equipment protects the ship's lighting circuits, power circuits and generators from overloads, low voltage, etc.?
 7.	How are vital and non-vital circuits differentiated/identified on your ship? How are nonvital loads removed from the bus if needed?
 8.	List and describe the method used to clean generator internal components and/or electric motors. Ensure you include a full description of how you would perform lockout/tagout for this maintenance.
@@ -30,4 +33,7 @@ ADD PICTURE
 10.	What is a "reverse power" trip? Where is it located, and how often is it tested? List and describe its operating principle.`
 11.	Provide a list of your ship’s equipment that uses batteries for backup or starting. What type of batteries are they? What routine maintenance is done on them?
 12.	With reference to generators, what is "excitation"?	How were the generators “excited”?
+
+Excitation is the production of a magnetic field by applying direct current to the generator rotor windings. It is the rotation of these fields around the stator windings that induces alternating current in these stator windings. Excitation is very important because it determines the output voltage on the generator. On my ship, we had two types of generators. We had the shaft generator and the diesel generators, which were both separately excited, meaning the generator excitor was powered by an external supply that was regulated by an automatic voltage regulator (AVR) to control the output AC voltage from the generator.
+
 13.	What class of insulation was used on the generators? What is meant by "megger testing", and what are satisfactory test results? What were the most recent results on your ship?

@@ -8,6 +8,10 @@ format:
         colorlinks: true
         highlight-style: github
         sansfont: Latin Modern Roman
+
+header-includes: |
+  \usepackage{graphicx}
+  \setkeys{Gin}{width=0.6\textwidth,keepaspectratio}
 editor: visual
 ---
 
@@ -25,17 +29,17 @@ The morning's work involved exercising the at-sea spares for the main engine and
 
 Today's work began by shadowing the oiler on her engine room round. This round was much shorter than the TSSOM oiler round as most of the items recorded were to be measured on the computer. There were only 4 manual tank soundings. Afterwards, I assisted the 3rd Engineer on continuing the LED fog light conversion project mentioned for the previous day. This involved removing the ballast for the previous light and then rewiring the leads directly.
 
-![Foglight ballasts after they are removed from the control box](Pictures/log/day2/ballasts_removed.HEIC)
+![Note: Foglight ballasts after they are removed from the control box](Pictures/log/day2/ballasts_removed.png)
 
-![Empty control box with "straight piped" LED light feeder lines](Pictures/log/day2/ballasts_removed2.HEIC)
+![Note: Empty control box with "straight piped" LED light feeder lines](Pictures/log/day2/ballasts_removed2.png)
 
 Ultimately, I was taken away from this project to perform an inspection on the secondary of the step-down transformer (440v to 220v) for the accommodation space and the upper car deck lighting. In this process, I learned that one cannot run two transformers in parallel because the secondaries act like two distinct sources. This was not intuitive to me. As such, it was necessary to de-energize the running starboard-side transformer before energizing the port-side transformer which meant a momentary blackout. 
 
-![Secondary stepdown transformer](Pictures\log\day2\transformer.heic)
+![Note: Secondary stepdown transformer](Pictures/log/day2/transformer.png)
 
 After that, I returned to the LED fog light conversion project where I was responsible for milling slots into the brackets for the new lights. 
 
-![Lighting bracket after milling is concluded](Pictures\log\day2\lighting_brack.HEIC)
+![Lighting bracket after milling is concluded](Pictures/log/day2/lighting_brack.png)
 
 Finally, my day concluded with a bridge steering gear test as we were expected to go underway at 0100 (allegedly).
 
@@ -43,7 +47,7 @@ Finally, my day concluded with a bridge steering gear test as we were expected t
 
 Today, the M/V Arc Independence finally got underway. At 0800, I assumed the maneuvering watch with the Third Engineer. It involved mostly walking around the engine room, looking for leaks and checking the important temperatures and pressures. It also provided an opportunity to get familiar with the Kongsberg system. In the afternoon, it was back to maintenance. This began with the transformer that we had worked on yesterday, which was re-energized successfully with no major complications. With that being said, the transformer did create a small ground. I learned that this is due to the accumulation of moisture within the transformer. This is why it is very important to leave the transformer powered on the primary end even if the secondary is disconnected. This configuration will allow the energy stored within the field to heat up the copper windings and drive out moisture. After this, we made our way to the bow thruster compartment to take measurements on a motor that had an improperly-sized coupling installed on it.
 
-![Steering lube oil pump inspected](Pictures/log/day3/strg_pump.png)
+![Note: Steering gear oil pump inspected](Pictures/log/day3/strg_pump.png)
 
 Finally, the side vehicle bay loading door is not regularly used and the ship's crew is in the process of phasing it out due to leaking hydraulic components connected to the door. As such, I helped the first engineer remove two hydraulic cylinders from the door: one to be used as a spare and the other to be rebuilt.
 
@@ -81,9 +85,14 @@ Today was the day of the chief engineer's big main engine performance test. It r
 
 ### Day 8: 5/18
 
-Sundays are generally "days off" for the engineers where they work an abbreviated day and often do safety-related tasks. The company decided that Sundays are largely days for cadets to work on projects. As such, I spent most of the day working on that. However, during the afternoon, I had the opportunity to clean and replace the central sea water strainer for the LT cooling loop. First, we had to remove the sealing flange and drain the heat exchanger, but not too quickly because that might cause the containment below to overflow. With the heat exchanger drained, we could completely remove the strainer bolts and remove the strainer basket. From there, it was just a couple of taps to get some of the accumulated gunk to fall out of the exchanger (we would end up needing to use the sink to really clean it). Then, a big scraping brush would be used to clean the ocean detritus from the edges of the plates before the exchanger was backflushed to clean out more gunk. From there, we installed a new strainer basket that had been modified to better fit within the exchanger and reinstalled the mounting plates.
+Sundays are generally "days off" for the engineers where they work an abbreviated day and often do safety-related tasks. The company decided that Sundays are largely days for cadets to work on projects. As such, I spent most of the day working on that. However, during the afternoon, I had the opportunity to clean and replace the central sea water strainer for the LT cooling loop. 
+
 ![Note: LT/Central Sea Water heat exchanger](Pictures/log/day8/heat_ex_sw.PNG)
+
+First, we had to remove the sealing flange and drain the heat exchanger, but not too quickly because that might cause the containment below to overflow. With the heat exchanger drained, we could completely remove the strainer bolts and remove the strainer basket. From there, it was just a couple of taps to get some of the accumulated gunk to fall out of the exchanger (we would end up needing to use the sink to really clean it). Then, a big scraping brush would be used to clean the ocean detritus from the edges of the plates before the exchanger was backflushed to clean out more gunk. From there, we installed a new strainer basket that had been modified to better fit within the exchanger and reinstalled the mounting plates.
+
 ![Note: New sea creature discovered?](Pictures/log/day8/strainer_sea_creature.PNG)
+
 ![Note: Strainer basket removed](Pictures/log/day8/strainer_rem.PNG) 
 
 ### Day 9: 5/19
@@ -92,7 +101,32 @@ After an easier day yesterday, it was back to work today. My morning began by do
 
 ![Note: Battery load tester "electric cheese grater"](Pictures/log/day9/electric_cheese_grater.PNG)
 
-Afterwards, all of the engineers received training on both the oily water separator (OWS) and how to start up the plant after a blackout. Apparently, the Independence is so automated that it can basically start up most of the plant independently, pun intended. Still, we went back to basics and both the third engineer and I had the opportunity to manually start the generators and parallel them with the bus. As far as the oily water separator goes, the chief engineer pulled me aside and gave me a full rundown on OWS operation and really dispelled many fears about the system. I learned that it is the addition of significant heat that causes the oil and the water to separate. In the afternoon, the third engineer and I load tested both of the generators and compiled Teknomar reports to submit to the company. After which point, we used pulverized walnuts to clean the exhaust gas turbocharger turbine and water to clean the intake side. 
+Afterwards, all of the engineers received training on both the oily water separator (OWS) and how to start up the plant after a blackout. Apparently, the Independence is so automated that it can basically start up most of the plant independently, pun intended. Still, we went back to basics and both the third engineer and I had the opportunity to manually start the generators and parallel them with the bus. As far as the oily water separator goes, the chief engineer pulled me aside and gave me a full rundown on OWS operation and really dispelled many fears about the system. I learned that it is the addition of significant heat that causes the oil and the water to separate. In the afternoon, the third engineer and I load tested both of the generators and compiled Teknomar reports to submit to the company. My responsibility was to measure and record the fuel rack setting after he measured the peak combustion pressure for that specific cylinder. 
+
+![Note: fuel rack index](Pictures/log/day9/ae_fuel_rack_index.PNG)
+
+![Note: fuel rack index (close up)](Pictures/log/day9/ae_rack_close.PNG)
+
+After which point, we used pulverized walnuts to clean the exhaust gas turbocharger turbine and water to clean the intake side. 
 
 ![Note: Walnut polishing tool "nut blaster"](Pictures/log/day9/nut_blaster.PNG)
+
 ![Note: Polishing tool inserted into diesel generator](Pictures/log/day9/nuts_penetrating.PNG)
+
+### Day 10: 5/20
+Today my work began with the first of what is expected to be my regular morning round. My first wanted me to get into the routine of doing a morning round for when I get my 3rd's license. Mostly, this round consisted of walking around the engine room, looking for leaks, and seeing what's running with an emphasis on the third engineer's systems like sewage, stern tube, the main engine and the important head tanks (M/E lube oil and jacket water). This went by fairly quickly because the first engineer wanted to get started on the acid wash for the central salt water heat exchanger that we cleaned yesterday. After mixing a tank of gross pink Scale-X and water, we connected it up to the heat exchanger via a diaphragm pump and left it running for about an hour. 
+
+After that, it was time to do the biannual EDG inspection and testing of EDG safety trips. Below is a list of items that we checked:
+- Generator windings and cables
+- General cleaning
+- Electrical connections
+- Bearings
+- Space heater function
+- Oil
+
+As far as the safety trips, we tested the overspeed trip and alarm, high cooling water temperature, low cooling water pressure, lube oil high temperature and low pressure, and the start failure alarm.
+
+In the afternoon, I was sent off on my own to use the megger to test about sixty control boxes for cargo ventilation fans to hunt down the source of a ground. This comprised the bulk of my afternoon and I did not finish this today. Perhaps the biggest learning experiences for me today are that you don't have to intrinsically know when maintenance on machinery is to be done, the computer will pretty much tell you. I also learned what a monotonous pain megging is. I guess that is why it is "a cadet job."
+
+### Day 11: 5/21
+Today, I began my day by resuming yesterday's grand megging project. Fortunately, I managed to meg all of the ventilation fans before 11 and I was able to determine the source of the ground fault. I definitely learned how useful a tool megging can be to identify problems within the electrical system.

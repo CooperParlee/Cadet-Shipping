@@ -69,7 +69,7 @@ In order to prevent fires in the engine room, there are many steps that can be t
 
 10. Where is the fixed fire extinguishing system storage room located? Where are its controls?
 
-The $CO_2$ fixed fire extinguishing system is located on the upper deck near the stern lifeboat aft of the helipad. It can be controlled locally from a panel in the fixed fire extinguishing room or it can be activated in fire locker A, also known as the fire control room, which is on the port side aft of midship.
+The $CO_2$ fixed fire extinguishing system is located on the upper deck near the stern lifeboat aft of the helipad. It can be controlled locally from a panel in the fixed fire extinguishing room or it can be activated in fire locker A, also known as the fire control room, which is on the port side aft of midship. The fixed fire extinguishing system for the galley was located locally as a tank by the hood for the fat fryer and its controls were outside of the galley. The Hyper Mist pump was located on the mid level of the engine room starboard side forward.
 
 11. In what condition should the bilge(s) be kept? Whose responsibility is it and who does the cleaning? How is bilge water handled while in port? While at sea?
 
@@ -77,19 +77,29 @@ The bilge should ideally be kept clean and dry. However, this is not really poss
 
 12. List and describe the remote emergency apparatus installed for use with the main propulsion plant. (Shut-off valves, reach rods, vents, screens, fill lines, etc.)
 
-The remote emergency apparatus installed for use with the main propulsion plant included electronic fuel oil shut off valves activated via the red emergency engine stop button in the ECR and the pneumatically actuated quick-closing valves that could be activated in fire locker A. The quick closing valves would immediately cut fuel to the engine; aux boiler and generators; or lube oil to the all of the above depending on which quick-closing zone was actuated.
+The remote emergency apparatus installed for use with the main propulsion plant included electronic fuel oil shut off valves activated via the red emergency engine stop button in the ECR and the pneumatically actuated quick-closing valves that could be activated in fire locker A. The quick closing valves would immediately cut fuel to the engine; aux boiler and generators; or lube oil to the all of the above depending on which quick-closing zone was actuated. There was also an emergency stop button for the auxiliary boiler, the main engine, accommodation ventilation, cargo hold fans/ventilation and the diesel generators which could be activated from the bridge or ECR. The Hyper Mist fire suppression system and the $CO_2$ fire suppression system could also be activated remotely from the fire control room.
 
 13. If there were any mechanical problems to these devices while you were onboard, please list and describe? What periodic maintenance or repair(s) was done to these devices?
 
-No major mechanical issues occurred to these devices while onboard; however, the first engineer noted that the quick closing valve to the diesel generators leaked by a little bit when activated. The periodic maintenance to the quick closing valve consisted of actuating the valve regularly (every Sunday) and tightening the linkages.
+No major mechanical issues occurred to these devices while onboard; however, the first engineer noted that the quick closing valve to the diesel generators leaked by a little bit when activated. The periodic maintenance to the quick closing valve consisted of actuating the valve regularly (every Sunday) and tightening the linkages. The ventilation dampers were actuated regularly (every Sunday) and when the first engineer noticed that they got stuck, ordered that they be regreased.
 
 14. What are the USCG regulations under which each of these emergency apparatuses are covered? List the articles.
+
+Quick-closing valves are covered under 46 CFR § 56.50-60 which requires remotely operable valves to stop fuel flow in emergencies. 46 CFR § 56.20-15 states that the valves must be mechanically or pneumatically activated for safety purposes (such as the ship losing power). Emergency stop buttons are covered under 46 CFR § 62.35-50 which requires that propulsion and auxiliary machinery may be manually shutdown in the event of an emergency. 46 CFR § 52.01-105 outlines manual emergency shutdown for boilers.
 
 15. List and describe the types of fire and smoke detecting equipment fitted in the engine room and accommodation spaces. Explain why one type of detector is chosen over another for a particular application.
 
 In the engine room, there were numerous detectors for various different zones. Certain zones had combination flame and smoke detectors and these were beneficial because they were highly resistant to false alarm and were thus used to trigger the fixed fire fighting system (water mist). Other zones had heat detectors because they were unlikely to elicit a false alarm when exposed to exhaust gases. In the accommodation spaces, smoke detectors were largely used because they are highly sensitive and would give an earlier warning than one of the combination measures. The major exception to this rule was the galley which used heat detectors instead of smoke detectors to avoid the false alarm from moisture from steam that might be created in the galley.
 
 16. How were each one of these types of detectors tested?
+
+The flame eye detectors were tested by using a UV flashlight directed at the detector. 
+
+![UV flashlight](Pictures/part1/uv_tester.PNG)
+
+The smoke detectors were tested using a Testifire combination smoke and heat testing tool. To test one of the combination systems, you were able to trigger one detector at a time as the detector would stay alarmed even after the stimulus was removed. For the heat detectors in the galley, the Testifire tool was also used but this did not happen while I was onboard the vessel. 
+
+![Testifire smoke and fire tester tool](Pictures/part1/comb_tester.PNG)
 
 17. What is meant by the term explosion proof? Provide examples of explosion proof equipment commonly found aboard ship.
 
@@ -109,7 +119,7 @@ If I discovered a small fire below the deck plates, my first action would be to 
 
 21. List and describe the sequential process of lowering a lifeboat. Explain the lifeboat lowering gear. How is the speed of descent controlled on a lifeboat when it is being lowered?
 
-On my vessel, we had a free fall lifeboat NOT DONE
+On my vessel, we had a free fall lifeboat. First, after mustering everyone would board the lifeboat and would be strapped in. The hatch is closed and the drain plug would be inserted into the drain hole. After the charging cable was removed, the engine would be started and tested, if possible. The gripes would be removed. When the vessel is ready to launch, the officer in charge of the lifeboat is to pull the releasing lever until the lifeboat falls. The speed of descent on the lifeboat is controlled by the force of gravity and friction as the lifeboat slides down the rails. Our lifeboat also had a small centrifugal brake which would also slow the speed of the lifeboat launch as long as someone was still onboard the ship to control the speed of the lifeboat lowering.
 
 22. How many life rafts were installed on the vessel? What were their locations?
 

@@ -16,46 +16,17 @@ NOT DONE
 
 NOT DONE
 
-5.	Explain in detail how the main engine speed was controlled on your ship. Briefly describe operation of the overspeed protection system.
+5.	Describe operation of the overspeed protection system and how it is tested on your vessel.
 
-NOT DONE
-
-6.	What differences in the plant operation/setup did you observe when entering and leaving port (at sea-maneuvering modes), i.e., sea suctions, type fuel oil, pressure and temperature adjustments made, extra equipment started etc.?
-
-NOT DONE
-
+6.	What differences in the plant operation/setup did you observe when entering and leaving port (at sea-maneuvering modes)?   i.e., sea suctions, type fuel oil, pressure and temperature adjustments made, extra equipment started etc.?
 7.	List and describe the fuel oil storage and transfer system.
-
-NOT DONE
-
 8.	Give a full description of the fuel oil supply to the fuel injection pumps, including the purification system.
-
-NOT DONE
-
 9.	Give a full description of the fuel injection system including the control and variation of the timing and metering employed.
-
-NOT DONE
-
 10.	Explain the path of lube oil flow throughout the engine. How are the liners and bearings lubricated?
-
-NOT DONE
-
 11.	Provide detailed specifications of the various lubrication oils used for this engine. This may be obtained from product data sheets. Give approximate consumption figures.
-
-NOT DONE
-
 12.	Describe the procedure for getting the engine ready for sea, that is, ready for leaving port.
-
-NOT DONE
-
 13.	Describe the external lube oil system including filters and coolers.
-
-NOT DONE
-
 14.	Describe the purification, transfer, and storage system for the lube oil.
-
-NOT DONE
-
 15.	Explain how to check the L.O. level. When and how often was this done? Explain how to add oil to the engine.
 
 The main engine L.O. level was checked at the main engine lube oil head tank two levels above the engine room via a staircase on the port side. This level was checked at the beginning of the day during the oiler round or whenever any alarms for lube oil went off. Additionally, it was continuously monitored by the Kongsberg system via a sensor in the main engine system oil sump tank.
@@ -67,27 +38,18 @@ Turbocharging and supercharging function to raise the effective scavenging press
 
 ![Main engine forward turbocharger](Pictures/part2/me_turbo.png)
 
-After the charge air cooler are electrically-driven auxiliary blowers. These can further increase the scavenge air pressure going into the engine but are not entirely necessary to the operation of the plant except in conditions with little exhaust gas pressure when the engine is not at high enough speed (such as maneuvering). ADD PICTURE
+After the charge air cooler are electrically-driven auxiliary blowers. These can further increase the scavenge air pressure going into the engine but are not entirely necessary to the operation of the plant except in conditions with little exhaust gas pressure when the engine is not at high enough speed (such as maneuvering). 
 
 ![Main engine aftermost blower/supercharger](Pictures/part2/blower.png)
-
 17.	Give a full description of the complete cooling water system, including any seawater or Closed Fresh Water circuits.
-
-NOT DONE
-
 18.	Fully describe the starting system equipment and its operation.
 
 Starting with the compressors, the two Sperre HV2 compressors kept the two Kumkang 7,000L start air reservoirs pressurized to 30 bar.  
 NOT DONE
 
 19.	What is "tappet clearance” or “valve lash" and how is it adjusted on the intake/exhaust valves?
-
-NOT DONE
-
 20.	List and describe in detail any maintenance or repairs performed on the main engine while you were on board.
-
-NOT DONE
-
+ 
 21.	List and describe the air compressors on your ship, including their type, number, size, pressures, and what the air is used for.
 
 For the main engine start air, there are two Sperre HV2 4-cylinder V-type reciprocating compressors with a capacity of 250 $m^3/hr$ rated for a pressure of 30 bar. The compressed air is used for starting the main engine. 
@@ -103,47 +65,15 @@ The last air compressor was the Atlas Copco GA37FF screw-type working air compre
 ![Atlas Copco GA37FF](Pictures/part2/working_air.PNG)
 
 22.	If the main engines could be controlled from the bridge, list in order the process of transferring control from engine control room to bridge. List precautions.
-
-NOT DONE
-
 23.	List and describe the procedure to transfer main engine control from control room to the emergency position at the engine maneuvering stand or local operating panel. List any precautions to be taken during this evolution.
+24.	What is the viscosity of the fuels used on board? Was the injection viscosity controlled? If so, explain this process.
 
-NOT DONE
+The Independence burned MGO, VLSFO and B30 biofuel. The viscosity of MGO at 40\deg C was determined via lab testing to be 3.3 cSt. The viscosities for VLSFO and B30 at 50\deg C are 171.4 cSt and 57 cSt respectively. At 100\deg C, they are 21.4 cSt and 10.7 cSt respectively. Given the low viscosity of MGO, the injection viscosity was not controlled. However, with the high viscosities for VLSFO and B30, these injection viscosities were controlled electronically with the Alfa Laval OPrem system. This system measured the viscosity and temperature of the fuel oil going to the engine and adjusted the amount of steam going to the fuel oil heaters. When switching to and from MGO and a residual fuel, the temperature was controlled manually by the OPrem system, not the viscosity. This was because the MGO was not to be heated above 85\degC. 
 
-24.	Briefly describe the process of reversing the output of the main propulsion unit.
+The only time the engineers really had to manually adjust the OPrem system was when they were changing from a heavy fuel to diesel fuel. To adjust the system, they would slowly increase or decrease (for switching to or from a heavy fuel, respectively) the manual temperature setpoint on the system in increments of 5-10\degC so as not to cause the system to go into a thermal runaway alarm. They found that the system would go into this runaway alarm if they explicitly set the final setpoint because the system felt it was not reaching that temperature fast enough and would raise an alarm. As such, the engineers learned to manually adjust the system in times of changeover.
 
-NOT DONE
+![OPrem referred to by the crew as "ViscoChief"](Pictures/part2/Viscochief.PNG)
 
-25.	Give fuel rack readings for stop, lowest operating speed and full sea speed for main engine. If the engine has an electronic governor or electronic injection, give an equivalent % reading.
-
-NOT DONE
-
-26.	What is the viscosity of the fuels used on board? Was the injection viscosity controlled? If so, explain this process.
-
-The Independence burned MGO, VLSFO and B30 biofuel. The viscosity of MGO at 40\deg C was determined via lab testing to be 3.3 cSt. The viscosities for VLSFO and B30 at 50\deg C are 171.4 cSt and 57 cSt respectively. At 100\deg C, they are 21.4 cSt and 10.7 cSt respectively. Given the low viscosity of MGO, the injection viscosity was not controlled. However, with the high viscosities for VLSFO and B30, these injection viscosities were controlled electronically with the Alfa Laval OPrem system. This system measured the viscosity and temperature of the fuel oil going to the engine and adjusted the amount of steam going to the fuel oil heaters. When switching to and from MGO and a residual fuel, the temperature was controlled manually by the OPrem system, not the viscosity. This was because the MGO was not to be heated above 85\deg C.
-
-![Note: Viscochief, the control system used to maintain fuel oil viscosity](Pictures/part2/Viscochief.PNG)
-
-27.	Describe in detail the process of getting the propulsion plant ready for departure and arrival. This is not the same as question #9.
-
-NOT DONE
-
-28.	What procedure is followed for securing the main engines after "finished with engine" signal is given?
-
-NOT DONE
-
-29.	List and describe the main engine protection devices, including alarms and trips. Explain how they were tested for satisfactory operation. How often are they tested?
-
-NOT DONE
-
-30.	What type of bearings are used for main, crankpin and crosshead applications? How are these bearings checked?
-
-NOT DONE
-
-31.	What is "crank web deflection"? Provide a copy of a “crank web deflection” report.
-
-NOT DONE
-
-32.	Obtain sample p-v and pressure-crank angle diagrams for the main engine. What is the purpose of these diagrams? What type of aberrations from the norm can be seen in these diagrams?
-
-NOT DONE
+25.	List and describe the main engine protection devices, including alarms and trips. Explain how they were tested for satisfactory operation. How often are they tested?
+26.	What type of bearings are used for main, crankpin and crosshead applications? How is wear on these bearings checked?
+27.	What is "crank web deflection"? Provide a copy of a “crank web deflection” report.

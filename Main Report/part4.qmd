@@ -20,6 +20,15 @@ Generally, a diesel generator was started automatically by the Kongsberg load ma
 ADD PICTURE
 
 2.	List the electrical generator name plate data and the number of units.
+
+Our primary generator at full sailing speed was a Taiyo SIGW95DL-18 separately excited A.C. shaft generator, capable of producing 1140A at 420 V. It was a 3-phase, 18-pole generator with an excitation voltage of 181 V, drawing an excitation current of 120 A. The amature and field insulation were both class-F rated and could be safely operated up to 104 \degC. This generator was IP44 rated and weighed 4700 kilograms. We had one of these.
+
+![Shaft generator nameplate](Pictures/part4/shaft_gen_plate.PNG)
+
+We had two Hyundai synchronous generators on our two diesel gensets of type HFJ7 638-84K. They were rated for 450 V, 2726 A at 60 Hz at 900 RPM. They had a power factor of 0.8 and were excited by 75 VDC at 7.0 A. They also had a single-phase space heater that drew 630 W at 220 V.
+
+![Hyundai diesel genset (qty 2)](Pictures/part4/SSDG_gen.PNG)
+
 3.	How are the lighting circuits supplied with power?
 4.	What signals/causes the emergency generator to start during an emergency? Does it start automatically? How is it secured? Describe in detail.
 5.	What prevents the emergency generator switchboard from paralleling with the main bus during normal operation?
@@ -28,12 +37,14 @@ Normal operation for my vessel dictates the use of the Kongsberg electrical load
 
 6.	What equipment protects the ship's lighting circuits, power circuits and generators from overloads, low voltage, etc.?
 7.	How are vital and non-vital circuits differentiated/identified on your ship? How are nonvital loads removed from the bus if needed?
-8.	List and describe the method used to clean generator internal components and/or electric motors. Ensure you include a full description of how you would perform lockout/tagout for this maintenance.
-9.	Give a detailed list of what you would check when inspecting a generating set aboard your ship while standing watch at sea. Be sure to include information on the prime mover as well as the electrical generator.
-10.	What is a "reverse power" trip? Where is it located, and how often is it tested? List and describe its operating principle.`
-11.	Provide a list of your ship’s equipment that uses batteries for backup or starting. What type of batteries are they? What routine maintenance is done on them?
-12.	With reference to generators, what is "excitation"?	How were the generators “excited”?
+8.	What is a "reverse power" trip? Where is it located, and how often is it tested? List and describe its operating principle.
+
+A reverse power trip is designed to disconnect a generator from the grid when it senses power is traveling to the generator (motorizing it) instead of the other way around. Motorization can severely damage a motor if the generator and grid frequencies do not line up because the generator, now a motor, will physically pull the generator, even if that means twisting the shaft, throwing the generator out of timing, etc. Functionally, a reverse power trip monitors the power output of a generator and trips if it reaches a value that is too low. Our overspeed trip was located in the main switchboard room and was tested quarterly by manually reducing the governor for the motor until the trip disconnected the generator.
+
+9.	With reference to generators, what is "excitation"?	How were the generators “excited”?
 
 Excitation is the production of a magnetic field by applying direct current to the generator rotor windings. It is the rotation of these fields around the stator windings that induces alternating current in these stator windings. Excitation is very important because it determines the output voltage on the generator. On my ship, we had two types of generators. We had the shaft generator and the diesel generators, which were both separately excited, meaning the generator excitor was powered by an external supply that was regulated by an automatic voltage regulator (AVR) to control the output AC voltage from the generator.
 
-13.	What class of insulation was used on the generators? What is meant by "megger testing", and what are satisfactory test results? What were the most recent results on your ship?
+10.	What is meant by "megger testing", and what are satisfactory test results? What were the most recent results on your ship?
+
+"Megging" refers to the use of an insulation testing device which I regularly used aboard my vessel. It was an incredibly invaluable troubleshooting tool. Basically, a megger checks the resistance between a wire and ground via its insulation. I usually used the 500v setting on the megger I was issued as the ship's systems were generally 440v. For that setting, a satisfactory result was considered greater than 550 M\Omega, the range of the meter. However, anything over 150 M\Omega was considered suboptimal, but of low concern. We actively tried to fix values less than 100 M\Omega. The most recent comprehensive test performed on the vessel was over the entirety of the cargo bay ventilation fans, of which were were approximately 60. About 90% of these fans received values over 550 M\Omega and only 2 received values less than 100 M\Omega: fan 5-4 received a value of 80 M\Omega and fan 2-4 received a value of 0.2 M\Omega.

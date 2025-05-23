@@ -45,7 +45,7 @@ US Coast Guard regulations concerning safety drills are listed under CFR 46 § 1
 
 5.  What action is taken by the engineers in the engine room during a fire (drill or actual) AND Boat Drill? List the duties of all the engineers (QMED, 3rd, 2nd, First, Chief)
 
-In the event of a fire on the vessel, the engineers would power up the emergency fire pumps and monitor the fire alarms (but not suppress them). In the event that the fire is within the engine room, they would ensure that the corresponding zone for the Hyper Mist system was engaged and suppressing the fire. Additionally, if the fire was being fed by a specific electrical or fuel system, they would attempt to cut fuel to that system after first consulting the bridge. 
+In the event of a fire on the vessel, the engineers would power up the emergency fire pumps and monitor the fire alarms (but not suppress them). In the event that the fire is within the engine room, they would ensure that the corresponding zone for the Hyper Mist system was engaged and suppressing the fire. Additionally, if the fire was being fed by a specific electrical or fuel system, they would attempt to cut fuel to that system after first consulting the bridge.
 
 In a fire, the responsibility of the Chief Engineer would be to suppress engine room fires and command fire fighting operations pertaining to the engine room. The First Engineer is responsible for securing electricity and ventilation to whatever space has the fire. The Second Engineer was on the fire response team for the engine room and would respond to the fire. The Third Engineer was on fire team B and would respond to fires outside of the engine room. We did not have any QMEDs on the vessel, but the oilers would join the fire teams.
 
@@ -93,11 +93,11 @@ In the engine room, there were numerous detectors for various different zones. C
 
 16. How were each one of these types of detectors tested?
 
-The flame eye detectors were tested by using a UV flashlight directed at the detector. 
+The flame eye detectors were tested by using a UV flashlight directed at the detector.
 
 ![UV flashlight](Pictures/part1/uv_tester.PNG)
 
-The smoke detectors were tested using a Testifire combination smoke and heat testing tool. To test one of the combination systems, you were able to trigger one detector at a time as the detector would stay alarmed even after the stimulus was removed. For the heat detectors in the galley, the Testifire tool is also used but this did not happen while I was onboard the vessel. 
+The smoke detectors were tested using a Testifire combination smoke and heat testing tool. To test one of the combination systems, you were able to trigger one detector at a time as the detector would stay alarmed even after the stimulus was removed. For the heat detectors in the galley, the Testifire tool is also used but this did not happen while I was onboard the vessel.
 
 ![Testifire smoke and fire tester tool](Pictures/part1/comb_tester.PNG)
 

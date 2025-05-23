@@ -19,13 +19,19 @@ editor: visual
 
 ### Day 0: 5/10
 
+Location: Loading cargo in Baltimore
+
 This morning, I arrived to the ship after a very early flight. After spending the majority of the morning completing paperwork with the Captain, I spent the early afternoon meeting the engineers and getting a tour of the engine room. The M/V ARC Independence burns a heavy fuel distillate called very low sulfur fuel oil (VLSFO) and, as such, it requires steam heating to reduce the viscosity of the fuel and improve atomization and flow. While there are larger steam heaters, there are steam lines that wrap around the fuel oil lines to the main engine and one of these lines was leaking causing steam condensate to drip below the line onto the deck. I assisted the engineers in performing quick temporary repairs on the line, including using pipe clamps to reduce the pressure of steam into the line and thus reducing the amount of steam that was allowed to leak out. Next, I followed the Third Assistant Engineer around as he started to perform some pre-departure checks given that the vessel was slated to leave tomorrow.
 
 ### Day 1: 5/11
 
+Location: Loading cargo in Baltimore
+
 The morning's work involved exercising the at-sea spares for the main engine and ship service diesel generator exhaust valves. According to the First Engineer, this maintenance is typical prior to an Atlantic crossing. After threading in a service air connection to the side of the valve body and using the chain hoist to lift the assembly, the exhaust valves were allowed to move about their full length of travel and lubricated with Never-Seez. After the valves were completed. I assisted the Third in troubleshooting some non-functional deck lighting which included replacing light bulbs and chasing bad grounds.
 
 ### Day 2: 5/12
+
+Location: Loading cargo in Baltimore
 
 Today's work began by shadowing the oiler on her engine room round. This round was much shorter than the TSSOM oiler round as most of the items recorded were to be measured on the computer. There were only 4 manual tank soundings. Afterwards, I assisted the 3rd Engineer on continuing the LED fog light conversion project mentioned for the previous day. This involved removing the ballast for the previous light and then rewiring the leads directly.
 
@@ -45,6 +51,8 @@ Finally, my day concluded with a bridge steering gear test as we were expected t
 
 ### Day 3: 5/13
 
+Location: Underway from Baltimore
+
 Today, the M/V Arc Independence finally got underway. At 0800, I assumed the maneuvering watch with the Third Engineer. It involved mostly walking around the engine room, looking for leaks and checking the important temperatures and pressures. It also provided an opportunity to get familiar with the Kongsberg system. In the afternoon, it was back to maintenance. This began with the transformer that we had worked on yesterday, which was re-energized successfully with no major complications. With that being said, the transformer did create a small ground. I learned that this is due to the accumulation of moisture within the transformer. This is why it is very important to leave the transformer powered on the primary end even if the secondary is disconnected. This configuration will allow the energy stored within the field to heat up the copper windings and drive out moisture. After this, we made our way to the bow thruster compartment to take measurements on a motor that had an improperly-sized coupling installed on it.
 
 ![Note: Steering gear oil pump inspected](Pictures/log/day3/strg_pump.png)
@@ -53,11 +61,15 @@ Finally, the side vehicle bay loading door is not regularly used and the ship's 
 
 ### Day 4: 5/14
 
+Location: Underway in Atlantic Ocean
+
 Today, my day began by performing a 12 month inspection of the inboard diesel oil circulating pump. It involved checking the motor current draw, observing for vibrations and checking the telltale hole for leaks. Shortly after which, I conducted the MGO/HFO changeover. Prior to conducting the changeover, I was very unfamiliar with the process. It involved turning on the fuel oil viscosity control to manual temperature control and using it to heat both the MGO and B30 (the biofuel blend we burn when traveling to Europe). Once the MGO was hot enough, you would open the valve from the B30 tank that you wanted to draw from and it would be drawn into the line and mixed in the small fuel oil return tank for the main engine just after the engine. Over time, this B30/MGO blend would transfer over over to completely B30 as the blend was burned off and replaced completely with B30. After some time, the viscosity control system would be set back to viscosity control. After that point, the third engineer taught me how to do a bilge water transfer where we transferred bilge water from the clean bilge tank after the oily water separator to the high bilge tank. This afternoon, we conducted our first fire and emergency drill and were given a scenario where the laundry room was on fire and had a safety discussion afterwards. After the conclusion of the safety meeting, the second engineer and I tested the quick closing valves for the generator fuel oil pumps. Here, I learned that there are three zones for the quick closing valves: the generators and aux boiler (which we tested today), lube oil for both the main engine and generators, and main engine fuel oil and the purifier system.
 
 ![Note: MGO day tank quick-closing valve for the diesel generator.](Pictures/log/day4/quick_closer.png)
 
 ### Day 5: 5/15
+
+Location: Underway in Atlantic Ocean
 
 This morning, my day began by helping to troubleshoot an issue with the auxiliary boiler where the boiler would pant and not switch to a low firing mode once it hit its steam pressure set point. We began by removing and replacing the solenoid valves on the fuel line to the burner as the seats on the valve were pitted. The second engineer did not believe these to be the cause of the issue, but since we had two spare solenoids, we chose to replace them anyways. 
 
@@ -77,13 +89,19 @@ Additionally, the fuel oil filter was removed and cleaned. This was a cadet job.
 
 ### Day 6: 5/16
 
+Location: Underway in Atlantic Ocean
+
 Today continued with the work I had started the day prior with the auxiliary boiler. I was instructed to oversee the boiler water testing with the second engineer. He informed me that he usually did these tests every few days when the boiler was running, but since it wasn't, the tests were conducted once a week. The tests comprised measuring total dissolved solids (TDS), boiler total alkalinity and pH. These tests closely mirrored my chemistry experience last semester, however, the tests were much simpler. Instead of complex drip titration rituals, they instead included adding a reagent to the solution and then dropping tablets into the boiler water until a color change was observed. From there, it was as simple as looking at a chart to see what the specific test value was. After that, I was informed that I would be helping the chief the following day perform an engine performance test to see where fuel efficiency could be improved. As such, I figured it would behoove me to go and find the values needed for the test on the Kongsberg and in the engine room beforehand. As the morning came to a close, the first engineer gave me my first PM (preventative maintenance) task: checking the batteries on the rolling deck equipment. Much like checking the battery voltage of a car, I had to check all of the batteries for the 24v deck lifters, deck truck and fork lift. All values were reasonable. In the afternoon, both the second and the third engineer started working on the inboard bilge and ballast pump which had a very significant leak for the prior two weeks. I played the very crucial roll of watching, staying out of the way and passing the 18mm wrench as necessary. There were still definitely some lessons to be learned here. Much like working on a car, sometimes the tasks go very easily. Other times they do not. The biggest issue for this pump was finding the correct tools. To lift the upper portion of the pump housing out of the casing, they needed to use chainfalls. Unfortunately, they could only find one set of the short chainfalls needed to connect the upper pump housing to the lower portion of the motor mount above it. To try and manage this after the mounting bolts were removed, they instead tried to use the overhead chainfalls to try and remove this pump housing to no avail. After a very extensive search on everyone's part for the missing mini chainfalls, everyone gave up and continued the the futile overhead chainfall technique. I didn't give up though. After searching for an hour and a fruitless consultation with the boatswain, I eventually discovered the missing chainfall hidden away in the corner of the purifier room on the opposite end of the machinery spaces. With the correct tools in hand, the first was able to quickly separate the upper pump housing and pump impeller from the pump.
 
 ### Day 7: 5/17
 
+Location: Underway in Atlantic Ocean
+
 Today was the day of the chief engineer's big main engine performance test. It required the work of many of the engineers, myself included. Our first task was to collect cylinder lube oil samples for all of the cylinders to determine the average viscosity of the cylinder lube oil necessary for the test, among other important metrics. After making a significant mess and then cleaning it up (the sampling points sprayed oil everywhere), I was called to the control room to assist the chief. I learned a lot during this test, specifically, many of the more obscure pressure, temperature and flow measurements in the engine room. I also had to enter all of these values into ARC's specific performance measuring program (Teknomar) which each entry being in its own specialized format (decimal, no decimals–all for no rhyme or reason). From there, the program ran its calculations and determined a relatively small metric for improvement (0.9g/nm). Although small, this could compound to a whole tank over the span of a year. However, there were no glaringly obvious means for improvement as most of the recommendations predicted an improvement around 0.1% to 0.4% in specific fuel consumption for whatever the maintenance or replacement item was. After lunch, I spent all of the afternoon working with the third engineer performing his lube oil analysis for the sake of the test. Test items included the viscosity, water content, base number and iron testing of the fuel, but only the viscosity was necessary for the performance test. Mostly, the biggest things I learned during this testing process was how long testing lube oil actually takes. For example, each of the iron tests took 5 minutes to run after preparing the sample, which had to be prepared one at a time or the test would expire before the machine could test it. This had to be done for all 7 samples and would take at least 40 minutes, assuming we didn't mess up any of the samples and have to retest (which we did). Mostly with this testing, I was surprised at how much testing could actually be conducted in house instead of being sent off to a lab to be measured.
 
 ### Day 8: 5/18
+
+Location: Underway in Atlantic Ocean
 
 Sundays are generally "days off" for the engineers where they work an abbreviated day and often do safety-related tasks. The company decided that Sundays are largely days for cadets to work on projects. As such, I spent most of the day working on that. However, during the afternoon, I had the opportunity to clean and replace the central sea water strainer for the LT cooling loop. 
 
@@ -96,6 +114,7 @@ First, we had to remove the sealing flange and drain the heat exchanger, but not
 ![Note: Strainer basket removed](Pictures/log/day8/strainer_rem.PNG) 
 
 ### Day 9: 5/19
+Location: Underway in Atlantic Ocean
 
 After an easier day yesterday, it was back to work today. My morning began by doing a continuation of the battery testing that I started on day 6. Instead of measuring the voltages of the batteries, I instead connected an inductive load to the battery (called the load tester) and measured the battery voltage while loaded.
 
@@ -114,6 +133,7 @@ After which point, we used pulverized walnuts to clean the exhaust gas turbochar
 ![Note: Polishing tool inserted into diesel generator](Pictures/log/day9/nuts_penetrating.PNG)
 
 ### Day 10: 5/20
+Location: Underway in Atlantic Ocean
 Today my work began with the first of what is expected to be my regular morning round. My first wanted me to get into the routine of doing a morning round for when I get my 3rd's license. Mostly, this round consisted of walking around the engine room, looking for leaks, and seeing what's running with an emphasis on the third engineer's systems like sewage, stern tube, the main engine and the important head tanks (M/E lube oil and jacket water). This went by fairly quickly because the first engineer wanted to get started on the acid wash for the central salt water heat exchanger that we cleaned yesterday. After mixing a tank of gross pink Scale-X and water, we connected it up to the heat exchanger via a diaphragm pump and left it running for about an hour. 
 
 After that, it was time to do the biannual EDG inspection and testing of EDG safety trips. Below is a list of items that we checked:
@@ -128,5 +148,21 @@ As far as the safety trips, we tested the overspeed trip and alarm, high cooling
 
 In the afternoon, I was sent off on my own to use the megger to test about sixty control boxes for cargo ventilation fans to hunt down the source of a ground. This comprised the bulk of my afternoon and I did not finish this today. Perhaps the biggest learning experiences for me today are that you don't have to intrinsically know when maintenance on machinery is to be done, the computer will pretty much tell you. I also learned what a monotonous pain megging is. I guess that is why it is "a cadet job."
 
+![Cargo vent fan that failed the megging test given a value of 0.2 M\Omega](Pictures/log/day10/bad_meg.PNG)
+
 ### Day 11: 5/21
-Today, I began my day by resuming yesterday's grand megging project. Fortunately, I managed to meg all of the ventilation fans before 11 and I was able to determine the source of the ground fault. I definitely learned how useful a tool megging can be to identify problems within the electrical system.
+
+Location: Underway in Atlantic Ocean
+
+Today, I began my day by resuming yesterday's grand megging project. Fortunately, I managed to meg all of the ventilation fans before 11 and I was able to determine the source of the ground fault. I definitely learned how useful a tool megging can be to identify problems within the electrical system. After that, I assisted the first engineer in testing the Hyper Mist fire suppression system over the inboard diesel generator. Using the fire testing wand (a tool that resembles a transparent plunger with a can attached to the stick) and a UV flashlight, we triggered both of the required zones to automatically trigger the system and tested that the mist would be properly admitted from the nozzles above the generator. After disabling the alarm, we proceeded to the fire control room (fire locker A) and manually tested that the system could be started from there. 
+
+In the afternoon, we had a fire and oil spill drill and received instructions on fire control if it is to happen while bunkering because we are nearing our European bunkering port of Antwerp. After that, I spent the remainder of the afternoon producing mounting brackets for the LED fog light conversions.
+
+### Day 12: 5/22
+
+Location: Underway near Scotland
+
+This morning began with a very long MGO fuel change. Our ship was about to begin transiting into a European emissions control area as we passed by Scotland. As such, we had to change over from B30 (a heavy fuel with higher sulfur) to diesel. Much like our fuel change earlier in the trip as we left the United States, we had to line up several valves such that the fuel traveled into the mixing tank and slowly diluted the concentration of the higher sulfur heavy fuel. When we switched over to B30, we did not have to really worry about sulfur content because our sulfur-oxide output was not being controlled as we weren't in an ECA anymore. However, with this section of the voyage, we had to make sure we transferred over from B30 to diesel with adequate time for the B30 sulfur residuals to be burned off before we reached the emissions control area. To do this, the chief had an Excel sheet where we plugged in engine speed, underway speed and distance to the ECA, B30 sulfur content and MGO sulfur content, and the sheet would give you a time to initiate the transfer in order to make sure your sulfur oxide levels were below the threshold for the ECA. In the afternoon and evening, I assisted the engineers in installing a new fan impeller for a cargo deck fan. The previous fan had lost a blade due to an imbalance and that lost blade removed every other blade in the fan in a a sudden incidence of expensive noises. We successfully removed the old impeller hub today and attempted to install the new impeller. However, given that the new impeller was aftermarket, it did not go onto the hub easily. In fact, it refused to go onto the hub until we used a sandpaper wheel on a grinder and removed some of the inner hub. Everyone anticipated that this was going to be an easy job, but it was not completed before dinner as everyone anticipated.
+
+### Day 13: 5/23
+Today, I continued yesterday's fan project. I carried the bottles to set up the oxy-acetylene torch to allow the engineers to get the hub "cherry red," as the first engineer called it. This process took all day and I was eventually reassigned to disassemble the motor control box for a separate fan. From there, I troubleshooted the bad ground and identified the component at fault (the terminal post block had chipped and there was no longer any insulative coating on one side). To do this, I used a megger and tested the motor leads, input leads and terminal posts separately and the one with the lowest resistance was the culprit (in this case the terminal post block). Today was the first day I felt like I actually learned something not ship-specific on my cadet shipping experience. The importance and application of meggers and resistance testing for troubleshooting will definitely be an invaluable tool now that I understand how they function.

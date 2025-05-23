@@ -12,15 +12,19 @@ editor: visual
 ---
 
 ## Part 6 Steering Gear (As Applicable)
-1.	List and describe the manufacturer and type of steering gear/system used on the ship.
-2.	List and describe the important points which require careful checking when inspecting and servicing the steering gear/system.
-3.	What are the USCG regulations on testing steering gear prior to departure from port? List the steps necessary for starting and testing the steering gear before leaving port.
-4.	What are the sources of power for the steering gear/system?
-5.	List and describe how the steering gear/system is controlled from the bridge, as well as from all alternate stations, including what modes of steering control are available and how the steering modes are shifted.
-6.	Explain how air is detected and removed from a hydraulic system.
-7.	What type of pump is used to move the steering gear ram? Describe how the pump works.
-8.	List and describe how hydraulic fluid flows from the pump to move the rudder in the desired direction, and what happens when the rudder arrives at the ordered position.
-9.	Explain how the steering gear/system answers a rudder signal from the bridge correctly without overcompensating.
-10.	What is used on the steering system for rudder stops? Explain their operation.
-11.	What is Emergency Steering? List and describe the procedure for operating Emergency Steering.
-12.	Who maintained the steering gear/system on your ship? How often is it inspected?
+
+1.  List and describe the manufacturer and type of steering gear/system used on the ship.
+2.  List and describe the important points which require careful checking when inspecting and servicing the steering gear/system.
+3.  What are the USCG regulations on testing steering gear prior to departure from port? List the steps necessary for starting and testing the steering gear before leaving port.
+
+Coast Guard regulations concerning testing the steering gear prior to leaving port are described under 33 CFR 164.25. The following must be tested at most 12 hours before departure from port: all steering gear control systems (follow-up, non-follow-up), all steering locations on the bridge, the rudder angle indicator, all power failure alarms on the control system and steering gear, moving the rudder the full range of motion for the gear. Prior to departure from port, our routine for testing the steering gear would include a call from the bridge to the steering gear room. Before receiving this call, we would have already checked for hydraulic fluid leaks and the level on the steering gear tank. We would begin by taking control of the steering gear on location and move the gear the full range of motion both port and starboard. We would then give the bridge control and they would do the same as we monitored for issues with the gear and position indicator. We would perform this test for both motors, one at a time, checking pressures along the way.
+
+1.  What are the sources of power for the steering gear/system?
+2.  List and describe how the steering gear/system is controlled from the bridge, as well as from all alternate stations, including what modes of steering control are available and how the steering modes are shifted.
+3.  Explain how air is detected and removed from a hydraulic system.
+4.  What type of pump is used to move the steering gear ram? Describe how the pump works.
+5.  List and describe how hydraulic fluid flows from the pump to move the rudder in the desired direction, and what happens when the rudder arrives at the ordered position.
+6.  Explain how the steering gear/system answers a rudder signal from the bridge correctly without overcompensating.
+7.  What is used on the steering system for rudder stops? Explain their operation.
+8.  What is Emergency Steering? List and describe the procedure for operating Emergency Steering.
+9.  Who maintained the steering gear/system on your ship? How often is it inspected?

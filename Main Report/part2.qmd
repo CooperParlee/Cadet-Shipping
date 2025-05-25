@@ -19,6 +19,9 @@ NOT DONE
 5.	Describe operation of the overspeed protection system and how it is tested on your vessel.
 
 6.	What differences in the plant operation/setup did you observe when entering and leaving port (at sea-maneuvering modes)?   i.e., sea suctions, type fuel oil, pressure and temperature adjustments made, extra equipment started etc.?
+
+There were quite a few differences in plant operation between maneuvering and at-sea operation. When maneuvering, both diesel generators were running and the shaft generator was offline. The main engine used MGO instead of heavy fuel (B30 or VLSFO) when navigating near port both due to emission control areas and for reliability. The evaporator was taken offline when near port and maneuvering. The auxiliary boiler was brought online instead of the exhaust gas boiler when maneuvering into port.
+
 7.	List and describe the fuel oil storage and transfer system.
 8.	Give a full description of the fuel oil supply to the fuel injection pumps, including the purification system.
 9.	Give a full description of the fuel injection system including the control and variation of the timing and metering employed.
@@ -66,6 +69,9 @@ The last air compressor was the Atlas Copco GA37FF screw-type working air compre
 
 22.	If the main engines could be controlled from the bridge, list in order the process of transferring control from engine control room to bridge. List precautions.
 23.	List and describe the procedure to transfer main engine control from control room to the emergency position at the engine maneuvering stand or local operating panel. List any precautions to be taken during this evolution.
+
+In order to transfer engine control from ECR to the local operating panel, first the engine control selector switch must be in "C/R Control" instead of "Bridge Control" in the engine control room. 
+
 24.	What is the viscosity of the fuels used on board? Was the injection viscosity controlled? If so, explain this process.
 
 The Independence burned MGO, VLSFO and B30 biofuel. The viscosity of MGO at 40\deg C was determined via lab testing to be 3.3 cSt. The viscosities for VLSFO and B30 at 50\deg C are 171.4 cSt and 57 cSt respectively. At 100\deg C, they are 21.4 cSt and 10.7 cSt respectively. Given the low viscosity of MGO, the injection viscosity was not controlled. However, with the high viscosities for VLSFO and B30, these injection viscosities were controlled electronically with the Alfa Laval OPrem system. This system measured the viscosity and temperature of the fuel oil going to the engine and adjusted the amount of steam going to the fuel oil heaters. When switching to and from MGO and a residual fuel, the temperature was controlled manually by the OPrem system, not the viscosity. This was because the MGO was not to be heated above 85\degC. 

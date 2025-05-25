@@ -17,15 +17,21 @@ Part 9 Engine Room Records and Watch Standing Practices (All Vessels)
 
 2.  List and describe how fuel remaining on board is calculated. What are the various tables used? How are corrections made to these figures (for trim, heel, and temperature)?
 
+The fuel remaining on board is calculated automatically using the Kongsberg system. The system has a list of tanks on the vessel, what fuel is in them and the respective level via tank level indicators (TLI). If a precise measurement was needed, the chief engineer would send the third engineer to go and take soundings for the various tanks. From there, he would use the tank table
+
 3.  List and describe the system used to keep track of spare parts on the vessel. If no system was used on your ship, describe how a system might be instituted.
 
 4.  What is meant by the term "trend analysis"? How does this relate to engine room records? Explain how trend analysis was conducted on your ship, including equipment analyzed, and how often.
+
+Trend analysis is the practice of doing tests at regular intervals to observe both short and long-term metrics in a system. Keeping track of trends in an engine room is very important because it allows an operator to recognize when a value might be problematic or preemptively recognize a system that is decaying outside of design limits. As far as engine room records, this is why it is very important to keep detailed engine room records-- it allows you to use invaluable tools to run your plant more effectively and prevent downtime. Trend analysis was conducted for most of the important machinery in the engine room. Generally, more sophisticated trend analysis was conducted for the diesel generators and the main engine. All performance metrics produced by the D/G and M/E performance tests were tracked and graphed over time. This way, if the system didn't automatically recognize that a value was out of operating margins, the engineers could clearly see if a metric was trending down. Consider compression pressures recorded on the MAN PMI Variable Injection Timing system; if over time the engineers saw a trending decrease in compression pressures for one specific cylinder, they would be able to predict that a compression ring could be failing. Likewise, for lube oil, if levels of iron in the lube oil samples was increasing at a gradual rate, they could recognize that components within the main engine are wearing predictably. However, if the values suddenly increased substantially from one test to the next, it's a sign that a wear element is wearing really quickly, and it's time to stop and reevaluate. The prime movers were subject to more scrupulous trend analysis than other equipment, but really trend analysis was being conducted with all equipment when the engineers submitted completed preventative maintenance tasks on the NSE system as long as the engineers were doing their jobs correctly. In an inspection, an engineer might mention that there was water observed dripping from a pump. The next time, other engineers report the same. Eventually, another engineer reports that there's a huge puddle of water around that pump. The last engineer could go back and check the maintenance and inspection records and recognize a trend that the pump was leaking and come to the conclusion that the pump here needs maintenance.
 
 5.  What process was used to track operating hours on the main propulsion unit and its associated equipment between overhauls?
 
 6.  Explain how maintenance performed on the main propulsion units was recorded, including bearing clearances, limitations, tests performed and inspection results.
 
 7.  Explain how maintenance was scheduled.
+
+Maintenance was scheduled in a program named NSE. 
 
 8.  List and describe what type of records were maintained on fuel oil, fresh water, lube oil, and feed water carried and consumed.
 
@@ -39,11 +45,25 @@ Part 9 Engine Room Records and Watch Standing Practices (All Vessels)
 
 13. What information is found in the engineer’s turnover reports/notes to their relief counterpart(s)? Describe the company’s policy for these reports. Are they saved or shared?
 
+On my ship, the turnover notes were highly extensive. I was only provided a copy of the first engineer's turnover notes. Though they were highly informal, they included information in a list of nearly everything conducted on the day to day. Preventative maintenance, issues, deck work, technician visits, etc. All of this information was sorted by respective piece of equipment. Here is a block pertaining to the generators by Brian Barnes:
+
+\> The HT cooling pump for the D/G's was rebuilt and ready for use. We have a new firing pressure gauge on order. Wasn't able to do a performance test on inbd D/G. All diesel valves for both D/G's are painted yellow so there is no more confusion with 3rd A/E's. Changed out one of the HFO vale on the outbd D/G (3rd snapped off the stem).
+
+Pulled and cleaned both D/G flame screens on top of stack
+In Bremerhaven, we isolated the D/G pre-heater for the welders to weld up a pin hole leak on the expansion joint. We pressure tested the unit, installed all new lagging and re-attached the shrouding.
+
+15 April we changed out the D/G F/O moatti filter for the 2nd time this trip.
+</
+
+The first engineer's running turnover notes were kept as a daily log and were not formatted as an equipment-specific list like the previous first engineer.
+
 14. How often was lubricating oil tested on board? What tests are performed?
 
-Lubricating oil was tested on board roughly every couple of weeks according to the third engineer. Tests performed included water content, base number, fuel-oil dilution, viscosity (at various temperatures) and an iron test.
+Lubricating oil was tested on board roughly every couple of weeks according to the third engineer or as needed for other preventative maintenance items. Such items included the main engine performance test and required sampling the cylinder lube oil. This was done in addition to the bi-weekly lubricating oil tests. Tests performed included water content, base number, fuel-oil dilution, viscosity (at various temperatures) and an iron test.
 
 15. How often were lube samples sent ashore for testing? List tests performed. (Attach copy of oil analysis sheet if available). Explain the significance of each test.
+
+Lube oil samples were sent sporadically for my vessel. According to the lube oil sample sheet I received, the last 4 tests were dated 29 August, 2024; 27 September, 2024; 5 April, 2025; 23 April 2025. According to the third engineer, this testing was supposed to be conducted as often as every month to as much as 2 months, but this pattern was interrupted by shipyard periods last fall. Tests included total base number (TBN), iron, corrected iron, chromium, tin, lead, copper, aluminum, vanadium, WPI, water content, sodium, silicon, calcium, zinc, phosphorus, barium, and molybdenum. Total base number is a metric of how much acid the lube oil is able to neutralize. At manufacture, the TBN should be fairly high because the oil should not acidify as this will cause corrosion to the engine. If TBN drops, it is an indication of excessive blowby from the engine due to the sulfur content of the combustion products. Sulfur forms sulfuric acid (from the water in combustion products) and neutralizes some of the base additives of the lube oil. Iron, chromium, tin, lead, copper, aluminum, and vanadium are all component metals of the engine. If they're turning up in the lube oil, it means components within the engine are wearing. Water content, sodium, and silicon are metrics relating to contamination. The water might come from a cooler leak, either jacket water or salt water cooling. The difference can be identified in the presence of sodium or silicon. Sodium indicates the likelihood of salt water cooling leakage somewhere in the system. Silicon is usually a component of additives for jacket water. As such, it is likely that jacket water is leaking into the main engine if this metric is suddenly very high. See appendix for attached Shell LubeAnalyst cylinder lubricating oil tests.  
 
 16. Explain how the lube test samples were obtained, including sample point location, for equipment that was tested.
 
@@ -54,6 +74,10 @@ Lubricating oil was tested on board roughly every couple of weeks according to t
 19. List typical entries found in an oil record book. When are entries required? Who must sign and review the book?
 
 20. Provide name plate data for the oil/water separator (OWS).
+
+The OWS was a Marinflock AB model CB 1.0 manufactured in 2006 with a max flowrate of 1000 L/hr, a service volume of 580 L. It was tested for an oil content between 0-5 ppm and has a USCG approval number of 162.050/1263/0.
+
+ADD PICTURE
 
 21. List and describe in detail how the oily bilge separator functions. What are the USCG requirements for oil/water separators? List the articles.
 

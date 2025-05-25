@@ -69,6 +69,11 @@ Lube oil samples were sent sporadically for my vessel. According to the lube oil
 
 17. What is the make and model number of the fuel and lube oil purifiers used?
 
+All four purifiers aboard my vessel were made by Alfa Laval. The two fuel oil purifiers were model S861 and the two lube oil purifiers were model S831.
+
+![Alfa Laval S861 fuel oil purifier nameplate]()
+![Alfa Laval S831 lube oil purifier nameplate]()
+
 18. Discuss in detail any operational problem encountered with a fuel or lube oil purifier while you were onboard. If no problems were encountered, possibly the engineers could provide you with some working history – good or bad – of the purifiers.
 
 19. List typical entries found in an oil record book. When are entries required? Who must sign and review the book?

@@ -47,8 +47,12 @@ After the charge air cooler are electrically-driven auxiliary blowers. These can
 17.	Give a full description of the complete cooling water system, including any seawater or Closed Fresh Water circuits.
 18.	Fully describe the starting system equipment and its operation.
 
-Starting with the compressors, the two Sperre HV2 compressors kept the two Kumkang 7,000L start air reservoirs pressurized to 30 bar.  
-NOT DONE
+Starting with the compressors, the two Sperre HV2 compressors kept the two Kumkang 7,000L start air reservoirs pressurized to 30 bar. After the start air reservoirs, the start air ran into the main start air valve. This valve was electronically operated when the engine was starting and stayed in the normally closed position. There was a manual actuator outside of the valve to force the valve open for starting.
+![Main start air valve with manual actuator]()
+After the actuator, some of the start air traveled to the start air distributor which included a cam that was directly connected and timed to the main engine. This distributor sent air to drive the start air valves on each of the cylinders at the appropriate time (TDC) to drive the piston down and turn over the engine
+![Start air distributor]()
+![Cylinder start air valve]()
+ADD PICTURES
 
 19.	What is "tappet clearance” or “valve lash" and how is it adjusted on the intake/exhaust valves?
 20.	List and describe in detail any maintenance or repairs performed on the main engine while you were on board.
@@ -68,9 +72,21 @@ The last air compressor was the Atlas Copco GA37FF screw-type working air compre
 ![Atlas Copco GA37FF](Pictures/part2/working_air.PNG)
 
 22.	If the main engines could be controlled from the bridge, list in order the process of transferring control from engine control room to bridge. List precautions.
+
+In order to transfer control from the engine room to the bridge, one must first ensure that the engine operated telegraph (EOT) matched the bridge operated telegraph (BOT) and the fuel rack setting on the manual controller. Making contact with the bridge, switch the engine control selector switch from "C/R Control" to "Bridge Control." They can then request control off of the BOT. An engineer in the control room will then push the bridge control button on the EOT. As far as precautions go, there are fewer precautions necessary when switching from engine control to bridge control then there are navigational precautions necessary for the other way around. The most important precautions are to ensure that the EOT, BOT and fuel rack are at the same location and direction and that the engine speed is not set too low (that it might risk stalling the engine).
+
+![Labelled control transfer procedure for engine control to bridge control.]()
+
 23.	List and describe the procedure to transfer main engine control from control room to the emergency position at the engine maneuvering stand or local operating panel. List any precautions to be taken during this evolution.
 
-In order to transfer engine control from ECR to the local operating panel, first the engine control selector switch must be in "C/R Control" instead of "Bridge Control" in the engine control room. 
+In order to transfer engine control from ECR to the local operating panel, first the engine control selector switch must be in "C/R Control" instead of "Bridge Control" in the engine control room. Before switching, it is important to ensure that you have communications with the bridge from the local operating panel and have someone in the control room to acknowledge a "local control" alarm that comes up when switching modes. Additionally, it is important to make sure that there is adequate air pressure in the start air tanks to handle stopping and starting because to switch control modes, there will be a change in fuel rack position. For example in switching from ECR to local control, if your throttle was set to 80 rpm on the ECR throttle and 40 rpm on the local throttle, a noticeable "bump" (as the Chief called it) will be observed in the main engine. That is why it was recommended that switching modes for testing was conducted when the engine was offline. Additionally, it is crucial to note that operating from the local control station cuts out all safeties and the governor for the engine. In doing so, if a lube oil pump stops pumping oil or the pressure is too low, the local control console will continue to actuate the engine. As such, it is important to keep an oiler doing continuous rounds around the engine room to ensure that everything is running properly. This process requires that the engine room be continuously manned. In order to actually conduct the changeover, a magnet has to be removed from the position blocking device (which was added because the blocking device tended to vibrate loose). 
+The handwheel below the console is then set to the manual position.
+![Remove magnet, remove block, and set handwheel to the manual position]()
+Then, set the valve for ahead or astern to the correct position.
+![Ahead/astern selector valve]()
+Finally, change the valve from remote to manual mode.
+![Remote/manual valve]()
+From there, one pushes and holds the start button on the control console until the engine catches, then slide the fuel rack controller into the "start" position.
 
 24.	What is the viscosity of the fuels used on board? Was the injection viscosity controlled? If so, explain this process.
 

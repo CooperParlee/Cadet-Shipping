@@ -17,7 +17,7 @@ editor: visual
 
 Sea water is pumped into the evaporator from the main sea water system. It would draw water from whatever sea chest was open at that time and pumped through several strainers before it reached the evaporator. The water level is maintained by the ejector pump which pulls fresh water out of the Nyrex as it condenses in addition to maintaining the vacuum. The heat for the evaporator is provided by the main engine jacket water system (or the "HT" loop as it was called on my ship). The shell pressure was maintained between 70 MPa and 85 MPa. The shell is protected against excess pressure during standard operation by maintaining pressure and temperature electronically using the control system on the Nyrex. However, in events where that control system is not able to regulate the pressure and the shell becomes overpressurized, there is a pressure relief valve on the shell of the Nyrex which discharges excess pressure to the engine room.
 
-ADD PICTURE
+![Nyrex pressure relief valve](Pictures/part8/nyrex_prv.PNG)
 
 2.	Provide a detailed report on the starting and operating procedures for each type of fresh water generating plant (reverse osmosis/evaporator/distilling unit) on board.
 

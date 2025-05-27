@@ -67,6 +67,18 @@ Lube oil samples were sent sporadically for my vessel. According to the lube oil
 
 16. Explain how the lube test samples were obtained, including sample point location, for equipment that was tested.
 
+There were two types of lube oil test samples obtained for the main engine: system oil and cylinder oil. System oil was collected after the Moatti lube-oil filters and was obtained by opening the sample-point globe valve and then operating the kick-valve to discharge oil into a sampling container. 
+
+![Main engine system oil sampling point after the Moatti filters]()
+
+The cylinder oil could be obtained at each cylinder and drained from the stuffing box of each cylinder. It was obtained by opening a small ball valve connected to a goose-neck from which the oil drained.
+
+![Main engine cylinder oil sampling point]()
+
+Since the diesel generators ran on a single oil for the whole system, there was a single drain for the whole machine which resembled the cylinder oil drain and was located on the driving end of the generator.
+
+![Diesel engine oil sampling point]()
+
 17. What is the make and model number of the fuel and lube oil purifiers used?
 
 All four purifiers aboard my vessel were made by Alfa Laval. The two fuel oil purifiers were model S861 and the two lube oil purifiers were model S831.
@@ -75,6 +87,8 @@ All four purifiers aboard my vessel were made by Alfa Laval. The two fuel oil pu
 ![Alfa Laval S831 lube oil purifier nameplate]()
 
 18. Discuss in detail any operational problem encountered with a fuel or lube oil purifier while you were onboard. If no problems were encountered, possibly the engineers could provide you with some working history – good or bad – of the purifiers.
+
+On May 27th, the main engine lube oil purifier pump started discharging lube oil into the containment below it in the main engine room. This occurred because the third engineer was unaware of the fact that valves to the purifier are secured when the purifier is brought offline (as it was the day prior) because the head pressure on the pumps is enough to allow lube oil to leak from the seals of the pump if the valves are not closed. Given that the valves were closed, the pump discharge was dead-heading, pushing significant quantities of oil from the seals of the pump into the containment.
 
 19. List typical entries found in an oil record book. When are entries required? Who must sign and review the book?
 
@@ -86,7 +100,11 @@ ADD PICTURE
 
 21. List and describe in detail how the oily bilge separator functions. What are the USCG requirements for oil/water separators? List the articles.
 
-The oily bilge water separator functions by drawing a suction from the clean bilge tank. Oily water travels first through a plate type heat exchanger with steam on the other side. The water is heated to drastically increase the propensity that it will separate within the coalescing filter in the next step. In the coalescing filter, dirty bilge water is admitted from the side and is allowed to separate via the differences in specific gravities between the oil and the water. The oil will travel to the top of the column and clean water will travel to the bottom.
+The oily bilge water separator functions by drawing a suction from the clean bilge tank. Oily water travels first through a plate type heat exchanger with steam on the other side. The water is heated to drastically increase the propensity that it will separate within the coalescing filter in the next step. In the oil descaler tank, dirty bilge water is admitted from the side and is allowed to separate via the differences in specific gravities between the oil and the water. The oil will travel to the top of the column and clean water will travel to the bottom. Once the water level in the tank reaches a high level sensor, air is forced into the tank at pressure and mixed to dissolve air into the water. As this is happening, water is continuously discharged out of the circulation tank into the flocculation tank. Flocculation is the process of adding chemicals (in this case, Flocbooster) in order to cause chemicals in suspension to clump together and come out of suspension. The flocculants added cause the oil to separate out as a "foam" on top of the tank which is skimmed off and transferred to the sludge tank. At this point, most of the oil has been removed from the sample, but now it travels through three sets of filters to improve its presentation and ensure a quality lower than 15 ppm of oil. The first filter is an oil absorber and removes any remaining clumps of oil. The next two filters are activated carbon filters which remove any other non-oil contaminants that may discolor the sample and cause the later optical sensor to misinterpret the presence of oil within the sample.
+
+Finally, my ship had an add-on to this system which was called the OWS Whitebox. This box contained an optical sensor on the outlet of the separator filters which used the opacity of the sample to determine how many parts per million remained within the sample. After the sensor, there was a three-way valve. The now-clean bilge water enters in one side and either travels back to the clean bilge tank or the overboard discharge. This three-way valve was fail-safe, meaning that the system would only open to the overboard discharge if the oil content was below the setpoint (in our case, 5ppm), otherwise, it would continue pumping the water back into the clean bilge tank. 
+
+33 CFR § 151.360(a)(1-6) dictates the criteria for oil discharges aboard a vessel outside of 12 nautical miles of nearest land. (5-6) require that: "The oil content of the effluent without dilution is less than 15 parts per million (ppm);" and "The ship has in operation oily-water separating equipment, a bilge monitor, bilge alarm, or combination thereof..." According to section 151.10(b)(5), oily-water separators must be equipped with a, "15 ppm bilge alarm; for U.S. inspected ships, approved under 46 CFR 162.050 and for US uninspected ships and foreign ships, either approved under 46 CFR 162.050 or listed in the current International Maritime Organization (IMO) Marine Environment Protection Committee (MEPC) Circular summary of MARPOL 73/78 approved equipment."
 
 22. Who runs the Oily Water Separator (OWS)? How often is it placed in service? What are the maintenance procedures for the OWS?
 

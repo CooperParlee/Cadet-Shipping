@@ -12,22 +12,25 @@ editor: visual
 ---
 
 ## Part 7 Refrigeration/Air-Conditioning (All Vessels)
-1.	Write a detailed description of your ship’s refrigeration system and its operation, incorporating the following items:
-- compressors and operation, including unloading of compressor
-- condensers
-- evaporators
-- temperature control of refrigerated spaces
-- safety equipment - cutouts and pressure relief devices
-- expansion valve
-- leak detection
-- refrigerant charging
-2.	Explain how temperature is controlled in the various ship service boxes.
-3.	Explain how cooling water flow through the ship’s refrigeration condensers is controlled.
-4.	List and describe any maintenance performed on the refrigeration system while you were aboard.
-5.	What type refrigerant is used in the ship service refrigeration system?	List six of its characteristics.
-6.	What are the EPA certification requirements for technicians handling the various types of refrigerants used on your ship? Discuss briefly.
-7.	List and describe how you would manually test for refrigeration leakage.
-8.	List and describe your ship's air conditioning system and its operation.
-9.	What automatic control devices are installed on the ship's air conditioning compressors and for what purpose?
-10.	List and describe the following for the AC compressors and include quantity, type, number of cylinders, bore, stroke, rpm, etc.
-11.	List and describe any maintenance performed on the air conditioning system while you were aboard.
+
+1.  Write a detailed description of your ship’s refrigeration system and its operation, incorporating the following items:
+
+-   compressors and operation, including unloading of compressor
+-   condensers
+-   evaporators
+-   temperature control of refrigerated spaces
+-   safety equipment - cutouts and pressure relief devices
+-   expansion valve
+-   leak detection
+-   refrigerant charging
+
+2.  Explain how temperature is controlled in the various ship service boxes.
+3.  Explain how cooling water flow through the ship’s refrigeration condensers is controlled.
+4.  List and describe any maintenance performed on the refrigeration system while you were aboard.
+5.  What type refrigerant is used in the ship service refrigeration system? List six of its characteristics.
+6.  What are the EPA certification requirements for technicians handling the various types of refrigerants used on your ship? Discuss briefly.
+7.  List and describe how you would manually test for refrigeration leakage.
+8.  List and describe your ship's air conditioning system and its operation.
+9.  What automatic control devices are installed on the ship's air conditioning compressors and for what purpose?
+10. List and describe the following for the AC compressors and include quantity, type, number of cylinders, bore, stroke, rpm, etc.
+11. List and describe any maintenance performed on the air conditioning system while you were aboard.

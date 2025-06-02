@@ -194,6 +194,41 @@ Location: underway in the Baltic Sea
 
 Today got off to a rough start. When I was doing my morning round, I discovered that the main engine lubricating oil purifier pump was leaking oil into its containment very quickly. When I saw it, I immediately rushed to tell the first engineer, who did not think it was a big deal when I described it to him. So, I went and told the third engineer who felt that this was a much bigger deal and made me disable the purifiers and made the first engineer see the mess created by the pump. As it turns out, that specific pump had a valve on the discharge side closed down the line and the pump was dead-heading, pushing oil past the seals. It created a horrible mess, and I got the privilege of cleaning it up. After that, I installed a pipe sealing kit onto a leaking fiberglass pipe. Here, I learned that a water drip is enough to erode a fiberglass pipe. I am optimistic that this seal will be sufficient to hold off this drip even though the kit was most certainly expired. In the afternoon, I disassembled a washing machine to attempt to determine the location of a strange vibration as observed by the deck department. Unfortunately, I did not have any luck and concluded that this was just the normal operation of the washing machine spin cycle. Another crisis averted by an astute member of the engineering department.
 
-### Day 18: 
+### Day 18: 5/28
 
 Location: underway in the North Sea
+
+This morning, I was assigned the task of carrying out an important 6-month preventative maintenance item for all of the ship's air conditioning equipment. There are 8 air conditioners on the ship: two in the bridge, one in the machine shop, one in the switchboard room, two in the control room, one in the galley and one very large unit for the accommodations space. I had to go around inspecting and cleaning all of them. Particularly, I was looking for the condition of the drive belts and would tension them as necessary. The switchboard room air conditioner, the largest of all of the package air conditioners, had a failing belt and was likely weeks away from failing. I secured the air conditioner and replaced this belt. Afterwards, I managed to get my finger crushed in pulley while inspecting an offline air handler unit for the accommodations space, so I definitely learned to appreciate hand placement.
+
+![Main switchboard room air handler belt system]()
+![Belt nearing failure]()
+
+### Day 19: 5/29
+
+Location: Bremerhaven, Germany
+
+Today, the Independence made her arrival into the port of Bremerhaven. I was called to maneuvering watch at 0730 and made regular rounds of the engine room looking for anything amiss. After we arrived, it was time for the main engine scavenge air box cleaning. This meant both myself and the oilers got to wipe down the scavenge air box inside and out, with half of us removing the doors to the scavenge space on the piston-liner side, and the other half crawling into the scavenge air manifold to remove the accumulated carbon and oil off of the walls of the spaces. It was definitely up there with some of my favorite things I've ever done, but it helped me better visualize how port scavenging actually works. After a short dinner, I went and assisted the engineers with reassembling the Moatti lube oil filters which had been disassembled for a thorough cleaning. It was exciting to have the opportunity to make and use gaskets.
+
+### Day 20: 5/30
+
+Location: Bremerhaven, Germany
+
+With the main engine offline, the engineers took the time to work on a lot of maintenance items that can't be completed while the ship is underway. My day began by joining the first engineer in the scavenger air box in performing an inspection on the main engine, which included rings, rods, cylinders, crowns and the liners. All items appeared nominal, except two rings on the number six cylinder had shifted in such a way that the fingers had come into alignment. This couldn't be remedied without the piston being pulled, so the first decided just to note the issue. The ring gaps were inspected using feeler gauges and the groove depths were measured using the depth bar on a caliper. The pistons and rods were inspected visually for thermal abnormalities. After the scavenger box. When that was completed, the second engineer instructed me to climb inside of the exhaust gas boiler to scoop out combustion debris. This was a fairly simple, but gross, job. So, when this was done, I climbed into the bilge to remove a scavenger oil drain tank skin valve. These items almost took me until the very end of the afternoon, and I finished my day by watching the first engineer test the alarms on the main engine. To do this, we put the Kongsberg K-Chief into simulation mode so that the automation would think that the engine was running even when it was not. That way, all of the engine alarms could be tested because many of them would not alarm unless the engine was running.
+
+### Day 21: 5/31
+
+Location: Bremerhaven, Germany
+
+Today the Independence was shifting docks and I was given the maneuvering watch. I reported to the engine room at 2330 (the day prior) and continued to do regular rounds of the engine room until 0150 when we received the finished with engine telegraph and secured the engine. After trying to get some sleep, I returned to the engine room to change over the fuel oil Moatti filters. This was a relatively simple process that involved unbolting the upper flange bolts, then lifting the top casing off of the Moatti. After draining it, we pulled the filter itself out of the casing and transferred it to a bucket full of diesel to soak. From there, it was as simple as dropping the new filter into the casing, installing the casing bolts, then bleeding the air from the newly-installed filter. After that, we pulled the start air valve from the number six cylinder as it was over its hours between overhauls. Once it was removed, we installed a spare which had been relapped and reconditioned. The exciting part was that I got to operate the main engine overhead crane. 
+
+### Day 22: 6/1
+
+Location: Bremerhaven, Germany
+
+Today was a lower-key day than the rest. All of the major preventative maintenance items that were due to be conducted by now had been completed in the past few days. As such, I was given time to work on my project and had the first engineer approve many of my drawings. In the evening, we departed Bremerhaven at 1900, and I had maneuvering watch with the third engineer. This watch was fairly short and mostly uneventful. However, I was instructed to bring the exhaust gas boiler online by opening up the feedwater valves to allow flow to the boiler. I did this incorrectly by opening up the auxiliary flow valves (which aren't regulated by a control valve) and set off the high boiler water level alarm. After that, I had to help the third engineer open up the blowdown valves and drain off the boiler. Today, I learned about the importance of getting enough sleep and tracing valves before lining them up.
+
+## Day 23: 6/2
+
+Location: underway near Belgium
+
+Today was a very uneventful day as we spent most of it maneuvering. While we were underway, I was instructed to clean the Nyrex ejector pump suction strainer. Given that I had never pulled a strainer before, I inspected it and bled pressure from the strainer, before just diving in and removing the flange bolts. With the flange removed, it was ultimately very simple to pull the strainer basket and clean it using high pressure hot water and some brass brushes. While I was in the strainer, I inspected the sacrificial zinc before battening everything up again. Later in the day, I returned for the beginning of our eight-hour Antwerp maneuver where I learned about the ship's inventory system.

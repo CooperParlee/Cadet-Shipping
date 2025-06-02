@@ -28,12 +28,14 @@ There were quite a few differences in plant operation between maneuvering and at
 10.	Explain the path of lube oil flow throughout the engine. How are the liners and bearings lubricated?
 11.	Provide detailed specifications of the various lubrication oils used for this engine. This may be obtained from product data sheets. Give approximate consumption figures.
 12.	Describe the procedure for getting the engine ready for sea, that is, ready for leaving port.
+
 13.	Describe the external lube oil system including filters and coolers.
 14.	Describe the purification, transfer, and storage system for the lube oil.
 15.	Explain how to check the L.O. level. When and how often was this done? Explain how to add oil to the engine.
 
 The main engine L.O. level was checked at the main engine lube oil head tank two levels above the engine room via a staircase on the port side. This level was checked at the beginning of the day during the oiler round or whenever any alarms for lube oil went off. Additionally, it was continuously monitored by the Kongsberg system via a sensor in the main engine system oil sump tank.
-NOT DONE
+
+As otherwise mentioned, we used two different oils for the main engine: cylinder and system oil. To add more of this oil to the main engine, it is as simple as lining the respective tank with the lube oil transfer pump and transferring it to the respective sump for that oil.
 
 16.	What is meant by "supercharging or turbocharging"? Explain how this is accomplished on your plant.
 
@@ -56,6 +58,8 @@ ADD PICTURES
 
 19.	What is "tappet clearance” or “valve lash" and how is it adjusted on the intake/exhaust valves?
 20.	List and describe in detail any maintenance or repairs performed on the main engine while you were on board.
+
+On May 29, the main engine scavenge air receiver was opened and cleaned. It was pretty simple, albeit very important and labor intensive. It included scraping off carbon deposits from inside the scavenge space and then wiping up all of the oil inside. It was important because it reduces the risk of scavenge airbox fires.
  
 21.	List and describe the air compressors on your ship, including their type, number, size, pressures, and what the air is used for.
 

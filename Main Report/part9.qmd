@@ -17,9 +17,21 @@ Part 9 Engine Room Records and Watch Standing Practices (All Vessels)
 
 2.  List and describe how fuel remaining on board is calculated. What are the various tables used? How are corrections made to these figures (for trim, heel, and temperature)?
 
-The fuel remaining on board is calculated automatically using the Kongsberg system. The system has a list of tanks on the vessel, what fuel is in them and the respective level via tank level indicators (TLI). If a precise measurement was needed, the chief engineer would send the third engineer to go and take soundings for the various tanks. From there, he would use the tank table
+The fuel remaining on board is calculated automatically using the Kongsberg system. The system has a list of tanks on the vessel, what fuel is in them and the respective level via tank level indicators (TLI). If a precise measurement was needed, the chief engineer would send the third engineer to go and take soundings for the various tanks. From there, he would sound the tank and then use the tank table for the respective trim of the vessel. Temperature was not something that the engineers really accommodated for, but they would note it in their record books. That way, if there were any "missing" items on the oil record book, for example, they would be able to suggest that a discrepancy in a few cubic meters of heavy oil could be due to the fact that an original sounding was taken under heat. Also, the vessel rarely heeled. However, if the ship was rolling a lot, a couple soundings would be taken to minimize the effect of tank sloshing for lower viscosity fuel tanks like diesel.
 
 3.  List and describe the system used to keep track of spare parts on the vessel. If no system was used on your ship, describe how a system might be instituted.
+
+My ship had a very elegant system to keep track of spare parts. It was all built into NSE, which maintained the inventory from delivery. Once a part was delivered, it would show up in the inventory view. The engineers would take the physical parts and their packages and print out storage labels for them. The storage labels would have the ship, the equipment it was for, manufacturer, part name, location, part number in NSE and the manufacturer part number. Here was an example of a label on a drinking water filter:
+
+**Ship**: ARC INDEPENDENCE
+**EQP**: 584.01 COLD WATER FOUNTAINS
+**MFG**: (not provided)
+**PART**: FILTER FOR D.W FOUNTAIN
+**LOC**: ME STORE 06*06-03-03
+**P/N**: 584.01.SKPM-SML-053-00 * WALL-8530004028
+**PIN**: 12801
+
+The location information was the most elegant part here. The main engine store room's cabinets were all numbered, as were the shelves. Consider the location for the above part (06-03-03); 06 corresponds to the sixth cabinet, 03 corresponds to the third shelf down, and 03 corresponds to the third column in that shelf. Sometimes there would be a fourth number at the end, which was if the shelf was a drawer and it corresponded to the numbered containment within that drawer. If you ever needed a spare part for routine maintenance, often the machine would have the same printed out label as was found on the part itself. For example, when I was replacing a belt on an air conditioner, it had the EQP number. All I had to do was log into NSE, search for that number and it would tell me if we had any spares and where they were located. This system made it very easy to keep track of how many spares were available of a certain part and really saved time finding them when needed.
 
 4.  What is meant by the term "trend analysis"? How does this relate to engine room records? Explain how trend analysis was conducted on your ship, including equipment analyzed, and how often.
 
@@ -27,11 +39,15 @@ Trend analysis is the practice of doing tests at regular intervals to observe bo
 
 5.  What process was used to track operating hours on the main propulsion unit and its associated equipment between overhauls?
 
+The chief engineer used two different systems to track operating hours on the main propulsion unit and equipment between overhauls. Once a month, the chief would go in and update the current main engine hours in an Excel sheet. That Excel sheet had all of the hours of the last overhauls on each respective component within the main engine. From there, the sheet would calculate the hours on each piece of equipment. Additionally, he also updated a program called NSE where these same hours were logged. That system would then make preventative maintenance recommendations. However, at some point in recent history, a port engineer switched the system for logging hours in NSE in a way that made it much less useful and accurate so the chief mostly relied on the Excel sheet to log operating hours. Additionally, the crew made overhauls by inspection rather than operating hours given guidance by MAN to prolong the lifespan of most of the components. MAN figures that it is more reliable to keep using equipment that is broken in and fine via inspection rather than take a risk in using new equipment.
+
 6.  Explain how maintenance performed on the main propulsion units was recorded, including bearing clearances, limitations, tests performed and inspection results.
+
+Maintenance performed on the main propulsion units was recorded in NSE. When an engineer carried out a maintenance task, they could attach any documents associated with the maintenance task. Often this included clearances, tests performed (or that were unable to be performed) and inspection results but obviously depended on the preventative maintenance item. Additionally, for more important trend analysis, they would often put those items into Excel format on the shared company Google Drive, that way the port engineers could also access them ashore and the trend could be visualized over time (they'd make graphs).
 
 7.  Explain how maintenance was scheduled.
 
-Maintenance was scheduled in a program named NSE. 
+Maintenance was scheduled in a program named NSE and supplemented by an Excel sheet the chief made. Each morning, the chief and first engineers would get a report of all of the preventative maintenance items that would be coming due soon or were past due in NSE. Some of these suggestions were inaccurate, so they would go and consult the Excel sheet to see hours on equipment to see whether that piece of equipment should be inspected and potentially overhauled. Once this was done, they would update both pieces of software with the operating hours and date that the maintenance was conducted such that they would know when maintenance would next need to be performed. 
 
 8.  List and describe what type of records were maintained on fuel oil, fresh water, lube oil, and feed water carried and consumed.
 

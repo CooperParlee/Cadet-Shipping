@@ -227,8 +227,38 @@ Location: Bremerhaven, Germany
 
 Today was a lower-key day than the rest. All of the major preventative maintenance items that were due to be conducted by now had been completed in the past few days. As such, I was given time to work on my project and had the first engineer approve many of my drawings. In the evening, we departed Bremerhaven at 1900, and I had maneuvering watch with the third engineer. This watch was fairly short and mostly uneventful. However, I was instructed to bring the exhaust gas boiler online by opening up the feedwater valves to allow flow to the boiler. I did this incorrectly by opening up the auxiliary flow valves (which aren't regulated by a control valve) and set off the high boiler water level alarm. After that, I had to help the third engineer open up the blowdown valves and drain off the boiler. Today, I learned about the importance of getting enough sleep and tracing valves before lining them up.
 
-## Day 23: 6/2
+### Day 23: 6/2
 
 Location: underway near Belgium
 
 Today was a very uneventful day as we spent most of it maneuvering. While we were underway, I was instructed to clean the Nyrex ejector pump suction strainer. Given that I had never pulled a strainer before, I inspected it and bled pressure from the strainer, before just diving in and removing the flange bolts. With the flange removed, it was ultimately very simple to pull the strainer basket and clean it using high pressure hot water and some brass brushes. While I was in the strainer, I inspected the sacrificial zinc before battening everything up again. Later in the day, I returned for the beginning of our eight-hour Antwerp maneuver where I learned about the ship's inventory system.
+
+### Day 24: 6/3
+
+Location: Antwerp, Belgium
+
+Today was a relatively unproductive day on the day-work side given my requirement to attend maneuvers. It started with a start air valve service and inspection, where I pulled the valve apart, wirewheeled and cleaned the carbon buildup off of the valve and prepped the valve for painting, only to discover that we did not have any more of the paint that was used on that valve. After inspecting the disassembled and cleaned valve, I put it all together before being informed that I needed to lap the valve seat. Unfortunately, I did not have time to do that today because I needed to assist the other engineers in doing standby start tests on the various plant-critical pieces of equipment. This included the LT cooling loop, main engine lube oil and stern tube lube oil. I learned that standby start involves manually turning a pump off and ensuring that the system automation kicks on the other unit. The Independence was having a U-Wild inspection today and had divers in the water. When they left, they informed us that they had discovered a crack in our rudder but this couldn't be repaired in our time in Antwerp. Once they were out of the water, I was instructed to remove the LOTO items that must be disabled for the divers' safety: the ICCP system, start air, and turning gear systems.
+
+### Day 25: 6/4
+
+Location: Zeebrugge, Belgium
+
+After an eight hour maneuver today, we arrived in Zeebrugge. My day began by finishing reassembly of the start air valve I started yesterday. I pulled the valve completely apart and lapped the valve to the valve seat. I hadn't done this since Power Equipment Lab almost 2 and a half years ago, so it was like relearning this for the first time. The divers returned today to repair the crack in our rudder stock, so I was the one to walk around and lock out the various important pieces of equipment. After that, I assisted the second engineer in installing new gauges on the exhaust gas boiler--one for the inlet and outlet gas temperatures. In this experience, I was reminded of how much I loathe pop rivets. We must have used 20 pop rivets to place 4 successful rivets into the courtesy loops of the capillary tubes. Once this was done, I assisted in receiving delivery of the new retrofit equipment from MacGregor which contained new PLCs and other equipment for install in the ramp control system. 
+
+### Day 26: 6/5
+
+Location: Underway in the British Channel
+
+My morning activities began today with disassembling a globe angle lift stop check valve and cleaning it. This valve was intended to be retrofitted onto one of the fresh water storage tanks which was known to be leaking. I spent a lot of time ensuring it was really clean and sealed well since I knew I would be drinking from it once I crawled into the bilge to replace the valve later. After that, I got ready for our afternoon maneuver out of Zeebrugge where I effectively carried out the engine start up procedure alone, with little guidance along the way from the engineers. It was a proud moment for me as I felt like I was finally adjusting to life at sea and my responsibilities as an engineer. In the downtime before plant start up, the chief engineer had me fill out his departure report which contained most of the same information as the typical noon report. When I filled this out, I learned a lot about how the engineers track their consumption numbers, specifically fuel, oil, water and operating hours. I also got to apply some things I learned about engine speed, true speed and slip, even if most of it was in Excel.
+
+### Day 27: 6/6
+
+Location: Southampton, England
+
+My day began at 0330 when we began maneuvering into Southampton. It was a slow start, but eventually became much more urgent when a high pressure fuel sensing line on the inboard ship service diesel generator sprung a leak and created a fine diesel mist inside of the generator room. As soon as I walked into the engine room, I could smell that something was wrong. This resulted in a very urgent call to the chief and the first engineers before we took that generator offline and created a plug for the leaking fuel line. This was sufficient to get us into Southampton with both generators operational, even if we didn't have any fuel pressure data from that generator. I worked a few hours after that assisting the third engineer in creating a new copper fuel line for that generator and by assisting, I mean teaching. It was a technically simple task but was quite frustrating getting the tool to make several complex bends with correct lengths. Once that was finished, I cut rubber to create chafing gear for the new and surviving old fuel line to prevent a leak from recurring. Then, I returned later in the day at 2100 to assist in the departure maneuver. The chief put me in charge of doing the beginning pilotage and end of maneuvering numbers, and I'm proud to admit that my ability to do the chief's work for him is coming along nicely. We wrapped up at 0130 the following morning by discharging our sewage outside of the required 12 nautical miles.
+
+### Day 28: 6/7
+
+Location: Underway in the Atlantic Ocean
+
+After being up late last night doing maneuvering, I woke up very excited to begin my day at 0700 this morning. We began by bringing the evaporator online and lining up the tanks for new freshwater. After that, I did the noon report for the chief engineer, which, I'll admit was a little more complicated than the previous numbers I had completed for maneuvering. He followed my completion of these numbers by explaining how the bunkering lab samples get added to the S-Insight software and explaining how a Proof of Sustainability report works for B30 fuels and the European carbon taxes. After our lecture was complete, I went and helped the third engineer (who has learned a lot more about tubing bending since yesterday) make a new fuel sensing line for the other generator after our mishap yesterday which we are hoping to avoid with this other generator. 

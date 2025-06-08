@@ -1,0 +1,126 @@
+---
+format:
+    html: 
+        code-fold: false
+    pdf:
+        papersize: letter
+        number-sections: false
+        colorlinks: true
+        highlight-style: github
+        sansfont: Latin Modern Roman
+editor: visual
+---
+
+Part 11 Emergency Diesel Generator (All Vessels)
+
+1.	List and describe the manufacturer, model, size and name plate data for the emergency diesel engine.
+
+The emergency diesel generator was a Cummins NTA855 Big Cam III. It had a displacement of 14 liters, bore of 140mm, stroke of 152 mm, a wet weight of 1348 kg, firing order of 1-5-3-6-2-4. This engine did not have a nameplate on the engine as such, this data is from the equipment manual.
+
+2.	Where is the emergency generator located? List the emergency generator name plate data.
+
+The emergency generator is located on the aft, port side of upper accommodation deck level. Below is the nameplate data on the unit:
+
+Rated Output: 215 kW
+Model: HCM434D1
+Maker: NEWAGE
+Type: Horizontal, self-exciting brushless, single ball bearing, drip proof
+Rated Speed: 1800 RPM
+Rated Voltage: AC450V
+Overcurrent Capacity: 110%
+Current: 344.8 A
+Insulation Class: H
+Temperature Rise: F-class
+Frequency: 60 Hz
+Poles: 4 poles
+Phases: 3 \phi
+Coupling: Direct Disc Coupling
+Power Factor: 0.8
+Weight: 950 kg
+
+3.	Describe in detail the equipment and electrical circuits/sections the emergency generator serves.
+
+The emergency generator serviced a limited amount of equipment. It serviced the emergency lighting, which was usually one or two lights in every room that were separate from the main bus. It serviced the emergency start air compressor which was used to start the main diesel generators. This was a much smaller air compressor than the main start air compressors which were usually used to fill start air bottles. It powered the fire pump, the P.A. system, the uninterruptible power supply for the engine control room console, the battery charger for the EDG start system and the fire control panels. It powered one of the cooling water pumps (the inboard one), the alarm horns, the auxiliary blowers for the main engine, the generator diesel and lube oil pumps, the breathing air compressor within the fire locker and the lifeboat winch.
+
+4.	What is the emergency diesel engine operating speed, L.O., F.O. and cooling water pressures and temperatures while operating under load?
+
+The diesel engine operating speed is 1800 rpm. Oil hovered around 300 kPa and 90 \degC. Coolant remained around 200 kPa and 70 \degC. Fuel oil pressure or temperatures were not a gauges on the engine and there were no values provided within the diesel engine manual.
+
+5.	How often should emergency generator's engine be test operated according to Coast Guard regulations? How often was it operated to meet this regulation?
+
+According to 46 CFR 109.211(a)(2), Each emergency generator is tested at least once each month by operating it under load for at least 2 hours. The emergency generator was tested under load monthly for a duration of around two hours. To do this, the emergency bus tie was opened, triggering the diesel engine to start. Once the bus was opened, the time for the generator to start was tested because the generator must be able to start and take full load within 45 seconds. Once it was running, it was left running for around two hours.
+
+6.	Is the engine supercharged/turbocharged? If so, explain how.
+
+This engine is turbocharged. It uses the exhaust gases it produces to turn the exhaust side of the turbine. The exhaust turbine is directly coupled to the intake side and the work produced by the exhaust turbine is used to turn the intake turbine. With the intake turbine turning, air is pulled and compressed into the engine which boosts the scavenge air pressure into the engine and improves efficiency by raising peak compression pressures.
+
+7.	List and describe the lube oil filtering system.
+
+The lube oil system on this generator was very similar to that of an automotive lube oil filtering system. It used a Fleetguard LF9009 spin-on lube oil filter. This was a can-type filter containing a mesh screen and filter to remove particulates within the lube oil.
+
+8.	List and describe the fuel filtration system
+
+The fuel filtration system used a combination of Inline Filters fuel water separators (30678) and Baldwin BF957-D filters. Though both filter sets functioned the same way, the Inline Filters components were primarily in service and removed water and sediment from the fuel. The first component of the filter is a coarse mesh filter material which removes large particulates and sediment. Then, a special synthetic component causes the water to coalesce at the bottom of the filter. Finally, the remaining fuel passes through an even finer filter before traveling to the fuel pump.
+
+9.	Explain in detail how to start and stop this engine locally.
+
+There are a few ways to start and stop this engine locally. The first way is to open the main switchboard bus tie breaker and allow the generator to start itself automatically. To stop the generator after this method, you could push the stop button on the control console but the generator automation would just start itself back up again. Either power must be restored to the generator or the generator must be switched to manual mode, then the shutdown button is pressed. The second way to start the generator is to switch the generator to manual mode, then press the start button which will use the electric starter to start the generator. To shut down after this, simply switch the generator to automatic or press the stop button. The final way to start the generator is to use the hydraulic start system. Pump the hydraulic starter cylinder 15-20 times after removing the safety pin. Then push the red start button located just above the hydraulic starter motor. Now that the generator is running, the stop button on the control panel can be pressed.
+
+10.	List and describe the path of the cooling system found on the emergency diesel engine.
+
+The cooling system on this diesel engine is very similar to the cooling system on many automotive and agricultural applications. The cooling water pump is driven by an engine belt to pump coolant throughout the engine. From the water pump, it travels separately to the oil cooler and engine block. After traveling through the engine block, coolant will travel through the aftercooler and coolant preheater separately. The coolant which travels through the preheater is then heated by the electric preheater if it is in service and then travels into the pump suction. After the aftercooler and lube oil cooler, the coolant will reconverge at the thermostat. The thermostat operates similar to that in an automobile. If the temperature is hot enough, the thermostat will open to the radiator, which is a fan-air cooled plate type heat exchanger, and coolant will flow throughout and be cooled. Additionally, there is a spin-on coolant filter after the water pump, which can remove some particulates which might accumulate from erosion within the engine due to the flow of coolant. After the filter, filtered coolant reconnects to the main loop before the thermostat.
+
+11.	List and describe how cooling water was tested and what was used for treatment.
+
+Cooling water was not tested for this engine as the engine was rarely run and because we used pre-mixed FRAM coolant. However, the manual says to check the coolant additive concentration (DCA4) and follow the FleetGuard CC2626 testing procedure for their provided test. If the concentration was below 3.0 units, the procedure is to replace the coolant. On another ship, if we were using treated water with additive, ES Compleat or DCA60LX booster (both from FleetGuard) could be added to increase the additive package.
+
+12.	Explain how to replenish the engine's fuel tank.
+
+The engine's fuel tank can be replenished above the generator room. Next to the fuel tank vent, there is a flange which may be removed to add fuel. On my ship, we added fuel via a drum of "emergency fuel" as we did not want to take any risk of putting in any bad fuel, lest we run into a bridge. The drum was brought up to the upper deck where the flange was and a compressed air diaphragm pump was used to pump fuel from the barrel into the tank.
+
+13.	List and describe the engine's starting system.
+
+The emergency diesel generator contained both an electric and hydraulic starting system. The electric system contained two 12 volt marine-grade lead acid batteries which drove an electric motor. The electric motor spun up to speed and the Bendix drive engaged with the flywheel on the engine and the engine cranks over. Once the engine reaches sustained combustion and is rotating faster than the starter motor, the Bendix is kicked out of the flywheel and disengaged. The hydraulic system is to be used if the electric system doesn't work. It is operated by first removing the pin on the hydraulic pump cylinder and then pumping the hand pump 15-20 times. Then, the red push button on the hydraulic starter motor is pushed and the generator should turn over.
+
+14.	List and describe the preventive maintenance schedule for the emergency diesel engine, including a list of hour or condition based maintenance items.
+
+*Daily*
+- Check/clean air precleaner and dust pan: check the air precleaner filter and clean as necessary given environmental conditions
+- Engine operating report: observe any unusual conditions such as low lubricating oil pressure, low power, abnormal water or oil temperature, engine noises or smells
+- Inspect cooling fan: check that the coolant fan is undamaged and fastening hardware are secure
+- Check coolant level: ensure coolant level is between the H and L marks on the radiator before operation
+- Inspect belts: ensure belts aren't fouled or cracked
+- Inspect belt tension: deflect the belt inwards and retension belt if 25 lb of force is sufficient to deflect the belt one belt thickness.
+- Drain fuel-water separator: turn the nob below the separator counterclockwise and allow water to drain out the bottom
+- Check oil level: after waiting 5 minutes, ensure oil level is between H and L marks on the oil dipstick
+- Unusual noise checking: listen for expensive noises
+*Weekly*
+- Clean/check air cleaner equipment: if air cleaner is dirty, used compressed air to blow out filter.
+- Inspect air intake hoses, pipes and clamps: ensure that none of the aforementioned equipment is fouled.
+*Every 250 hours or 1 year (for standby generators)*
+- Replace coolant filter: remove the twist off filter, then fill the new filter with coolant before reinstalling
+- Crankcase breather cleaning or charging: remove crankcase breather and ensure it is not clocked, if it is, clean/replace it.
+- Replace fuel filter: remove the twist off filter, then fill the new filter with fuel before reinstalling
+- Replace Lubricating oil and oil filter: remove the twist off filter, wipe a film of oil onto the seal of the filter, then fill the new filter with oil before reinstalling.
+- Check coolant additive concentration (every 6 months): check the DCA4 concentration using the Fleetguard CC2626 testing kit.
+*Every 1500 hours or 1 year*
+- Adjust crossheads, valves, injectors: disassemble the engine and torque respective components. Read the manual.
+*Annually*
+- Check batteries: check battery voltage and electrolyte level. 
+- Check crankshaft end clearance: use a dial indicator to measure the end clearance of the crankshaft.
+- Check heat exchanger zinc plugs: check the length of the zinc plugs in the heat exchanger and replace if necessary.
+- Check/replace hoses: inspect hoses for fouling
+- Check/tighten engine bolts: tighten bolts if they are loose
+- Steam clean engine: clean the exterior of the engine using steam or a solvent.
+- Check thermal aids: inspect the engine coolant preheater and ensure it's not fouled.
+- Inspect turbocharger mounting nuts: tighten nuts as necessary to 48 N-m.
+*Every 6000 hours or two years*
+- Change cooling system coolant: replace coolant with either premixed low silicate coolant or water and coolant additives
+- Inspect fan hub: inspect fan hub for loose bolts or damage
+- Inspect idler pulley assembly: ensure idler pulley is not loose or damaged
+- Inspect turbocharger: inspect turbocharger for cracks or fouling, specifically on the exhaust side.
+- Inspect vibration damper: look for evidence of dents, wobble or fluid loss
+- Inspect water pump: remove water pump and inspect for damage
+*Every 6000 hours or three years*
+- Clean, calibrate, or replace fuel pumps: remove fuel pump and clean, send away for reconditioning as necessary.
+- Clean, calibrate, inspect injectors: send injectors away for recalibration.

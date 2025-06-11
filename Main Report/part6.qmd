@@ -14,17 +14,39 @@ editor: visual
 ## Part 6 Steering Gear (As Applicable)
 
 1.  List and describe the manufacturer and type of steering gear/system used on the ship.
+
+Our steering gear was a Porsgrun AS electro-hydraulic steering gear and was rotary-vane type.
+
 2.  List and describe the important points which require careful checking when inspecting and servicing the steering gear/system.
+
+Important parts for inspection on the steering gear system include the hydraulic system, oil, rudder, feedback linkages and the operation of steering gear modes. The hydraulic system should be inspected for leaks and vibration from the motor. The oil should be checked for condition, including debris and contamination. The rudder should be inspected for integrity. At one point in my trip, a 55-mm crack was identified in the rudder stock and had to be repaired by underwater welders. The feedback linkages should also be checked, specifically those which tell the rudder angle indicator what position it is in. If these get lose, the control system would fail and no one would know the position of the rudder. Finally, all of the steering gear modes should be tested for functionality, including the autopilot, hand steering at all stations, followup and non-follow up.
+
 3.  What are the USCG regulations on testing steering gear prior to departure from port? List the steps necessary for starting and testing the steering gear before leaving port.
 
 Coast Guard regulations concerning testing the steering gear prior to leaving port are described under 33 CFR 164.25. The following must be tested at most 12 hours before departure from port: all steering gear control systems (follow-up, non-follow-up), all steering locations on the bridge, the rudder angle indicator, all power failure alarms on the control system and steering gear, moving the rudder the full range of motion for the gear. Prior to departure from port, our routine for testing the steering gear would include a call from the bridge to the steering gear room. Before receiving this call, we would have already checked for hydraulic fluid leaks and the level on the steering gear tank. We would begin by taking control of the steering gear on location and move the gear the full range of motion both port and starboard. We would then give the bridge control and they would do the same as we monitored for issues with the gear and position indicator. We would perform this test for both motors, one at a time, checking pressures along the way.
 
-1.  What are the sources of power for the steering gear/system?
-2.  List and describe how the steering gear/system is controlled from the bridge, as well as from all alternate stations, including what modes of steering control are available and how the steering modes are shifted.
-3.  Explain how air is detected and removed from a hydraulic system.
-4.  What type of pump is used to move the steering gear ram? Describe how the pump works.
-5.  List and describe how hydraulic fluid flows from the pump to move the rudder in the desired direction, and what happens when the rudder arrives at the ordered position.
-6.  Explain how the steering gear/system answers a rudder signal from the bridge correctly without overcompensating.
-7.  What is used on the steering system for rudder stops? Explain their operation.
-8.  What is Emergency Steering? List and describe the procedure for operating Emergency Steering.
-9.  Who maintained the steering gear/system on your ship? How often is it inspected?
+4.	What are the sources of power for the steering gear/system?
+
+The steering gear's two electro-hydraulic motors were powered by the main electrical bus normally and the port pump was powered by the emergency generator upon loss of power to the main bus. 
+
+5.	List and describe how the steering gear/system is controlled from the bridge, as well as from all alternate stations, including what modes of steering control are available and how the steering modes are shifted.
+6.	What type of pump is used to move the steering gear ram?  Describe the operation. 
+
+The steering gear pump is a positive displacement vane pump and is controlled by a variable frequency drive (VFD). The pump draws oil from a hydraulic reservoir within the steering gear system. The oil is sent through a directional control valve which determines which side of the steering gear vanes the oil is sent to and hence the direction of rotation of the of the ram.
+
+7.	List and describe how hydraulic fluid flows from the pump to move the rudder in the desired direction, and what happens when the rudder arrives at the ordered position.
+8.	Explain how the steering gear/system answers a rudder signal from the bridge correctly without overcompensating.
+
+In the follow up mode of the steering gear, the rudder's position is continuously monitored by a potentiometer connected to the rudder by a mechanical linkage. The potentiometer is calibrated to know the angle of the rudder at any given time. As such, one the rudder is sent an order from the bridge, say 20\deg port, the directional control valves are sent a signal to turn to that direction and the rudder begins to turn in that direction. As the rudder is approaching the new set angle, the angle is measured on the potentiometer and the turn rate is reduced to check the rudder swing to ensure that the rudder does not overcompensate.
+
+9.	What is used on the steering system for rudder stops? Explain their operation.
+
+The steering gear system effectively had a combination of mechanical rudder stops and hydraulic cushions. There were adjustable stop bolts with blocks attached on top of the steering gear housing which could be set to specific angles to stop the rotor from passing outside of the safe ranges. Additionally, the flow constriction of the blocks effectively creates a hydraulic cushioning effect through the actuator to soften the rudder motion near these mechanical end stops.
+
+10.	Explain the redundancy systems in your steering gear system and how they operate.
+
+There are major redundancy systems in the steering gear system. These include the various modes of operation, the independent chambers of the steering gear actuator, multiple motors and power systems. The system had a lot of redundancy with its different modes of operation. Since the system could be controlled in multiple different ways, locally, from the bridge, autopilot and follow-up and non-follow up modes, there were many different ways to control the steering gear which could cut out any issues that were encountered in its operation. Additionally, the hydraulic ram had two different chambers. They were generally connected but could be isolated in the event of a leak. There were also two separate hydraulic pumps and motors which could each drive the steering gear on their own (or together for more speed). Additionally, there were different means of providing electrical power to the steering gear, from the main bus or from the emergency bus in case that main power is lost.
+
+11.	Who maintains the steering gear/system on your ship? How often is it inspected?
+
+The steering gear is maintained by the chief and first engineers as it was a critical system. Sometimes simple tasks such as greasing were delegated to the third engineer, but again this was largely under the perview of the senior engineers. The system was inspected by multiple engineers throughout the day. It received the most attention at the beginning of the day when all of the engineers and oilers did their daily rounds.

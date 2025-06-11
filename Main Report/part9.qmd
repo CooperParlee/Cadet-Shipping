@@ -53,9 +53,29 @@ Maintenance was scheduled in a program named NSE and supplemented by an Excel sh
 
 8.  List and describe what type of records were maintained on fuel oil, fresh water, lube oil, and feed water carried and consumed.
 
+The records on fuel oil, fresh water, lube oil and feed water were all recorded within one sheet in Excel. For fuel oil, bunker records were taken, then verified with soundings to adjust tank levels in a program called S-Insight. For consumption, generator, incinerator and main engine flow meters recorded diesel and heavy fuel consumed in cubic meters. Then, every afternoon, the chief engineer would create the noon report with the consumption values for the day. These would be added to S-Insight and removed from the tanks. For fresh water, similar flow meters were found on the potable water tank and Nyrex. Freshwater produced would be added to the S-Insight and the hydro tank numbers would be subtracted. For lube oil, only cylinder oil was tracked by the Alfa Lube system and entered into the S-Insight and Excel document. For feed water, there was a flow meter before the boiler cascade tank to measure how much water was used by both the aux and exhaust gas boiler systems.
+
 9.  Fill out a typical noon report (or a midnight report if used on your ship).
 
 10. Provide a reproduced and completed page of the engine room logbook for one underway watch.
+
+The majority of values recorded in a typical logbook were recorded electronically for my ship. Here are the values provided in the logbook on one specific day (4 May):
+
+| Consumed        |  HFO   |  MDO  | M/E Cyl Oil | Fresh Water | M/E Lube Oil | A/E Lube Oil |
+|-----------|:---------:|:---------:|:---------:|:---------:|:--------:|:---------:|
+| Consumed        |   26   |  1.5  |     117     |     8.7     |      0       |      0       |
+| Received        |   0    |   0   |      0      |     24      |      0       |      0       |
+| On Hand at Noon | 1164.8 | 775.7 |    26469    |    138.1    |    21700     |     6550     |
+
+*Duty Engineer's Remarks*
+0750 ER MANNED
+0754 DG#1 O/L SG OFFLINE
+1200 ER UNMANNED
+1250 ER MANNED
+1650 ER UNMANNED
+2400 NIGHT ROUND COMPLETE, ER UNMANNED
+
+![Engine room logbook from 5 May](Pictures/part9/er_log.PNG)
 
 11. Provide a reproduced and completed oiler's round of temperatures and pressures for one underway watch.
 
@@ -63,7 +83,7 @@ Maintenance was scheduled in a program named NSE and supplemented by an Excel sh
 
 We did not have regular at-sea watches as we had an engine room. This watch question is more relevant to our maneuvering watches. However, if I had a duty day, I would begin by arriving 20-25 minutes before the end of the other engineers' overtime day work. I would take note of all of the items on the running board, which was a good diagram of everything that was running at the time. However, it was often not totally up to date. With this information in my notes, I would make a complete round of the engine room, beginning at the engine control room, going up the stack staircase (called the fiddly on my vessel) and checking the tank levels on all of the expansion tanks (oil, LT and jacket water). Coming down the staircase, I would check the boiler water cascade tank and the aux and EGB boiler pressures and levels, then the turbocharger pressure differential. After that, I would go down from the upper engine room into the mid level and check all of the equipment there, which included sea water, jacket water, lube oil and LT water pumps and coolers, Moatti lube oil filters, the evaporator and the Alpha Lubricator cylinder lubricators to make sure the engine was getting lubricated. As I'm walking around, I'm now looking for leaks, expensive noises, hot spots and vibrations that don't feel right. With this level completed, I would next move to the lower engine room, where I would check the bilge and ballast pumps, Nyrex ejector pumps and the lower engine. Again, I'm looking for leaks, noises, hot spots and vibrations coming from any of the equipment on that level. Next, I would proceed to shaft alley where I would check the bilge wells, the shaft generator, bearings and stern tube for any of the above issues. The stern tube lube oil cooler was known to leak, so usually on my round, I would wipe it down. With the main engine room done, I would proceed up to the upper level of the engine room and go check the main switchboard room. There is very little to look for here besides water where it doesn't belong and noises. It's one of those situations where you know it when you see it. Next, I would check the steering gear room. I would take a look out for leaks in the RORO hydraulic system and pressure issues with the steering gear. The steering gear regularly had issues with making loud noises as the pumps would change direction, so really the priority here is looking out for noises that are out of the ordinary. With the steering gear horseshoe complete, I would then check the generator room where I would look for the same issues as the main engine; I would be looking for major oil and fuel leaks, temperatures on the heat exchangers, pressure on the start air emergency tank and ultimately anything that was out of the ordinary.
 
-With that information complete, I would return to the engine control room and update the running board with what was actually open and/or running. Then I would discuss with the engineer who was on duty before me of any changes or issues I would need to be aware of and any questions I had from walking around the engine room. After I had been properly relived, I would then assume the night watch where I would do a couple of hourly rounds until 2300 before turning the engine room unmanned and turning on the pager. 
+With that information complete, I would return to the engine control room and update the running board with what was actually open and/or running. Then I would discuss with the engineer who was on duty before me of any changes or issues I would need to be aware of and any questions I had from walking around the engine room. After I had been properly relived, I would then assume the night watch where I would do a couple of hourly rounds until 2300 before turning the engine room unmanned and turning on the pager.
 
 13. What information is found in the engineer’s turnover reports/notes to their relief counterpart(s)? Describe the company’s policy for these reports. Are they saved or shared?
 
@@ -103,8 +123,7 @@ Since the diesel generators ran on a single oil for the whole system, there was 
 
 All four purifiers aboard my vessel were made by Alfa Laval. The two fuel oil purifiers were model S861 and the two lube oil purifiers were model S831.
 
-![Alfa Laval S861 fuel oil purifier nameplate]() 
-![Alfa Laval S831 lube oil purifier nameplate]()
+![Alfa Laval S861 fuel oil purifier nameplate]() ![Alfa Laval S831 lube oil purifier nameplate]()
 
 18. Discuss in detail any operational problem encountered with a fuel or lube oil purifier while you were onboard. If no problems were encountered, possibly the engineers could provide you with some working history – good or bad – of the purifiers.
 
@@ -134,11 +153,6 @@ Only the chief was authorized by the company to run the oily water separator. Al
 
 23. Provide name plate data for the sewage treatment unit. Explain its operation.
 
-Evac Collecting Unit Vacuum Toilet
-**Type**: Easy Fit
-**Year**: 2006
-**Serial Number**: 2829
-**Inspected**: 08 08 2006
-Made by Evac
+Evac Collecting Unit Vacuum Toilet **Type**: Easy Fit **Year**: 2006 **Serial Number**: 2829 **Inspected**: 08 08 2006 Made by Evac
 
 The Evac vacuum collection unit operates by using vacuum pumps to pull sewage from receptacles (toilets and urinals) into a black water collection tank as described above. The two vacuum pumps on our unit pulled a vacuum on the piping system that connects to the toilets in accommodation spaces. When the flush button is pressed, the waste in your toilet is opened to the vacuum system and higher pressure atmospheric air pushes the waste into the pipes. According to the manufacturer, one flush pushes the waste about 10-20 meters but it generally takes two flushes for the waste to reach the collection tank. From there, it can be pumped out of the black water tank using a different positive displacement pump moves the waste to an overboard discharge through a series of valves, the last of which is usually chained shut. This waste can only be pumped overboard outside of 12 NM of land or special areas. There is also an inlet for fresh water nozzles which spray water to help clean the sides of the tank.

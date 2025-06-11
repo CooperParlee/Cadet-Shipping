@@ -261,4 +261,18 @@ My day began at 0330 when we began maneuvering into Southampton. It was a slow s
 
 Location: Underway in the Atlantic Ocean
 
-After being up late last night doing maneuvering, I woke up very excited to begin my day at 0700 this morning. We began by bringing the evaporator online and lining up the tanks for new freshwater. After that, I did the noon report for the chief engineer, which, I'll admit was a little more complicated than the previous numbers I had completed for maneuvering. He followed my completion of these numbers by explaining how the bunkering lab samples get added to the S-Insight software and explaining how a Proof of Sustainability report works for B30 fuels and the European carbon taxes. After our lecture was complete, I went and helped the third engineer (who has learned a lot more about tubing bending since yesterday) make a new fuel sensing line for the other generator after our mishap yesterday which we are hoping to avoid with this other generator. 
+After being up late last night doing maneuvering, I woke up very excited to begin my day at 0700 this morning. We began by bringing the evaporator online and lining up the tanks for new freshwater. After that, I did the noon report for the chief engineer, which, I'll admit was a little more complicated than the previous numbers I had completed for maneuvering. He followed my completion of these numbers by explaining how the bunkering lab samples get added to the S-Insight software and explaining how a Proof of Sustainability report works for B30 fuels and the European carbon taxes. After our lecture was complete, I went and helped the third engineer (who has learned a lot more about tubing bending since yesterday) make a new fuel sensing line for the other generator after our mishap yesterday which we are hoping to avoid with this generator. 
+
+### Day 29: 6/8
+
+Location: Underway in the Atlantic Ocean
+
+Today, I don't have that much to report on as it is a Sunday. The engineers all did their "Safety Sunday" maintenance items and I was given time to work on my project per the company's policy. In the morning, I did some moderate sanitary work which included cleaning under the boiler. I had to sweep up metal shavings from the last time we worked on the boiler so that the metal shavings didn't migrate down the containment drains if there was a leak.
+
+### Day 30: 6/9
+
+Location: Underway in the Atlantic Ocean
+
+Today was a great day as it marked the official half-way point in my trip. We began by doing safety shutdowns on the generator diesel pumps. Basically, we would trip out a pressure sensor by closing it off from the pump and then bleeding all pressure off of it. This would trick the system into thinking there was a casualty on that pump so the automation would turn that pump off and switch on the standby pump. We couldn't get the pumps to switch over but then I suggested that maybe the generator needs to be on for the automation to work. The first engineer seemed quite impressed. We switched on the generator but left it disconnected from the bus, then tripped out the pressure sensor. Sure enough, the standby pump started right up. After that, I was given two valves to rebuild and pressure test. One of the deck cadets came down to the engine room to try and learn something, so I gave her instructions on how to rebuild the valve and let her take one of them. Once the valves were clean, we had to make fresh gaskets for the valves. Since the deck cadet had never made gaskets before, I gave her instructions and a demonstration on how to make them, then sent her off to make a bunch of gaskets. I ended up having to redo these gaskets since I accidentally gave her the wrong gasket material which was not rated for the temperatures the gaskets might experience, but it was good practice in managing another team member like having to manage an oiler in the future.
+
+### Day 31: 6/10

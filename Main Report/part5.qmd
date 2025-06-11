@@ -14,13 +14,33 @@ editor: visual
 ## Part 5 Line Shafting and Stern Tube (As Applicable)
 
 1.  List and describe the line shafting, including the number and construction of line shaft or spring bearings and the material and construction of the shafting.
+
+The line shafting on my vessel was forged steel of 495mm in diameter. It started at the aft end of the main engine then connected to the shaft generator before traveling through two intermediate shaft bearings before finally reaching the stern tube. The two line shaft bearings were Kobelco Marine Engineering Co. KMS-520 self-lubricating bearings that were cooled by the central fresh water system.
+
 2.  How is a line shaft bearing lubricated? What type and viscosity oil is used?
+
+On my ship, line shaft bearings were oil lubricated. The bearing is partially submerged into an oil sump and as the shaft rotates around, it splashes oil up and around the housing, coating the bearing surfaces. The excess oil then drips back down into the sump. The line shaft bearings were lubricated with Atlanta Marine D 3005. It is SAE grade 30 oil with a viscosity of 105 cSt at 40\degC.
+
 3.  List and describe some of the reasons that would cause a line shaft bearing to run hot. What actions would you take if your ship had a hot line shaft bearing?
+
+There are many reasons why a line shaft bearing could run hot. These include inadequate lubrication from not having good oil flow or simply not having enough oil, contaminated lubricant by water or dirt, a misaligned bearing, excessive loading such as by bad weather, lack of cooling or vibration. If my ship had a hot line shaft bearing, the first thing that I would check would be the oil. On top of the bearing housing, there is a window that shows the oil splashing around in the bearing. If I couldn't see any oil, I would add more. Or, if I saw foaming oil, I would begin to worry about water contamination. The next thing I would check would be the temperature sensor. Usually, if anything went wrong on my ship it was related to a sensor going bad. If I noticed chafed wire or it was disconnected, I would swap in a spare sensor to that system as that would most certainly be the issue. If it was something other than that, I would feel for vibration which would indicate that the bearing material itself was going bad and needed to be replaced or that the shaft was misaligned, which seems pretty unlikely. If the temperature kept getting worse, then the responsibility falls on the chief to decide whether or not we are going to ask the bridge to bring the engine offline such that we can inspect and maybe replace the bearing material within the bearing.
+
 4.  If your ship is equipped with a controllable pitch propeller, describe the major components of the system, and explain how pitch is varied.
+
+My ship was not equipped with a controllable pitch propeller, but I can describe them in general. Controllable pitch propellers generally vary their pitch via some form of pivotable linkage. Usually, the shaft will be hollow to allow lube oil (functioning as hydraulic oil) to drive a piston within the propeller which pushes some form of arm that pivots the propeller blades.
+
 5.  Explain how the propeller is held on the tail shaft and explain in detail how to "pull" a tail shaft.
 6.  What type of stern tube is used? Describe in detail how it is lubricated.
+
+Our ship used a Kobelco Marine Engineering Co. oil-lubricated stern tube. There were two bearings in the stern tube which were lubricated by Bioneptan 100 stern tube lube oil. This oil has excellent demulsibility qualities and was considered biodegradable in case it leaked out of the aftermost stern tube seal. That being said, the stern tube also had two air seals on both ends to prevent the escape of oil and the leaking of seawater into the stern tube.
+
 7.  List and describe the thrust bearing and explain how it transfers the propeller thrust.
+
+The thrust bearing on my vessel is a B&W-Michell type thrust bearing consisting of a thrust collar on the engine crankshaft with bearing material that meshes with segments on the engine that are composed of steel with white "trimetal." This thrust bearing is lubricated by the engine's lube oil system. The thrust bearing works by creating a thin oil wedge between the collar and the pads. As the collar rotates, the wedge grows and produces force due to hydrostatic pressure within the oil that repels the thrust force of the shaft preventing it from rubbing up against the thrust collar and causing damage. The hydrostatic force produced within the oil is also transmitted through the thrust segments, into the engine A-frame into the bedplate and finally into the ship's hull, pushing it along.
+
 8.  What is the pitch and diameter of the propeller? (for controllable pitch propellers, state maximum ahead and astern pitch). Explain how "engine miles traveled" is calculated.
+
+The pitch and diameter of our propeller are 6.35m and 6.6m respectively.
 
 Engine miles traveled is given by the following equation:
 
@@ -28,4 +48,7 @@ $$
 d_{engine} = \frac{Pitch(meters/rev) \times Revolutions}{1000(km/meter)}
 $$
 
-1.  Provide an example of a day's run of engine miles, slip, and observed miles. Explain how you could compute the average RPMs and total revolutions for a 24-hour period. If your ship doesn’t use this method, what is used to determine engine efficiency? For example: speed versus amount of fuel burned.
+Basically, engine miles travelled determines the theoretical distance that the engine would travel if the ship did not "slip" or lose distance due to inefficiencies in transferring force to the water, and other environmental conditions such as wind. It is how far the propeller would travel given its rotation and pitch of the blades.
+
+9.  Provide an example of a day's run of engine miles, slip, and observed miles. Explain how you could compute the average RPMs and total revolutions for a 24-hour period. If your ship doesn’t use this method, what is used to determine engine efficiency? For example: speed versus amount of fuel burned.
+

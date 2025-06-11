@@ -116,8 +116,12 @@ There were a great many alarms and trips on our engine since there were a lot of
 
 26.	What type of bearings are used for main, crankpin and crosshead applications? How is wear on these bearings checked?
 
-The crosshead bearings are manufactured of cast steel with a white metal coating on the surface. White metal is a silvery alloy generally containing tin. 
+The crosshead bearings are slipper/shell-type bearings manufactured of cast steel with a white metal coating on the surface. White metal is a silvery alloy generally containing tin. 
+
+The main bearing is a thin-walled shell-type bearing composed of steel and coated with a white metal on the bearing surfaces.
 
 The crankpin is a thin-walled steel shell bearing that is lined with a babbitted bearing material.
+
+Wear on these bearings is checked a bunch of ways. First, bearing temperature is monitored during normal operation and high bearing temperatures tend to indicate a bad bearing. It can also be checked more precisely by visual inspection (if it's rough and scored, it's in bad shape) if the engine is offline and bearings are removed. Without removing the bearings though, their condition can be checked with crank web deflections and Plastiguages. If a bearing is worn, it will cause a minute deflection in the crank webs because the crank shaft physically bends because it is unsupported by the worn bearing surface. This can be measured with the precise measurement instruments in the crank web deflection. With Plastigauges, the stock material is cut slightly shorter than the width of the bearing you are inspecting and placed on the journal surface. Then, the bearing cap is tightened and torqued before it is removed again along with the Plastigauge. Then, the width of the Plastigauge is compared with the scale to determine what the bearing clearance is, which tells you how worn the bearing itself is.
 
 27.	What is "crank web deflection"? Provide a copy of a “crank web deflection” report.

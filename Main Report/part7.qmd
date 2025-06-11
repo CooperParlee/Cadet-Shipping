@@ -25,6 +25,9 @@ editor: visual
 3.	Explain how cooling water flow through the ship’s refrigeration condensers is controlled.
 4.	List and describe any maintenance performed on the refrigeration system while you were aboard.
 5.	What type refrigerant is used in the ship service refrigeration system? What is the boiling point of the refrigerant at atmospheric pressure?
+
+Our ship used R-407C which was a zeotropic mixture (400-series) of difluoromethane (R-32), pentafluoroethane (R-125), and tetrafluoroethane (R-134a). The zeotropic nature of the refrigerant means that the different component gases will fractionate, or separate out at different boiling points meaning that the refrigerant must be added as a liquid. The boiling point, however, is generally considered to be -43.8 \degC at atmospheric pressure despite the fractionation potential.
+
 6.	What are the EPA certification requirements for technicians handling the various types of refrigerants used on your ship? Discuss briefly.
 
 The two types of refrigerant being handled on my vessel were R407C and R134a. EPA certifications for handling refrigerants are based upon the capacity and type of system and not based upon the type of refrigerant being used. All systems on my vessel were greater than 10kg of charge and are high pressure systems. This means that they are governed by the EPA 608 type-2 license which pertains to systems that are over 5 pounds of charge and high pressure. However, myself and most of the engineers had EPA 608 universal, meaning they are authorized to handle type II systems in addition to type I (high pressure, lower than 5 lb of charge) and type-III systems (low pressure systems).

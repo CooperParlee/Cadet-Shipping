@@ -10,7 +10,32 @@ The main propulsion unit was a Doosan MAN B&W 7S60MC-C Mk7. The 7 refers to the 
 
 3.	List and describe the name plate data for the main propulsion units including any reduction gears, clutches, couplings, and/or main motors and generators.
 
-NOT DONE
+Main Engine: B&W 7S60MC-C MK7
+- MFG: HSD Engine Co. LTD
+- MCR: 21,490 BHP x 105 RPM
+- NCR (80% MCR): 17190BHP x 97.5 RPM
+- Displacement (per cylinder): 679 L
+- Engine Serial Number: DML0101782
+- Standard and/or FEL: 17.0 g/kWh NOx
+- Engine Application: Fixed Pitch Propeller Propulsion
+
+Shaft Generator: 
+- Model: SIGW95DL-18
+- 3 \Phi 18-Pole
+- Power Factor: 0.903-0.919
+- Current: 1784 A
+- Frequency: 6.1-11.7 Hz
+- Type: IP44
+- Output: 1295-1352 kVA
+- Voltage: 415-420 V
+- Rating: Continuous
+- Insulation: Class F
+- Temp Rise: 104 \degC Armature
+- Total Mass: 34700 kg
+- Excitation Voltage/Current: 181 VDC/120 A
+- Date: 2006.6
+
+Given that my vessel's main engine was direct drive, there were no reduction gears or clutches on my engine. The only thing between the main engine and the propeller was the shaft generator, which is included above for the content's sake of this question.
 
 4.	What type of governors or engine speed control devices are used on the engine?	Give their name plate data.
 
@@ -27,6 +52,11 @@ There were quite a few differences in plant operation between maneuvering and at
 7.	List and describe the fuel oil storage and transfer system.
 8.	Give a full description of the fuel oil supply to the fuel injection pumps, including the purification system.
 9.	Give a full description of the fuel injection system including the control and variation of the timing and metering employed.
+
+The fuel injection system on my vessel was a mechanical injection system that was retrofitted with MAN Performance Measurement Indicator (PMI) Variable Injection Timing (VIT). The mechanical component of the engine included your bog-standard port and helix style injection pump. There were two racks that fed into each of the injector pumps: the fuel rack and the VIT rack. The fuel rack turned to rotate the pump plunger which determined how much fuel was admitted to the injector because of how long the milled slot on that side of the plunger was. If the milled slot was larger, the spill port of the pump would be uncovered earlier which ended fuel injection sooner.
+
+The other rack connected to each of the pumps individually and was electrically driven. This was the VIT rack. The VIT rack changes the position of the fuel pump sleeve to make the timing of fuel admission earlier or later to either speed up or delay combustion.
+
 10.	Explain the path of lube oil flow throughout the engine. How are the liners and bearings lubricated?
 11.	Provide detailed specifications of the various lubrication oils used for this engine. This may be obtained from product data sheets. Give approximate consumption figures.
 
@@ -39,12 +69,15 @@ Now that the bridge is calling for standby, acknowledge the standby call on the 
 With these steps completed, all of the main engine systems are ready for operation to leave port.
 
 13.	Describe the external lube oil system including filters and coolers.
+
+The external lube oil system began outside of the main engine sump at the two positive displacement lube oil pumps. From there, the oil traveled to one large lube oil cooler. This was a plate type lube oil cooler and I particularly found it interesting that there was no redundancy here. After the plate type heat exchanger was the lube oil filtering system. The main system included two Moatti lube oil filters installed in series and included a bypass that was a fairly standard 40-\mu filter/strainer. After this filtering system, there was a lube oil sampling point. From here, the oil went to the various engine systems: cylinder cooling, system oil, and turbochargers. Before which point, there was another small 200-\mu strainer in case all else had failed. 
+
 14.	Describe the purification, transfer, and storage system for the lube oil.
 15.	Explain how to check the L.O. level. When and how often was this done? Explain how to add oil to the engine.
 
-The main engine L.O. level was checked at the main engine lube oil head tank two levels above the engine room via a staircase on the port side. This level was checked at the beginning of the day during the oiler round or whenever any alarms for lube oil went off. Additionally, it was continuously monitored by the Kongsberg system via a sensor in the main engine system oil sump tank.
+There were two important and different types of oil for the main engine: cylinder and system oil. The main engine cylinder L.O. level was checked at the cylinder lube oil head tank two levels above the engine room via a staircase on the port side. This level was checked at the beginning of the day during the oiler round or whenever any alarms for lube oil went off. Additionally, it was continuously monitored by the Kongsberg system via a sensor in the main engine cylinder oil sump tank. The system oil was also monitored by a tank level indicator but was also checked manually. Since the system oil sump tank was located below the main engine, the tank level was checked via a sounding every day by the oiler on the "inside round." They would then check their innage value against a tank table posted just adjacent to the sounding tube that was located just forward of the shaft generator.
 
-As otherwise mentioned, we used two different oils for the main engine: cylinder and system oil. To add more of this oil to the main engine, it is as simple as lining the respective tank with the lube oil transfer pump and transferring it to the respective sump for that oil.
+To add more of either oil to the main engine, it is as simple as lining the respective tank with the lube oil transfer pump and transferring it to the respective sump for that oil.
 
 16.	What is meant by "supercharging or turbocharging"? Explain how this is accomplished on your plant.
 
@@ -56,6 +89,9 @@ After the charge air cooler are electrically-driven auxiliary blowers. These can
 
 ![Main engine aftermost blower/supercharger](Pictures/part2/blower.png)
 17.	Give a full description of the complete cooling water system, including any seawater or Closed Fresh Water circuits.
+
+There were three different water cooling systems involved with the main engine, jacket water, central fresh water and sea water systems. The jacket water system was a treated demineralized water system that comprised three pumps. Two of the pumps were large centrifugal pumps which provided the bulk of the flow through the system. There was an additional pump which pumped jacket water through a steam preheater which was a small plate-type heat exchanger. After the jacket water traveled through the main engine, it went through the Nyrex which effectively acted as a heat exchanger for the jacket water system. After the Nyrex came the three way temperature control valve which determined how much flow was bypassed and how much flow was sent to the coolers. The two large plate-type coolers cooled the jacket water system with central fresh water (or the LT system). The central fresh water system cooled many of the secondary engine systems, including the turbochargers, lube oil, stern tube, shaft generator and charge air cooler. It comprised three pumps; two pumps were large centrifugal pumps that were on/off and used when at sea, and the third pump was a smaller centrifugal pump that was controlled by a VFD and used in port. This VFD-controlled pump was a rare exception aboard the ship and was installed during a shipyard retrofit. There were two CFW coolers that were plate type heat exchangers. These were cooled by the sea water system. The sea water system did not include any heat exchangers except for the ocean. It comprised three pumps and two sea suctions, a high and a low. The three pumps were started and stopped as needed by the automation and were not VFD-controlled. 
+
 18.	Fully describe the starting system equipment and its operation.
 
 Starting with the compressors, the two Sperre HV2 compressors kept the two Kumkang 7,000L start air reservoirs pressurized to 30 bar. After the start air reservoirs, the start air ran into the main start air valve. This valve was electronically operated when the engine was starting and stayed in the normally closed position. There was a manual actuator outside of the valve to force the valve open for starting.

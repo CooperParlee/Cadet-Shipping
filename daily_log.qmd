@@ -288,3 +288,15 @@ Although it's not completely professionally relevant, we did a helicopter evacua
 Location: Underway in the Atlantic Ocean
 
 Today was much less exciting than yesterday although I spent much less time destroying drill bits. In the morning, I discovered the HT expansion tank was very full and occasionally leaking into its containment. I brought the first engineer up to take a look and we determined a valve was leaking by into the tank and causing it to gradually fill up. We adjusted the valve to get it to seat better and closed some of the isolation valves adjacent to it before draining the tank back into a safe range. After that, we went to test the incinerator Hypermist zone and I instructed the deck cadets on how to use the fire detector testing wand and supervised all zones of the test. Once this was done, I went and remeasured the dimensions on the fan motor that we discovered on day 14 was bad. I compared these dimensions to a spare motor we had, which turned out to match our damaged motor. In the afternoon, I got to sit in on a conference call with the company officials ashore which was about as boring as it sounds. After the meeting, the first engineer had me begin working on fabricating a junction box for the helicopter deck light system. The new light was a six-wire design whereas the first light was only three wires. The additional three wires were for a zooming functionality on the light which could effectively be ignored. With that being said, they did not want to remove the factory harness just to get rid of the three extra wires. Instead, they decided to wire the six-wire cable into the junction box that I was working on creating and connecting the three important leads into a three-wire cable that was to be run to the bridge.
+
+### Day 33: 6/12
+
+Location: Underway in the Atlantic Ocean
+
+Today was a day comprising a lot of smaller tasks. I began by helping get the deck cadet set up to work on a valve that she was rebuilding. I explained how to disassemble the valve, clean the flange surfaces, and replace the packing. While she was working on that, I fabricated a mounting plate and strut for a junction box being installed on the Marsat mast where the helicopter deck floodlight was being installed. In the afternoon, we then went and installed that bracket. I also had to remove all of the old floodlight wiring. This involved me climbing up the mast about 20 feet in the air and prying the clamps loose. 
+
+### Day 34: 6/13
+
+Location: Underway in the Atlantic Ocean
+
+Similarly to yesterday, I did a lot of fabrication work. I fabricated several brackets for junction boxes that had rusted out on the bow. I'm not completely sure what lighting segment they connect to, but it was a great experience to be able to use the welder again. Prior to today, I hadn't welded in almost three years and it showed. The first engineer on my ship was formerly a welder for Ciambro so he had a lot of pointers for how I could improve. Really, I knew what I needed to do. It was just a matter of getting the practice in on the machine.

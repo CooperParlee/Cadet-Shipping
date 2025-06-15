@@ -14,22 +14,109 @@ editor: visual
 ## Part 3 Auxiliary Boilers or Continuation of Main Propulsion Boilers (As Applicable)
 
 1.  List and describe the fuel oil service system and operation, including atomizers.
+
+The auxiliary boiler could be fed by heavy fuel or diesel, but always ran diesel fuel due to the reduced maintenance requirement. Fuel travelled from either the HFO service tank or the diesel service tank and into a three-way valve which acted as the switch for whatever fuel was to be burned. Again, it was always diesel when I was on the ship and since the Swedish reflag several years prior. The fuel then travelled through a flowmeter that measured how much oil was added to the fuel loop. It did not discriminate between heavy fuel or diesel. Next, the fuel entered two fuel oil supply pumps rated for 302 L/hr at 4 bar. Fuel was then admitted into the burner which had its own pump, an Oilon TA2 booster pump. This pump boosted the pressure of the fuel, especially for heavy fuel. After the internal pump was a three-way pressure regulating valve. Excess pressure was bypassed to the return line while most of the fuel continued into a normally closed solenoid valve which opened when the burner was expected to run. After the solenoid was the preheater which ensured that the fuel, namely heavy fuels, had the correct viscosity to be administered into the injector nozzle. Finally, the fuel arrives at the nozzle. A nozzle valve bypasses excessive pressure back to the return loop. The remaining pressure is sent through the nozzle and is atomized and burned. There was a single nozzle installed within the burner, but different nozzles could be selected from the manufacturer for different firing characteristics, minimum and maximum fuel flowrate. The number 70 nozzle had minimum and maximum flow rates of 18 kg/hr and 70 kg/hr respectively. 
+
 2.  List the name plate data for the boilers, service pumps and auto-combustion unit. List and describe the feed water reheating process from the hot well to boiler.
+
+KangRim Marine Aux Boiler
+- Type Designation: MA0302P32
+- Max Allowable Working Pressure: 9 Bar
+- Hydro Test Pressure: 13.5 Bar
+- Design Temp: 250 \degC
+- Steam Capacity: 2000 kg/hr
+
+Oilon RP130M Heavy Oil Burner
+- Manufactured: 2006
+- Oil Quality: max 600mm^2/s
+- Oil Consumption: 50-180 kg/hr
+- 220v 1-60 Hz
+
+Boiler Feedwater Pumps
+- Type: 2M SH3AM
+- Capacity: 5 m^3/h
+- Rev: 3500 rpm
+- Discharge Pressure: 11 bar
+- Suction Pressure: unreadable
+
+Control Panel
+- Burner Type: RP-140M
+- Control: Auto
+Source: AC 440v 3 \Phi 60Hz
+Operating Source: AC 220v
+MFG No: MAC05DW4444
+Date: 2006
+
+Feedwater is reheated in the hotwell via the steam dump condenser. Parallel to the steam service station, steam travels through a regulating valve into the steam dump condenser. The steam dump condenser is a shell and tube heat exchanger where steam is admitted on one end and travels through the tubes that loop back and are discharged parallel to the inlet. The steam transfers its sensible and latent heat to the feedwater that is continuously circulating around the tubes of the condenser by the feed water circulating pump. 
+
 3.  List and describe the soot blowers, if applicable. Include each type and its operation, and procedure for “soot blowing”. If soot blowers are not utilized, how was accumulation of soot removed from tubes?
+
+Neither of our boilers had true soot blowers in the sense of the phase, but we did have methods to remove soot from the tubes of our boilers.
+
+Though our auxiliary boiler had a soot remover of sorts, it was not used. Our boiler was equipped to burn heavy fuel and the blower could be used in that use case to clean soot from the boiler. However, we burned diesel fuel which did not result in significant soot accumulation in the tubes of the boiler. The engineers said that every time the boiler was inspected, the boiler tubes were always free of soot even without soot blowing. To operate the soot remover, the isolation valves for the soot removing chemical tube were closed. The rear cap could then be removed and, using a funnel, Fuelpower Soot Remover could be added to the tube. The rear cap could then be sealed and compressed air could be attached to the compressed air fitting. The isolation valves can then be opened and the chemical soot remover admitted to the boiler. Since the blower is attached to the burner assembly, the soot remover chemical will travel up into the fire tubes and clean out any soot that might be in there.
+
+This is more of a relevant process for our exhaust gas boiler. Again, the isolation valves on the chemical holding tank are closed. Then, the bleeder valve is opened from on top of the chamber to ensure pressure is normalized in the system so the fill cap can be safely removed. Once the fill cap is removed, the fill valve can be opened and the Fuelpower Soot Remover chemical can be added to the chamber using a funnel. Once the funnel is empty, the fill valve can be closed and the cap reinstalled. Finally, the isolation valves can be opened such that the powder is swiftly admitted to the tubes of the exhaust gas boiler.
+
 4.  What is the procedure for lighting fires in a dead boiler, raising steam, and paralleling this boiler with already one in service.
+
+In order to start up a dead boiler, first start the correct fuel pump according to the month of the year. Even months are the second starboard pump, whereas the other months are the port pump. Additionally, the boiler feedwater pumps should be started and opened up to the feedwater regulator. Next, the burner motor is placed into manual and the burner is turned to on. Finally, the start button is pushed. After that, the boiler should run through its startup sequence, beginning with a purge cycle, then fuel admission, then sustained combustion. The automation will control the heat up rate of the boiler. Per the manual, this is about 1.5 hours on a completely cold boiler and this is done in order to prevent excessive thermal stress on the boiler. While the boiler is heating, one of the air escape vents on the top of the boiler is held open until a sufficient pressure of steam is being admitted from the top, per the manual 1.5 bar. As the boiler is warming up, the operator should keep a close eye on the boiler water levels, making sure they do not go too high or too low. If this occurs, the boiler should be brought out of service and inspected. To parallel this boiler with the exhaust gas boiler (which wouldn't be done as either boiler would be run independently), allow the boiler to reach the system steam pressure, then open the globe angle-lift stop-check valve on top of the boiler, C02 on the schematic, and allow the steam to feed into the system. Instead of opening the valve manually, valve C02 can be left open and the check functionality of the valve will automatically open itself once the boiler reaches a pressure greater than the system service pressure.
+
 5.  How do you change from "auto" to "manual" on the ACC system? How do you vary the combustion rate when in "manual" position?
+
+To switch from auto to manual on the ACC system, the burner control switch on the main control panel for the boiler is switched to the manual position. This cuts out the control system on the burner, including all of the PID system. To modulate the combustion rate of the burner, the up or down arrows on the capacity controller are used to increase or decrease combustion rate when in the manual mode. 
+
 6.  List and describe the safety valves used with your boilers, including type and operation.
+
+There were two Jokwang JSV-TG81 safety valves installed on our auxiliary boiler. These were full bore type safety valves designed to open at the boiler's maximum allowable working pressure of 9 bar. As the steam pressure increases, it presses on the valve disc, which is held against the valve seat by spring pressure. When the pressure exceeds the set pressure, the spring force is overcome and the valve lifts, or pops open. From here, the valve discharges steam into the air vent system, reducing pressure to a safer level. The valve will be held open until it reaches a point well below its popping pressure.
+
+The special component about full bore type safety valves is they are designed to have a very large opening to allow for the expansion of steam within the valve leading to greater pressure reduction. The bore size for this valve is 1.15 times the diameter of the opening, according to the manual.
+
 7.  What actions are taken if the water level in a boiler sight glass goes out of sight, High/Low?
+
+if the water level in a boiler sight glass goes out of sight, one should first check the condition of the boiler sight glass by blowing it down. If the level stays, it is safe to assume that the condition is accurate. If the level is too low, the boiler must be secured, starting with the fuel and allowed to cool down. If the boiler is not allowed to cool down, the boiler may be severely damaged due to excessive heating of the tubes. Do not add more water to the boiler in this case as the water may immediately flash into steam which would be very dangerous. High water level is less urgent. In this case, the boiler must be blown down to reduce the water level in the boiler. This is done by opening the valve below the boiler and watching the boiler water level. After this is remedied, one must go and find the cause of the erroneous water level. Additionally, if you didn't get a low level alarm, it would be unsafe to use the boiler because that safety system is not operational.
+
 8.  Describe the actions needed if a low water level is experienced in a steaming boiler.
+
+If a low water level is experienced in a steaming boiler, it is critical that the boiler is brought offline immediately. Fuel to the burner must be immediately secured and the boiler allowed to cool naturally. Water must not be added back into the boiler at this point because the water may flash immediately into steam and cause the boiler to explode. Once the boiler is given ample time to cool, the boiler should be inspected to ensure that the tubes did not crack or become warped due to overheating. After that, water may be slowly readmitted into the boiler.
+
 9.  Provide an explanation of how boiler operation is controlled when maneuvering.
+
+There weren't any special boiler operation requirements when maneuvering. However, the auxiliary boiler was operated instead of the exhaust gas boiler at main engine speeds lower than 80 RPM. Since maneuvering speeds are less than 80 RPM, the auxiliary boiler would always be run during maneuvers. Boiler operation was still left in auto during this time though. To start up the boiler, first, the correct fuel pump is started according to the month (1 for odd months, 2 for even) from the Kongsberg panel in the engine control room. Next, the burner motor is switched from manual to auto on the control panel. Finally, the burner is switched to on. 
+
 10. Give a basic description of the Automatic Combustion Control (ACC) system and its operation.
+
+The automatic combustion control system was built into the Oilon RP-140M burner and controlled firing rate by sensing steam pressure and demand. An increased demand resulted in an increased firing rate in the burner. The steam pressure is fed into a PID controller built into the burner, which drives a servomotor that controls both the fuel valve and the air dampers. The integral and derivative components of the PID controller allow the boiler to adapt to long-term trends rather than short term swings in load. From an operator's standpoint, the system essentially operates itself, but the PID values and linkages can be manually adjusted to change the regulatory properties of the system. 
+
 11. List and describe the feed water regulator(s) utilized on the boiler and their operation? If the feed water regulator is not used, how is water level regulated or maintained?
+
+The feedwater regulator used on the auxiliary boiler is the Young Tech Co. electro-pneumatic feedwater regulator. This connected to a pneumatically-controlled globe valve. The feedwater regulator receives an electrical signal from the control box given the state of the water level in the boiler. If the level of the boiler is low, it receives a signal to open up the feedwater control valve more. The regulator then opens the pilot valve for the control air, sending control air to the valve which pushes on the diaphragm of the valve, opening the valve. Once water level returns to normal, the actuator closes off control air and the valve closes again.
+
 12. Explain how to cut in and cut out a feed water regulator.
+
+Cutting in or out a feed water regulator is very easy on my ship's boiler. First, crack open slightly the auxiliary feedwater line. This allows unregulated water flow into the boiler. If the regulator is working properly, there shouldn't be too much water needed to change the boiler water level. As such, one does not want to open the auxiliary line too much or too quickly. Next, close off the isolation valves before and after the feedwater regulator. Now, boiler feed can be manually modulated with the globe valve that throttles the auxiliary feedwater line. To cut in the feedwater regulator, the process is reversed. First, open the isolation valves around the regulator. Then, close off the auxiliary bypass line.
+
 13. What is the proper procedure for making up a boiler gauge glass? Explain how to remove and install a gauge glass on the boiler.
+
+My vessel used prefabricated boiler gauge glasses. These types of gauge glasses were similar to the tank level gauges on the TSSOM with the colored level indicators on the inside. As such, new boiler gauge glasses could only be replaced with spares and not by fabricating new ones. In order to install the gauge glasses, first close off the isolation valves to the existing gauge glass and open the blowdown line. Drain all of the water out of the gauge glass and hope that the valves are not leaking by. Once all of the water has been drained, remove the nuts on top of the gauge glass and remove the glass. Now the new glass can be replaced by following the reverse procedure: install the glass, fasten bolts, open isolation valves, then bleed the glass using the blowdown line before closing it. 
+
 14. What boiler water treatment was used? How is oxygen, salinity, alkalinity, TDS, and pH maintained.
+
+Our auxiliary boiler was treated with Nalfleet Autotreat and Oxygen Scavenger Plus. Autotreat is intended to be an all-in-one boiler treatment chemical. Every few days, the 2nd engineer would measure the dissolved oxygen, alkalinity, TDS and pH of the boiler. If the TDS of the boiler was too high, he would blow it down and add more water. The Autotreat would effectively control the pH of the boiler as a secondary effect of controlling the alkalinity. When the second engineer measured the alkalinity of the boiler, the treatment chemical materials included an amount of chemical to add per the alkalinity of the boiler observed and the capacity. This was added to the chemical dosing tank below the boiler, which added chemicals to the suction of the feedwater pumps.
+
 15. Describe the boiler maintenance program. What maintenance activities were performed on the boilers during your stay on board.
 16. What type of air heaters/economizers does the boiler have? What special operating instructions existed?
 17. What type of feed water pumps were used? Give a description of each.
+
+The boiler feed water pumps were two horizontal two-staged centrifugal pumps. Generally, centrifugal pumps don't produce much in the way of discharge pressure but can put out fairly high volumes of fluid. The two-staged nature of these pumps allowed them to produce pressure above the boiler operating pressure such that feedwater could be added to the boiler.
+
 18. Provide the procedure(s) to align, start and place into operation the main feed pump(s)?
+
+In order to start and place the main feed pumps into operation, first confirm that the suction valve for the feed pump or pumps being put into operation are open. Next, open the pump discharge valves appropriate for the operating condition. There are two lines from the pumps, a regulated primary line and an unregulated auxiliary feedwater line. Generally, the primary line is used, so open the respective valves for that system. Next, there is often an isolation valve before the regulating valve, so open that one as well. Now, the pumps are ready to be put into operation. This is done within the "Pumps Overview" screen of the Kongsberg system. First, ensure that the permissives are met by making sure the alarm indicator next to the pump is yellow or clear. Click on the pump to be put in service, and click start. The pump will start itself automatically and feed water will be regulated to the boiler.
+
 19. Explain how to vary and control the capacity of the main feed pumps.
+
+Feed water is controlled automatically by the system's automation and the control valve after the main feedwater pumps. To adjust the set point of the water level, use the arrow indicators on the control panel up or down. Or, to bypass the automatic system entirely, open the auxiliary feedwater line to the boiler. Flow can be throttled using the globe valve before the boiler, but keep a close eye on the boiler water level as this is no longer related.
+
 20. What safety and operating precautions should be observed for the feed pumps?
+
+There are a lot of safety precautions that should be taken for feed water pumps. It is important to make sure that the pumps are not dead-headed, meaning the discharge on the pumps is closed. This would cause the pump to continue recirculating water inside of the pump impeller and cause overheating and damage. Additionally, be sure to check that the pumps are actually shutting off and turning on when they're supposed to when indicated by the boiler water level. Further, check the pressures and temperatures of these pumps. Often, they'll have a maximum pressure and temperature so it is important to make sure that they do not exceed those values.

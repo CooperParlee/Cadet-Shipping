@@ -300,3 +300,41 @@ Today was a day comprising a lot of smaller tasks. I began by helping get the de
 Location: Underway in the Atlantic Ocean
 
 Similarly to yesterday, I did a lot of fabrication work. I fabricated several brackets for junction boxes that had rusted out on the bow. I'm not completely sure what lighting segment they connect to, but it was a great experience to be able to use the welder again. Prior to today, I hadn't welded in almost three years and it showed. The first engineer on my ship was formerly a welder for Ciambro so he had a lot of pointers for how I could improve. Really, I knew what I needed to do. It was just a matter of getting the practice in on the machine.
+
+### Day 35: 6/14
+
+Location: Underway in the Atlantic Ocean
+
+Today I continued making brackets for those bow lighting junction boxes mentioned yesterday. I feel like I'm making real progress with the welder. I completed one bracket and it fit the box perfectly. Now it just has to be welded to bulkhead on the bow. A set of the UV sterilizer lights on the ballast water treatment system went bad today. So I worked with the first engineer to replace it. It was very similar to the care needed when installing car light bulbs so as to avoid getting finger oils on the bulb itself. I didn't learn a whole lot in this process, but it was interesting to see one of the bulbs outside of the machine. Once that was done, I returned to the MarSat mast to finish installing the helicopter deck light. It was not a windy day so the first engineer figured this was our best opportunity to hoist the light up by hand and have me install it to the bracket we mounted a few days ago. I thoroughly enjoyed myself as it was an adrenaline rush being so high above the ship again.
+
+### Day 36: 6/15
+
+Location: Underway in the Atlantic Ocean
+
+Today was a Sunday, so none of the engineers really accomplished anything incredibly significant. I assisted with some sanitary duties and helped the second engineer add some fuel treatment to the diesel oil tanks on the 5th deck. Then, I worked with the chief engineer to better understand the behemoth that is the stern ramp and all of the components that govern it. These include an extensive PLC and hydraulic system in addition to the mechanical actuators.
+
+### Day 37: 6/16
+
+Location: Underway in the Atlantic Ocean
+
+Today I was assigned a very important maintenance test responsibility on the main engine. I worked with a very engine-interested deck cadet to climb behind the turbochargers and exhaust manifolds to test all of the non-return valves on the cylinder lubricators. This involved climbing into very small spaces right next to jacket water pipes, loosening the nuts on the lubricator feed lines and checking the lines for exhaust gases leaking by. These will manifest as a spurt of oil followed by a woosh of hot exhaust gases and bubbles. Fortunately, I did not see this when I tested these lines. In the afternoon, I helped the third engineer disassemble the broken dishwasher in the galley. By helped, I mean I essentially repaired the dishwasher when he walked away frustrated that the unit was not going together as easily as he hoped. Today, I learned that many Mass Maritime third engineers are not as prepared as I anticipated but this gave me the opportunity to solve problems on my own. Troubleshooting the dishwasher basically consisted of identifying the source of a major leak. It originated in the feed line for the upper washing head. A flexible t-coupling held a more solid plastic line from the water inlet using a hose clamp. The plastic piece had slipped out, so I retrofitted it with a threaded nipple to give the plastic more to bite onto when it was compressed by the hose clamp. This worked like a charm. Then I identified a small crack in the lower section of the same pipe. To fix it, I just inserted the plastic piece as far as I possibly could into the boot and hose clamped it well above the small crack. It should hold for now, but I told the first engineer he will probably need to purchase a new part soon.
+
+### Day 38: 6/17
+
+Location: Underway in the Chesapeake Bay
+
+This morning I stood the eight and a half hour maneuver watch into Baltimore which started at the mouth of the Chesapeake Bay. Thankfully, it was a very quiet watch and no issues occurred. However, it was really a challenge staying awake after waking up at 3 AM and staying on watch until noon.
+
+### Day 39: 6/18
+
+Location: Baltimore
+
+So, it turned out that the modified part to temporarily repair the dishwasher did not, in fact, hold and it leaked again when it was used this morning. This meant that the third engineer and I started repairing the dishwasher again. I assisted with this only briefly before I was asked down in the engine room to install a start air valve. The second engineer was in the process of turning over with his relief, so he was unable to dedicate the time to switching over the start air valve. The previous valve that he installed was leaking by, so I had to use the overhead crane to lift the non-functional valve out of the engine block. Then, I reinstalled the new one following the reverse process. I spent the rest of the day working on my project since the engineers didn't have any more work for me and they were wrapped up in a project with an electrician involving the generator breakers (ACBs).
+
+### Day 40: 6/19
+
+Location: Underway in the Atlantic Ocean
+
+My day today began by performing the majority of the third engineer's responsibilities since he was on watch last night and wouldn't be down for the day's work. After performing a round of the engine room that was maybe a little more extensive than my usual one, I got to work discharging sewage overboard. This was a great opportunity to learn how the system worked because usually they explain to me how to operate the machinery to me in frustrating detail. In this case, there was no one with me, so I just had to operate the equipment by myself. It took some figuring out, but I definitely learned a lot about the black and gray water system operation in the process.
+
+After that, the first engineer and I got back to work on the helicopter deck light. I climbed up the mast and added some more zip-ties and just generally improved the neatness of the installation. After I was properly sunburned, we went inside and got to work on connecting the wiring up to the controller on the bridge. This involved cutting the cable to length, tying it into neat loops, splicing the individual wire and then plugging it into some PLC-style terminal strips.

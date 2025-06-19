@@ -39,7 +39,9 @@ Given that my vessel's main engine was direct drive, there were no reduction gea
 
 4.	What type of governors or engine speed control devices are used on the engine?	Give their name plate data.
 
-NOT DONE
+The main engine governor was an electric governor manufactured by HKM with the designation DGS-8800e. There was no name plate attached to this governor.
+
+![Image of the electronic HKM DGS-8800e main engine governor actuator](Pictures/part2/main_eng_governor.jpeg)
 
 5.	Describe operation of the overspeed protection system and how it is tested on your vessel.
 
@@ -50,7 +52,13 @@ The overspeed protection system is designed to prevent the engine from destroyin
 There were quite a few differences in plant operation between maneuvering and at-sea operation. When maneuvering, both diesel generators were running and the shaft generator was offline. The main engine used MGO instead of heavy fuel (B30 or VLSFO) when navigating near port both due to emission control areas and for reliability. The evaporator was taken offline when near port and maneuvering. The auxiliary boiler was brought online instead of the exhaust gas boiler when maneuvering into port. Additionally, the jacket water inlet temperature to the main engine was closely monitored to ensure that it was not too low if the engine was being run at lower speeds for maneuvering. If this was likely, the jacket water preheater was used to keep the temperatures up. Additionally, they would raise the jacket water heater setpoints to keep the temperatures around 75-85 \degC. Instead of using the low sea suction, the high sea suction was used, especially for shallow depths. 
 
 7.	List and describe the fuel oil storage and transfer system.
+
+On my ship the fuel oil storage system comprised 12 tanks. Four tanks were used for very low sulfur fuel oil (VLSFO), two tanks were used for B30 (a biofuel blend), and the remaining 6 tanks were used for diesel oil. From these tanks, there were three pumps. Two of which were used for the heavy fuel transfer system and the other for diesel oil transfer. The lines to and from the heavy fuel transfer pumps were all steam heated. From the fuel oil transfer pumps, the heavy fuel traveled to the heavy fuel settler tank with a capacity of 87.6 $m^3$. The HFO settler tank filled filled the HFO service tank (capacity 87.6 $m^3$) which is the tank where the main engine drew fuel suction from. Overflow from the HFO settler tank flowed into the HFO overflow tank with a capacity of 87.6 $m^3$. The diesel oil system is similar and travels through an unheated pipe to the diesel oil settling tank and later service tank with capacities of 23.5 $m^3$ and 31.9 $m^3$, respectively. The diesel oil tanks are much smaller due to the early-2000s design not taking into consideration emissions control areas (ECAs) and the need to burn diesel oil long-term. That is not an issue for this system, however, as the diesel transfer pump is more than capable of keeping up with system demand.
+
 8.	Give a full description of the fuel oil supply to the fuel injection pumps, including the purification system.
+
+
+
 9.	Give a full description of the fuel injection system including the control and variation of the timing and metering employed.
 
 The fuel injection system on my vessel was a mechanical injection system that was retrofitted with MAN Performance Measurement Indicator (PMI) Variable Injection Timing (VIT). The mechanical component of the engine included your bog-standard port and helix style injection pump. There were two racks that fed into each of the injector pumps: the fuel rack and the VIT rack. The fuel rack turned to rotate the pump plunger which determined how much fuel was admitted to the injector because of how long the milled slot on that side of the plunger was. If the milled slot was larger, the spill port of the pump would be uncovered earlier which ended fuel injection sooner.
@@ -58,7 +66,45 @@ The fuel injection system on my vessel was a mechanical injection system that wa
 The other rack connected to each of the pumps individually and was electrically driven. This was the VIT rack. The VIT rack changes the position of the fuel pump sleeve to make the timing of fuel admission earlier or later to either speed up or delay combustion.
 
 10.	Explain the path of lube oil flow throughout the engine. How are the liners and bearings lubricated?
+
+Our engine used a Uni-Lube lubrication system. As such, the camshaft bearings, fuel and exhaust roller guides received lubrication directly from the main lube oil pumps. Separately, the exhaust valve actuators received oil for use in opening the exhaust valve from the main lubricating oil pumps. From the bearings, roller guides and exhaust valve actuators, oil flowed down to the bottom of the bearing housings where an adequate oil level was maintained to lubricate the surfaces of the cams. Oil then drained from the bearing housing into the main engine bottom tank before returning to the sump. 
+
+Liners were lubricated separately by the Alfa Lube system. This comprised a set of two lubricator pumps that created a pressurized oil line that fed into a lubricator for each cylinder. These lubricators were independently actuated by receiving an electrical signal from the controller. From the lubricator, 6 oil pipes diverged and fed the non-return valves for each cylinder which injected oil into the liner.
+
 11.	Provide detailed specifications of the various lubrication oils used for this engine. This may be obtained from product data sheets. Give approximate consumption figures.
+
+The main engine used two different types of lubrication oils. These are Talusia Universal for the cylinder oil and Atlanta Marine D 3005 for the system oil.
+
+Specifications for Talusia Universal are as follows:
+
+SAE Grade: 50
+Density at 15\degC: 930 $kg/m^3$
+Kinematic Viscosity at 100\degC: 19 $mm^2/s$
+Flash Point: 230\degC
+Pour Point: -9\degC
+Base Number: 57
+
+The recommended storage temperature range is 5°C to 50°C.
+
+Specifications for Atlanta Marine D 3005 are as follows:
+
+SAE Grade: 30
+Density at 15\degC: 890 $kg/m^3$
+Kinematic Viscosity at 40\degC: 105 $mm^2/s$
+Kinematic Viscosity at 100\degC: 11.5 $mm^2/s$
+Flash Point: 220\degC
+Pour Point: -9\degC
+Base Number: 6
+
+The recommended storage temperature range is 5°C to 50°C.
+
+Atlanta Marine D 3005 offers excellent detergency, thermal stability and resistance to foaming.
+
+Water separation and insoluble separation abilities also prevent the build-up of foreign particles and liquids. 
+
+The anti-oxidant properties enable superb antirust and anti-corrosive capability.
+
+The average cylinder oil consumption per day over the 2025 calendar year was 121.4 liters per day. The average system oil consumption was about 65 liters per day. The system oil consumption is less accurate because the average consumption was not electronically tracked. Rather, it was tracked by averaging the amount of lube oil added by the third engineer over the course of a month. However, the third engineer often forgot to record how much lube oil was added.
 
 12.	Describe the procedure for getting the engine ready for sea, that is, ready for leaving port.
 
@@ -80,7 +126,7 @@ The main engine lube oil purification system begins at the main engine lube oil 
 
 There were two important and different types of oil for the main engine: cylinder and system oil. The main engine cylinder L.O. level was checked at the cylinder lube oil head tank two levels above the engine room via a staircase on the port side. This level was checked at the beginning of the day during the oiler round or whenever any alarms for lube oil went off. Additionally, it was continuously monitored by the Kongsberg system via a sensor in the main engine cylinder oil sump tank. The system oil was also monitored by a tank level indicator but was also checked manually. Since the system oil sump tank was located below the main engine, the tank level was checked via a sounding every day by the oiler on the "inside round." They would then check their innage value against a tank table posted just adjacent to the sounding tube that was located just forward of the shaft generator.
 
-To add more of either oil to the main engine, it is as simple as lining the respective tank with the lube oil transfer pump and transferring it to the respective sump for that oil.
+To add more of either oil to the main engine, it is as simple as lining the respective tank with the lube oil transfer pump and transferring it to the respective sump for that oil. To add more oil to the cylinder lube oil or system oil storage tanks, the oil would be taken in from a separate lube oil bunkering station which had controls for which tank the lube oil was to be sent to.
 
 16.	What is meant by "supercharging or turbocharging"? Explain how this is accomplished on your plant.
 
@@ -110,7 +156,9 @@ Valve lash is the gap between the top of the valve stem and the valve train. It 
 
 20.	List and describe in detail any maintenance or repairs performed on the main engine while you were on board.
 
-On May 29, the main engine scavenge air receiver was opened and cleaned. It was pretty simple, albeit very important and labor intensive. It included scraping off carbon deposits from inside the scavenge space and then wiping up all of the oil inside. It was important because it reduces the risk of scavenge airbox fires.
+On May 29, the main engine scavenge air receiver was opened and cleaned. It was pretty simple, albeit very important and labor intensive. It included scraping off carbon deposits from inside the scavenge space and then wiping up all of the oil inside. It was important because it reduces the risk of scavenge airbox fires. While we were there, we checked the condition of the rings using feeler gauges.
+
+On June 18, it was determined that the start air valve for cylinder #1 was leaking by. I pulled and installed a new start air valve (the one that I rebuilt earlier in June). 
  
 21.	List and describe the air compressors on your ship, including their type, number, size, pressures, and what the air is used for.
 
@@ -155,12 +203,27 @@ There were a great many alarms and trips on our engine since there were a lot of
 
 26.	What type of bearings are used for main, crankpin and crosshead applications? How is wear on these bearings checked?
 
-The crosshead bearings are slipper/shell-type bearings manufactured of cast steel with a white metal coating on the surface. White metal is a silvery alloy generally containing tin. 
+The bearings for the crosshead pins were thin shell-type bearings manufactured of cast steel with a white metal coating on the surface. White metal is a silvery alloy generally containing tin and aluminum. The upper and lower shells were different compositions. The lower shell was a trimetal shell, composed of a steel backer with cast-on white metal (the type described for the above main bearing) with an overlayer coating. The overlayer coating was a thin galvanic coating of mainly lead and tin that was directly bonded to the subsurface bearing material. This coating was designed to increase embedability and sliding-surface interaction between the bearing and the pin. The upper shell was a bimetal shell with no overlayer. The slippers were steel with a white metal coating. In this case, it was MAN's proprietary AlSn-40 composite where the tin alloying metal was imbedded in a "3-dimensional mesh of aluminum."
 
-The main bearing is a thin-walled shell-type bearing composed of steel and coated with a white metal on the bearing surfaces.
+The main bearings are thin shell bearings composed of a steel backer and cast white metal bearing surface. In this case, the white metal was a tin-based alloy composing a minimum of 88% tin alloyed with antimony, copper and cadmium among small amounts of other alloying elements that were not described. The main bearings had a shallow oil lubricating grove.
 
-The crankpin is a thin-walled steel shell bearing that is lined with a babbitted bearing material.
+The crankpin bearings are thin-shelled steel bearings that are lined with white metal. These are similar to the main bearings.
 
-Wear on these bearings is checked a bunch of ways. First, bearing temperature is monitored during normal operation and high bearing temperatures tend to indicate a bad bearing. It can also be checked more precisely by visual inspection (if it's rough and scored, it's in bad shape) if the engine is offline and bearings are removed. Without removing the bearings though, their condition can be checked with crank web deflections and Plastiguages. If a bearing is worn, it will cause a minute deflection in the crank webs because the crank shaft physically bends because it is unsupported by the worn bearing surface. This can be measured with the precise measurement instruments in the crank web deflection. With Plastigauges, the stock material is cut slightly shorter than the width of the bearing you are inspecting and placed on the journal surface. Then, the bearing cap is tightened and torqued before it is removed again along with the Plastigauge. Then, the width of the Plastigauge is compared with the scale to determine what the bearing clearance is, which tells you how worn the bearing itself is.
+Wear on these bearings is checked a bunch of ways. First, bearing temperature is monitored during normal operation and high bearing temperatures tend to indicate a bad bearing. It can also be checked more precisely by visual inspection (if it's rough and scored, it's in bad shape) if the engine is offline and bearings are removed. Without removing the bearings though, bearing condition can also be checked by looking for the presence of metal fragments in the oil pan or lube oil filter, but it cannot be determined if the shavings are from the main, crosshead or crankpin bearings. Bearing edges can be checked with a wire feeler. This feeler is inserted into the edges of the main bearings and will catch on a hole within the bearing. These holes also can often be seen visually as dark spots with a flashlight. The best way to check main bearing condition, however, is with crank web deflections. If a bearing is worn, it will cause a minute deflection in the crank webs because the crank shaft physically bends because it is unsupported by the worn bearing surface. This can be measured with a precision dial indicator inserted between the crank webs. Bearing condition can also be checked via edge checking and measuring the top clearance.
+
+The crosshead bearings are checked by first removing the crankcase door and turning the crankthrow for that cylinder to bottom-dead center (BDC). A feeler gauge is then inserted between the bearing cap and the crosshead journal. This is shown in the below diagram.
+
+![DOOSAN MAN B&W crosshead bearing inspection M90401-0249C03]()
+
+The value observed is then checked against the minimum and maximum crosshead clearances of 0.2 mm and 0.55 mm respectively.
 
 27.	What is "crank web deflection"? Provide a copy of a “crank web deflection” report.
+
+A crank web deflection is an important tool in checking the health of your main bearings. Because the crankshaft is so massive, it will actually deform under its own weight if not properly supported by the main bearings. In order to conduct a crank web deflection on the engine of our ship, we first needed to secure the engine, block the starting mechanism, shut off the start air supply, and the lubricating oil. The turning gear must be engaged for this process. The crank web deflection was always to be conducted within three hours of "finished with engines."
+
+To perform the deflection, a dial gauge is placed axially between the throws of the crank for that respective cylinder, opposite the crankpin. Our dial gauge came with a wireless handheld that showed the indicated position from outside of the engine which was very convenient. Zero the dial gauge at B1 per the diagram below, then rotate the turning gear forward to reach all positions shown in the diagram, stopping at each to record the appropriate readings. Once the E value is reached, continue moving the turning gear forward until the crosshead bearing is level with the crankshaft door, then have a competent engineer (in our case, the first engineer) climb over the crosshead bearing to give turning directions until you reach the B2 position. This is to ensure that the crankshaft does not collide with the the dial gauge. Once the B2 is reached, the engineer should remove the dial indicator to prevent this collision.
+
+![DOOSAN MAN B&@ Instructions for crank web deflection, diagram XZ905-1.1 204 03]()
+
+The crank web deflection report is provided in APPENDIX __.
+

@@ -57,6 +57,34 @@ The records on fuel oil, fresh water, lube oil and feed water were all recorded 
 
 9.  Fill out a typical noon report (or a midnight report if used on your ship).
 
+Below is the data for the noon report for the day of May 13th:
+
+Voyage State: Sea passage
+Date/time (local): 2025-06-13 10:00 UTC-2
+Voyage Name: EB506
+Position: 39° 35.3' N 47° 06.9' W
+Distance Over Ground: 361.6 NM
+Speed Over Ground: 15.1 kn
+Wave Height: 2 m
+Draft Midship: 9.8 m
+Trim: -1 m
+Total Fuel Consumption: 33.023 t
+M/E Consumption: 32.997 t
+A/E Consumption: 0 t
+Boiler Consumption: 0.026 t
+M/E Cylinder Oil Consumption: 133 L
+Total HFO ROB: 663.907 t
+Total MDO ROB: 888.908 t
+Fresh Water ROB: 181.9 m^3
+Total Ballast Water: 7,770 m^3
+M/E Running Hours: 24 hrs
+M/E Average Power: 6,209.6 kW
+M/E Average RPM: 81 rpm
+Boiler Running Hours: 1.0 hrs
+Shaft Generator Running Hours: 24 hrs
+Shaft Generator Avg Power: 693.8 kw
+M/E SFOC: 214.9 g/kWh
+
 10. Provide a reproduced and completed page of the engine room logbook for one underway watch.
 
 The majority of values recorded in a typical logbook were recorded electronically for my ship. Here are the values provided in the logbook on one specific day (4 May):
@@ -78,6 +106,10 @@ The majority of values recorded in a typical logbook were recorded electronicall
 ![Engine room logbook from 5 May](Pictures/part9/er_log.PNG)
 
 11. Provide a reproduced and completed oiler's round of temperatures and pressures for one underway watch.
+
+Though we do not stand watches except for maneuvering, here is a completed oiler's round:
+
+![Completed oiler's round from 12 May](Pictures/part9/oiler_round.jpg)
 
 12. In detail, describe the process of taking over a watch at sea. Also, describe what actions you would take to make a complete round of the engine room during a watch at sea. Or, if there was not a watch procedure, describe in detail how you would go about assuming the DUTY for the day in an unmanned engine room.
 
@@ -117,13 +149,13 @@ The cylinder oil could be obtained at each cylinder and drained from the stuffin
 
 Since the diesel generators ran on a single oil for the whole system, there was a single drain for the whole machine which resembled the cylinder oil drain and was located on the driving end of the generator.
 
-![Diesel engine oil sampling point]()
+![Diesel engine oil sampling point](Pictures/part9/gen_sample.PNG)
 
 17. What is the make and model number of the fuel and lube oil purifiers used?
 
 All four purifiers aboard my vessel were made by Alfa Laval. The two fuel oil purifiers were model S861 and the two lube oil purifiers were model S831.
 
-![Alfa Laval S861 fuel oil purifier nameplate]() ![Alfa Laval S831 lube oil purifier nameplate]()
+![Alfa Laval S831 lube oil purifier nameplate](Pictures/part9/Alfa_831.jpg)
 
 18. Discuss in detail any operational problem encountered with a fuel or lube oil purifier while you were onboard. If no problems were encountered, possibly the engineers could provide you with some working history – good or bad – of the purifiers.
 
@@ -137,7 +169,7 @@ Typical entries found in the oil record book include ballasting or cleaning of f
 
 The OWS was a Marinflock AB model CB 1.0 manufactured in 2006 with a max flowrate of 1000 L/hr, a service volume of 580 L. It was tested for an oil content between 0-5 ppm and has a USCG approval number of 162.050/1263/0.
 
-ADD PICTURE
+![Marinflock AB oily water separator](Pictures/part9/MF_nameplate.PNG)
 
 21. List and describe in detail how the oily bilge separator functions. What are the USCG requirements for oil/water separators? List the articles.
 

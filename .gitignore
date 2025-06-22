@@ -1,9 +1,13 @@
-.html
+*.html
 "Main Report/images/*"
-.docx
-.pdf
+*.docx
+*.pdf
 "Main Report/part1_files/*"
-.css
-.woff
-.js
-.min.js
+*.css
+*.woff
+*.js
+*.min.js
+*.tex
+*.log
+venv
+"Main Report/part1_files/"

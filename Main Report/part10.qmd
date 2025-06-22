@@ -19,13 +19,16 @@ The winch and anchor windlass controls are within the forward mooring station wh
 
 6.	How is power applied to the deck machinery?	Is it necessary to start any additional machinery in the engine room before operating deck machinery?	Explain briefly.
 
-For the electric winches, 
+Given that the winches were hydraulically powered and electrically controlled, power was provided via the forward and after hydraulic power packs. These power packs were powered 
 
 7.	Who oversees deck machinery maintenance on your ship? List any significant work which was performed on deck machinery during your stay on board.
 
 The first engineer oversees deck machinery maintenance on board my ship. Since we were a RORO, we did not have much cargo equipment besides hydraulic ramps and doors. The hydraulic system was a complicated specialty system designed by MacGregor and had to be repaired by their technicians only. The only real deck equipment that we maintained were the deck fans and (if you consider them deck equipment) the deck floodlighting. Many of the deck fans were determined to be hard-grounded in our quarterly megging tests. The maintenance performed would include pulling the fans apart and examining them to determine the location of the ground and, if possible, repairing them. Additionally, one of the fan blades vibrated loose and destroyed itself, so the engineers replaced a whole fan assembly on a damaged fan. As far as lighting goes, the incandescent deck fog lights were being replaced by LED fog lights. This was a fairly simple change but involved rewiring these lights directly to the old harnesses and was a long-term project for the time I was on the vessel. 
 
 8.	Which members of the deck department operate the anchor windlass?
+
+The members of the deck department who operate the anchor windlass depend on where the windlass is being controlled. On our ship, the windlass could be controlled both locally and from the bridge. As far as I understand it, being able to access the windlass from the bridge was a somewhat unusual quality. If someone is operating the windlass locally, the boatswain is the one to operate it given instructions from the bridge. If the bridge is controlling it, then either the chief mate or the captain will be the one to operate the controls.
+
 9.	Briefly describe any towing winches installed including steps required to operate them.
 10.	Is heating provided to the electrical equipment on deck? If so, how and why?
 

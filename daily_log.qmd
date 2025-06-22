@@ -327,7 +327,7 @@ This morning I stood the eight and a half hour maneuver watch into Baltimore whi
 
 ### Day 39: 6/18
 
-Location: Baltimore
+Location: Baltimore, MD
 
 So, it turned out that the modified part to temporarily repair the dishwasher did not, in fact, hold and it leaked again when it was used this morning. This meant that the third engineer and I started repairing the dishwasher again. I assisted with this only briefly before I was asked down in the engine room to install a start air valve. The second engineer was in the process of turning over with his relief, so he was unable to dedicate the time to switching over the start air valve. The previous valve that he installed was leaking by, so I had to use the overhead crane to lift the non-functional valve out of the engine block. Then, I reinstalled the new one following the reverse process. I spent the rest of the day working on my project since the engineers didn't have any more work for me and they were wrapped up in a project with an electrician involving the generator breakers (ACBs).
 
@@ -338,3 +338,13 @@ Location: Underway in the Atlantic Ocean
 My day today began by performing the majority of the third engineer's responsibilities since he was on watch last night and wouldn't be down for the day's work. After performing a round of the engine room that was maybe a little more extensive than my usual one, I got to work discharging sewage overboard. This was a great opportunity to learn how the system worked because usually they explain to me how to operate the machinery to me in frustrating detail. In this case, there was no one with me, so I just had to operate the equipment by myself. It took some figuring out, but I definitely learned a lot about the black and gray water system operation in the process.
 
 After that, the first engineer and I got back to work on the helicopter deck light. I climbed up the mast and added some more zip-ties and just generally improved the neatness of the installation. After I was properly sunburned, we went inside and got to work on connecting the wiring up to the controller on the bridge. This involved cutting the cable to length, tying it into neat loops, splicing the individual wire and then plugging it into some PLC-style terminal strips.
+
+### Day 41: 6/20
+
+Location: Davisville, RI
+
+Today we were on track to arrive in Davisville. As such, my morning was fairly uneventful and the engineers only wanted me to do small tasks that wouldn't get in the way of me assisting in the arrival procedures. As such, the first engineer sent me away to troubleshoot a 3-phase electrical cable for the boatswain. I determined that the cable bracing inside of the connector was attached to the wires inside and not to the cable insulation which caused the wires to get pulled out of the connector gradually.
+
+In the afternoon, we made our arrival into Davisville. It was a very uneventful maneuver and I didn't learn many new details about plant operation in doing this. However, the new second engineer allowed me to fine-tune the jacket water preheater given the low engine loads we were experiencing. This was especially necessary because the jacket water temperature regulating valve was leaking by even when it was fully closed. 
+
+### Day 42: 6/21

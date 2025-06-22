@@ -57,13 +57,17 @@ On my ship the fuel oil storage system comprised 12 tanks. Four tanks were used 
 
 8.	Give a full description of the fuel oil supply to the fuel injection pumps, including the purification system.
 
+The fuel oil supply begins at the diesel and heavy fuel oil service tanks. It is pumped by two positive displacement fuel oil supply pumps through a flow meter. After the flow meter, it travels through the steam-heated supply line where it rejoins returned fuel from the main engine and travels to the circulation pumps (also positive displacement) which pump the fuel oil through the fuel oil heaters/chillers. We always used the heaters while burning heavy fuel and occasionally ran the heaters as chillers in hot climates like the Gulf if we were burning diesel fuel. If the diesel got too hot, the pumps had difficulty pumping it. After the heaters/coolers, the fuel travelled through the main engine fuel oil Moatti filter. This is a self-backflushing filter just like the Moattis commonly used for lubricating oil. There was also a fuel oil bypass filter that was 50 microns if the Moatti was offline. After that, the fuel reached the electronic viscosity controller which would heat the fuel further if the viscosity was too low and drive steam flow to the heaters. After the viscosity controller, fuel then arrived at the main engine fuel pumps where some was injected into the main engine and the rest was sent back via the return line. This fuel was then recirculated throughout the supply loop until it was eventually burned and was replaced by more fuel.
 
+The purifiers operated by accepting heavy fuel from the HFO settling tank. These centrifugally purified the fuel by separating the contaminants via their different specific gravities. From there, the clean fuel was pumped into the heavy fuel service tanks.
 
 9.	Give a full description of the fuel injection system including the control and variation of the timing and metering employed.
 
 The fuel injection system on my vessel was a mechanical injection system that was retrofitted with MAN Performance Measurement Indicator (PMI) Variable Injection Timing (VIT). The mechanical component of the engine included your bog-standard port and helix style injection pump. There were two racks that fed into each of the injector pumps: the fuel rack and the VIT rack. The fuel rack turned to rotate the pump plunger which determined how much fuel was admitted to the injector because of how long the milled slot on that side of the plunger was. If the milled slot was larger, the spill port of the pump would be uncovered earlier which ended fuel injection sooner.
 
 The other rack connected to each of the pumps individually and was electrically driven. This was the VIT rack. The VIT rack changes the position of the fuel pump sleeve to make the timing of fuel admission earlier or later to either speed up or delay combustion.
+
+![1. Fuel pump rack and position indicator; 2. Variable Injection Timing (VIT) rack and indicator](Pictures/part2/fuel_rack-vit.PNG)
 
 10.	Explain the path of lube oil flow throughout the engine. How are the liners and bearings lubricated?
 
@@ -144,19 +148,22 @@ There were three different water cooling systems involved with the main engine, 
 18.	Fully describe the starting system equipment and its operation.
 
 Starting with the compressors, the two Sperre HV2 compressors kept the two Kumkang 7,000L start air reservoirs pressurized to 30 bar. After the start air reservoirs, the start air ran into the main start air valve. This valve was electronically operated when the engine was starting and stayed in the normally closed position. There was a manual actuator outside of the valve to force the valve open for starting.
-![Main start air valve with manual actuator]()
+![Main start air valve with manual actuator: 1. M/E start air blocker (cw to lock, ccw to unlock) 2. manual actuator located underneath](Pictures/part2/main_start_valve.PNG)
 After the actuator, some of the start air traveled to the start air distributor which included a cam that was directly connected and timed to the main engine. This distributor sent air to drive the start air valves on each of the cylinders at the appropriate time (TDC) to drive the piston down and turn over the engine
-![Start air distributor]()
-![Cylinder start air valve]()
-ADD PICTURES
+![Start air distributor](Pictures/part2/start_dist.PNG)
+![Cylinder start air valve](Pictures/part2/me_start_air_valve.PNG)
 
 19.	What is "tappet clearance” or “valve lash" and how is it adjusted on the intake/exhaust valves?
 
 Valve lash is the gap between the top of the valve stem and the valve train. It is used to accomodate for wear and thermal expansion on intake and exhaust valves. The engine on my vessel was port scavenged, meaning it doesn't have intake valves, only exhaust valves. This is adjusted by turning the specific cylinder to top dead center (TDC) and inserting the feeler gauge per the manufacturer instructions between the rocker arm and the valve stem. Then, turn the adjusting screw until drag is experienced on the feeler gauge. Finally, lock the adjusting screw and recheck the clearance with that feeler gauge by ensuring there is sufficient drag on that feeler gauge.
 
+Given that our engine was on a prolonged condition-based maintenance schedule, this maintenance was not performed while I was on the vessel as 
+
 20.	List and describe in detail any maintenance or repairs performed on the main engine while you were on board.
 
-On May 29, the main engine scavenge air receiver was opened and cleaned. It was pretty simple, albeit very important and labor intensive. It included scraping off carbon deposits from inside the scavenge space and then wiping up all of the oil inside. It was important because it reduces the risk of scavenge airbox fires. While we were there, we checked the condition of the rings using feeler gauges.
+On May 29, the main engine scavenge air receiver was opened and cleaned. It was pretty simple, albeit very important and labor intensive. It included scraping off carbon deposits from inside the scavenge space and then wiping up all of the oil inside. It was important because it reduces the risk of scavenge airbox fires. While we were there, we checked the condition of the rings using feeler gauges and visual inspection.
+
+![29 May: #6 cylinder ring gaps in line. Not optimal, but not necessary to be corrected](Pictures/part2/rings_in_line.jpg)
 
 On June 18, it was determined that the start air valve for cylinder #1 was leaking by. I pulled and installed a new start air valve (the one that I rebuilt earlier in June). 
  
@@ -164,7 +171,7 @@ On June 18, it was determined that the start air valve for cylinder #1 was leaki
 
 For the main engine start air, there are two Sperre HV2 4-cylinder V-type reciprocating compressors with a capacity of 250 $m^3/hr$ rated for a pressure of 30 bar. The compressed air is used for starting the main engine. 
 
-![Sperre HV2 air compressor]()
+![Sperre HV2 air compressor](Pictures/part2/main_start_ac.PNG)
 
 There is also a much smaller Sperre HL2/77 2-cylinder V-type reciprocating compressor rated at 20 $m^3/hr$ at 30 bar used for producing start air for the diesel generators during the event of a plant blackout. This compressor is the only one on the emergency bus. 
 

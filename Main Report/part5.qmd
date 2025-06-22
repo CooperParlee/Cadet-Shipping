@@ -40,7 +40,7 @@ The thrust bearing on my vessel is a B&W-Michell type thrust bearing consisting 
 
 8.  What is the pitch and diameter of the propeller? (for controllable pitch propellers, state maximum ahead and astern pitch). Explain how "engine miles traveled" is calculated.
 
-The pitch and diameter of our propeller are 6.35m and 6.6m respectively.
+The pitch and diameter of our propeller are 6.148m and 6.6m respectively.
 
 Engine miles traveled is given by the following equation:
 
@@ -51,4 +51,16 @@ $$
 Basically, engine miles travelled determines the theoretical distance that the engine would travel if the ship did not "slip" or lose distance due to inefficiencies in transferring force to the water, and other environmental conditions such as wind. It is how far the propeller would travel given its rotation and pitch of the blades.
 
 9.  Provide an example of a day's run of engine miles, slip, and observed miles. Explain how you could compute the average RPMs and total revolutions for a 24-hour period. If your ship doesn’t use this method, what is used to determine engine efficiency? For example: speed versus amount of fuel burned.
+
+These statistics for May 15th are provided below:
+
+Engine Miles: 424.0	NM
+Observed Miles (Over Ground): 349.5 NM
+Percent Slip: 17.56 %
+
+To compute the average RPMs and total revolutions in a 24 hour period, one could measure the revolutions on the shaft counter at a specific time, say 10:00 (which we did), over two days. The revolutions from the first day could be subtracted from the second day and this number would be divided by 1,440 (24 hours * 60 minutes). This would give the average speed of the engine in RPM. 
+
+These were metrics sent to our company in our noon report, but they weren't the most important metric used for fuel economy. Fuel economy was reported as Specific Fuel Oil Consumption (SFOC). This was the sum of the burned heavy fuel and diesel as used for propulsion all divided by the observed miles for the day.
+	
+
 

@@ -27,6 +27,8 @@ As far as tasks I was allowed to perform, I often performed a lot of the basic g
 
 The fuel remaining on board is calculated automatically using the Kongsberg system. The system has a list of tanks on the vessel, what fuel is in them and the respective level via tank level indicators (TLI). If a precise measurement was needed, the chief engineer would send the third engineer to go and take soundings for the various tanks. From there, he would sound the tank and then use the tank table for the respective trim of the vessel. Temperature was not something that the engineers really accommodated for, but they would note it in their record books. That way, if there were any "missing" items on the oil record book, for example, they would be able to suggest that a discrepancy in a few cubic meters of heavy oil could be due to the fact that an original sounding was taken under heat. Also, the vessel rarely heeled. However, if the ship was rolling a lot, a couple soundings would be taken to minimize the effect of tank sloshing for lower viscosity fuel tanks like diesel.
 
+![Example of a tank sounding table found for the main engine lube oil sump](Pictures/part9/tank_table_ex.PNG)
+
 3.  List and describe the system used to keep track of spare parts on the vessel. If no system was used on your ship, describe how a system might be instituted.
 
 My ship had a very elegant system to keep track of spare parts. It was all built into NSE, which maintained the inventory from delivery. Once a part was delivered, it would show up in the inventory view. The engineers would take the physical parts and their packages and print out storage labels for them. The storage labels would have the ship, the equipment it was for, manufacturer, part name, location, part number in NSE and the manufacturer part number. Here was an example of a label on a drinking water filter:
@@ -141,11 +143,11 @@ Lube oil samples were sent sporadically for my vessel. According to the lube oil
 
 There were two types of lube oil test samples obtained for the main engine: system oil and cylinder oil. System oil was collected after the Moatti lube-oil filters and was obtained by opening the sample-point globe valve and then operating the kick-valve to discharge oil into a sampling container.
 
-![Main engine system oil sampling point after the Moatti filters]()
+![Main engine system oil sampling point after the Moatti filters](Pictures/part9/melo_sample.jpg)
 
 The cylinder oil could be obtained at each cylinder and drained from the stuffing box of each cylinder. It was obtained by opening a small ball valve connected to a goose-neck from which the oil drained.
 
-![Main engine cylinder oil sampling point]()
+![Main engine cylinder oil sampling point](Pictures/part9/cyl_sample.jpg)
 
 Since the diesel generators ran on a single oil for the whole system, there was a single drain for the whole machine which resembled the cylinder oil drain and was located on the driving end of the generator.
 

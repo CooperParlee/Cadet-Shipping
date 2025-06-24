@@ -348,3 +348,29 @@ Today we were on track to arrive in Davisville. As such, my morning was fairly u
 In the afternoon, we made our arrival into Davisville. It was a very uneventful maneuver and I didn't learn many new details about plant operation in doing this. However, the new second engineer allowed me to fine-tune the jacket water preheater given the low engine loads we were experiencing. This was especially necessary because the jacket water temperature regulating valve was leaking by even when it was fully closed. 
 
 ### Day 42: 6/21
+
+Location: Underway in the Atlantic Ocean
+
+I started my day by finishing off the interface for the helicopter deck lighting. We had to drill a couple of holes into the panel on the bridge that was used to control most of the lighting for the ship. This was a bit dicey because the plate was plexiglass and I knew it would crack easily if we weren't careful with the drill bit. Fortunately, we had no trouble. We then put the securing screws into the switch plate. After that, it was necessary to tidy up the wiring that ran to the switch plate. I fastened the extra wiring into neat courtesy loops in the bottom of the console, then fed the wiring in through the cable trays. For some reason, the first engineer was very impressed with the wiring job. Once this was done, the chief mate called the first engineer in a bit of a panic because he was having issues with the deck lifter, a monstrous diesel vehicle that was essentially a big scissor lift for changing the heights on some of the movable decks on the ship. He hadn't been able to get it to start the day prior. The engineer and I worked together to try and troubleshoot the issue. We found that we could hear something engaging but nothing in the starter was turning over. Then, when I climbed under the vehicle, I noticed there was a huge discolored spot on the side of the starter motor. As such, I concluded (to the agreement of the engineer) that the starter was overheated and most likely now useless.
+
+Once all of this important work was finished, it was time for some busy work. At some point in shipyard, some technicians were working on modifying the Kongsberg console to install a new EOT and to do so they removed a plate under the unit. This plate could have easily been reinstalled, but had now been missing for a couple of years. So, I fabricated up a new plate and reinstalled it on the console.
+
+### Day 43: 6/22
+
+Location: Underway in the Atlantic Ocean
+
+As a Sunday, most of the engineers did minimal work per their union contract. For me, this also meant minimal work and I essentially had unlimited project time. As such, I made a lot of progress on my question sections for the refrigeration/air conditioning and propulsion diesel and finished a few drawings.
+
+### Day 44: 6/23
+
+Location: Underway in the Atlantic Ocean
+
+Like all of my days aboard the ship, I first began with a very extensive round of the engine room, looking for leaks, smoke, and listening for expensive noises. After that was finished, I was assigned to help one of the deck cadets pressure test one of the valves they rebuilt. Of course, they hadn't made any gaskets prior to this, so I had to go and make a couple of them just to do the test. Unfortunately, the valve packing leaked by the first time we pressure tested it. This was because the valve stem had to be undersized due to some significant scoring on the stem caused by the metal braiding of some special type of packing. As such, we pulled the gland flange and added a couple more rings of packing and compressed it down. This still wasn't technically enough rings of packing as the gland flange was already half compressed by the time it stopped leaking following our next pressure test. After that, the deck cadet had to leave, so I finished cleaning the exterior of the valve for them with some brushes and 409 Degreaser.
+
+With the valve finished and stored with the other spares, I went with the engineer to help the chief mate with some trouble he was having with the pedestrian gangway. When we arrived, we found that one of the brackets for the securing mechanism of the gangway was rusted and falling apart. So, I went back to the engine room and got to work fabricating a new bracket with angle iron and flat bar. It was interesting using the welder again. Unfortunately, someone left one of the welding helmets in grinding mode unbeknownst to me and I nearly gave myself welder's flash. Checking that was probably my biggest lesson learned today.
+
+Eventually, I was pulled away from this project to help with the maneuver into Brunswick. It was an uneventful maneuver, but it somehow became my responsibility to start the whole plant up and operate it without any assistance from the engineers. It was a good learning experience and somehow not stressful because I've done it so many times. 
+
+### Day 45: 6/24
+
+Location: Brunswick, Georgia

@@ -27,9 +27,14 @@ There are many reasons why a line shaft bearing could run hot. These include ina
 
 4.  If your ship is equipped with a controllable pitch propeller, describe the major components of the system, and explain how pitch is varied.
 
-My ship was not equipped with a controllable pitch propeller, but I can describe them in general. Controllable pitch propellers generally vary their pitch via some form of pivotable linkage. Usually, the shaft will be hollow to allow lube oil (functioning as hydraulic oil) to drive a piston within the propeller which pushes some form of arm that pivots the propeller blades.
+My ship was not equipped with a controllable pitch propeller, but I can describe them in general. Controllable pitch propellers generally vary their pitch via some form of pivotable linkage. Usually, the shaft will be hollow to allow lube oil (functioning as hydraulic oil) to drive a piston within the propeller which pushes some form of arm that pivots the propeller blades. This way the blades will rotate in a way that effectively varies their pitch.
 
 5.  Explain how the propeller is held on the tail shaft and explain in detail how to "pull" a tail shaft.
+
+The propeller is held onto the tail shaft primarily by an interference fit but formally secured by a propeller nut. The propeller nut was held in place by a setting bolt which prevented the propeller nut from coming off. This setting bolt had a locking plate that was peened around the setting bolt to keep it locked in place. On top of the propeller nut was the propeller cap which did little to secure the propeller and instead improved the hydrodynamics of the propeller.
+
+Pulling a tail shaft is a process that requires being in a shipyard dry dock. To pull a tail shaft, the propeller cap is first removed using a hydraulic ram. Next, the propeller nut is removed by using a hydraulic tensioner to pull on the tail shaft and reduce the force on the nut. Once the nut is removed, the propeller can be removed using a hydraulic ram and lifted to the side. Now, within shaft alley, the forward stern tube seal can be removed by first draining the stern tube lube oil and then removing the hydraulically-tensioned coupling bolts. Now the tail shaft can be removed by pulling the shaft through the stern tube using the hydraulic ram.
+
 6.  What type of stern tube is used? Describe in detail how it is lubricated.
 
 Our ship used a Kobelco Marine Engineering Co. oil-lubricated stern tube. There were two bearings in the stern tube which were lubricated by Bioneptan 100 stern tube lube oil. This oil has excellent demulsibility qualities and was considered biodegradable in case it leaked out of the aftermost stern tube seal. That being said, the stern tube also had two air seals on both ends to prevent the escape of oil and the leaking of seawater into the stern tube.

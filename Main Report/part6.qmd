@@ -30,6 +30,11 @@ Coast Guard regulations concerning testing the steering gear prior to leaving po
 The steering gear's two electro-hydraulic motors were powered by the main electrical bus normally and the port pump was powered by the emergency generator upon loss of power to the main bus. 
 
 5.	List and describe how the steering gear/system is controlled from the bridge, as well as from all alternate stations, including what modes of steering control are available and how the steering modes are shifted.
+
+There are also some local control methods from the steering gear room. These methods are emergency non-follow-up modes and can cut out any issues that might be happening with the control system on the bridge. First, both pumps must be switched to local control mode. If one pump is still set to remote, the bridge controls can fight the local control. With the pump started, the port and starboard buttons on the pump control panel can be used to turn the rudder either direction. There are non-follow-up buttons located on both consoles for each pumps.
+
+Finally, the most rudimentary method for controlling the steering gear system is the manual mode. With the desired pump started and in local, the variable frequency control for that pump should be switched off, meaning the pump is either on or off and will not be ramped up or down. Next, the levers on the directional control valve for either pump can be actuated either port or starboard with one hand. The other hand is used to hold open the pressure release lever as neither directional control lever can be actuated without it in the open position. 
+
 6.	What type of pump is used to move the steering gear ram?  Describe the operation. 
 
 The steering gear pump is a positive displacement vane pump and is controlled by a variable frequency drive (VFD). The pump draws oil from a hydraulic reservoir within the steering gear system. The oil is sent through a directional control valve which determines which side of the steering gear vanes the oil is sent to and hence the direction of rotation of the of the ram.

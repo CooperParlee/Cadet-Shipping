@@ -374,3 +374,31 @@ Eventually, I was pulled away from this project to help with the maneuver into B
 ### Day 45: 6/24
 
 Location: Brunswick, Georgia
+
+Today we got to work on several activities that could only be conducted while the vessel was in port and the main engine wasn't running. A preventative maintenance had come up for the line shaft bearings requiring that the oil be changed and the tension on the securing bolts be tested. I got to work with the third engineer and we drained, flushed and refilled the oil to the specified requirements per the maintenance order we were given. Unfortunately, the order was incorrect and the bearing ended up overfilled and started leaking oil out of the sides. This was exacerbated by the fact that the third engineer happened to be sitting in the bilge on his phone instead of watching the level gauge on the bearing as I was filling. When that happened, we had to quickly drain the oil and then refill while a certain licensed officer actually watched the level gauge. This took most of the morning as it required a significant cleanup effort. In the afternoon, I assisted the third engineer in finding a hard ground on the emergency bus circuit which entirely consisted of me calling on the radio when the resistance meter on the system dropped down very low.
+
+### Day 46: 6/25
+
+Location: Underway in the Atlantic Ocean
+
+Like most days, today started with a round. However, instead of my usual engine room round, I was instructed to show the new oiler around on the outside round. This felt like a great reflection on my future responsibilities as a third engineer--not just being the grunt laborer, rather, a leader in charge of directing others. After my round was done, I got back to work on the bracket I was making for Chief Mate which came out very well. This bracket was much thicker than the weak original bracket that was originally on the gangway so I suspect this one will last much longer. In the afternoon, I shadowed the second engineer as she did a fuel change. It hasn't changed since the last second engineer did a fuel change, but it was helpful to have the refresher.
+
+### Day 47: 6/26
+
+Location: Underway in the Gulf of America
+
+This morning I got to work after my morning rounds on the hard grounded light that the third engineer and I discovered two days prior. The first light that I opened showed the likely culprit, however, it was quite a challenge to open up as it was sealed quite well with RTV liquid gasket silicone. After about an hour of trying different methods to open the light, I discovered a wire that had been crushed when one of the oilers had last opened the light to service it. This caused the wire to then short off of the grounded case and melt further due to the resistive heating. I patched this up before discovering that the cable leading to the light itself was frayed which I wrapped with some Denso tape and put back in service, per the suggestion of the first engineer. My biggest learning experience today was with using the Denso tape which I had never used before.
+
+In the afternoon, we had a fire and boat drill, safety meeting and then a CO2 system training for the officers and cadets. I learned about how to drop the system in automatic mode or in the emergency bypass mode.
+
+### Day 48: 6/27
+
+Location: Underway in the Gulf of America
+
+I spent most of my day today working on the main engine 600-hour performance test which I was now very familiar with. I had nearly completed my test when I discovered that the second mate had slowed the ship down from the required speed (without being told to do so by the engine room) which invalidated all of the results. My very frustrated chief engineer decided that we would try again in the afternoon which went much more smoothly and efficiently. Once the data entry and report was finished, I helped the other engineers recharge refrigerant into the switchboard AC system. It certainly involved dusting off a lot of cobwebs from this past fall, but the other engineers really appreciated having someone that was much more recent with the process to help them as they were all very unfamiliar with the system. This system used R407C, a drop-in replacement for R22. Being a 400-series refrigerant, it was a mixed zeotropic refrigerant so it needed to be discharged as a liquid to prevent fractionation. Unfortunately, recharging as a liquid in this small system was *very* slow and we never quite achieved the desired charge that we were looking for. Once we were done, I gave the other engineers some suggestions on faster ways to charge the system (push-pull method) and they seemed very appreciative.
+
+### Day 49: 6/28
+
+Location: Underway in the Gulf of America
+
+This morning I began my day with my usual engine room rounds. The engine room reached 115\degF for the first time in the trip and was very unpleasant. Recently, I've been keeping a close eye on the HT expansion tank level because the valve got stuck open and overfilled the tank, setting off the high level alarm. We haven't had any issues since, but I'm continuing to monitor it for good measure. With my round finished, I was instructed to give the new oiler his ship familiarization including PPE, escape routes, alarms, eye wash stations, first aid and fire fighting equipment. Once this was done, I assisted the first engineer in inspecting the provisions crane for the main bearing condition. However, this inspection was rained out in the middle of the inspection as we entered a torrential downpour. So, we went back inside and inspected a cold plate inside of the dining room that was not cooling anymore. We tried cleaning the fins on the condenser but this did not fix things. Personally, I believe that since it is an old, small unserviced unit, the system charge is likely low. In the afternoon, I removed the motor from one of the large cargo deck fans that had hard grounded earlier in my log. Then, I spent the rest of the afternoon needle gunning and wire wheeling the fan duct to remove all of the blistering rust patches to prepare for painting.

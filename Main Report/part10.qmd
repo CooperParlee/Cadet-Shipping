@@ -9,6 +9,9 @@ Part 10 Deck Machinery (All Vessels)
 Our anchor windless was a hydraulic two-set windlass manufactured by Rauma Brattvaag (now Rolls-Royce). It was rated for 36 tons at 0-9 meters/minute. The windlass was bolted directly to the reinforced 8-deck forward mooring station deck which had additional structural supports below it to support the load of the windlass. The windlass was operated hydraulically, powered by a hydraulic power pack two decks below in the forward boatswain's store room. The controls were mounted locally on the windlass to take in our pay out scopes of anchor chain as needed.
 
 3.	What type of winches are employed?	What are their operating characteristics?
+
+The mooring winches in the forward and after mooring stations are a combination of split and single drum winches. On the forward mooring station, the two anchor windlasses were combination mooring winch and windlass where the drum can be engaged or disengaged depending on the desired function. There were also two split drum winches which operated similarly to the combination winch-windlasses in that the drum for each could be selected at will. Additionally, there were two single drum winches for the spring lines. On the aft mooring station, there were two split drum winches and two single drum winches. The winches could be controlled locally on the winch itself or from a remote handheld that the mate for that mooring station would use.
+
 4.	Explain how the cargo winches are reversed.
 
 While we did not have cargo winches, we did have hydraulic doors and ramps for our rolling cargo. The hydraulic motors that drove these systems were never reversed. Instead, a directional control valve was used right before the system to control the flow of hydraulic fluid. The pump would continue pressurizing fluid the same way, but the directional control valve would determine which way that fluid flowed to turn the actuators for the ramps and doors. It would flow one way through the pipes to the actuator to extend them and flow the opposite direction through the pipes to retract them. 
@@ -19,7 +22,7 @@ The winch and anchor windlass controls are within the forward mooring station wh
 
 6.	How is power applied to the deck machinery?	Is it necessary to start any additional machinery in the engine room before operating deck machinery?	Explain briefly.
 
-Given that the winches were hydraulically powered and electrically controlled, power was provided via the forward and after hydraulic power packs. These power packs were powered 
+Given that the winches were hydraulically powered and electrically controlled, power was provided via the forward and after hydraulic power packs. These power packs were powered by the electrical system and were on the emergency bus. The emergency bus was backfed by the main bus via the emergency bus tie. Technically, it is necessary to start the aft power pack within the steering gear (an engine room space) but this power pack can be started remotely if the controls are set to remote on the power pack. 
 
 7.	Who oversees deck machinery maintenance on your ship? List any significant work which was performed on deck machinery during your stay on board.
 
@@ -30,6 +33,9 @@ The first engineer oversees deck machinery maintenance on board my ship. Since w
 The members of the deck department who operate the anchor windlass depend on where the windlass is being controlled. On our ship, the windlass could be controlled both locally and from the bridge. As far as I understand it, being able to access the windlass from the bridge was a somewhat unusual quality. If someone is operating the windlass locally, the boatswain is the one to operate it given instructions from the bridge. If the bridge is controlling it, then either the chief mate or the captain will be the one to operate the controls.
 
 9.	Briefly describe any towing winches installed including steps required to operate them.
+
+Given that our vessel was RORO, we did not have towing winches.
+
 10.	Is heating provided to the electrical equipment on deck? If so, how and why?
 
 Yes, lots of the deck electrical equipment including the deck fans receive heating. The reason for this is not because of freezing so much as it is about keeping moisture out of the electrical windings of the equipment. I became very familiar with the equipment-destroying powers of moisture during my time aboard the ARC Independence as I spent lots of my time repairing deck fans that had been damaged due to water ingress. Water would directly reduce the resistance of all electrical components within the fans from the motor windings, the motor controller, and the electrical box leading to the motor. The issue with this is that the motors nominally draw a lot of power, so the grid is designed to send lots of power to the motors. Typically, this power drops off as the motors reach their operating speed. However, if there is a ground in the system due to water filling components, current will continue to travel through the short because the resistance is very low. This is very taxing to the electrical system and just generates heat within the fan. The electrical box for one fan motor in specific had received so much water that when the motor attempted to start, it shorted out inside and burned out a very large and expensive motor.

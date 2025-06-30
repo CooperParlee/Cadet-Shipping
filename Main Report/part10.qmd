@@ -2,7 +2,53 @@ Part 10 Deck Machinery (All Vessels)
 
 1.	List and describe the number, name and type of equipment which could be classified as "deck machinery".
 
+*Combined Mooring Winch/Windlass (W1, W2)*
+- QTY: 2
+- Type: MW 250 F/ CU 87 U3 (1 cable lifter, 2 mooring drums and one warping end)
+- Cable Lifter:
+Load/speed: 36 tons at 0 - 9 m/min
+Max Pull: 53.9 tons
+Brake holding load: 252.3 tons
+- Mooring Drum:
+Load/speed 25 tons at 0-15 m/min
+Light line speed 0-40 m/min
+Brake holding load: 64.8 tons
+- Warping End:
+Dimensions: 450 mm
+Load/speed: 23.5 tons at 0-15m/min
+Light line speed 0-40 m/min
 
+*Mooring Winch (M1, M4)*
+- QTY: 2
+- Type: MW 250 F (one mooring drum, one warping end)
+- Mooring Drum:
+Load/speed 25 tons at 0-15 m/min
+Light line speed 0-40 m/min
+Brake holding load: 64.8 tons
+- Warping End:
+Dimensions: 450 mm
+Load/speed: 23.5 tons at 0-15m/min
+Light line speed 0-40 m/min
+
+*Mooring Winch (M2, M3)*
+- QTY: 2
+- Type: MW 250 F (one mooring drum)
+- Mooring Drum:
+Load/speed 25 tons at 0-15 m/min
+Light line speed 0-40 m/min
+Brake holding load: 64.8 tons
+
+*Mooring Winch (M5, M6)*
+- QTY: 2
+- Type: MW 250 F (two mooring drums, one warping end)
+- Mooring Drum:
+Load/speed 25 tons at 0-15 m/min
+Light line speed 0-40 m/min
+Brake holding load: 64.8 tons
+- Warping End:
+Dimensions: 450 mm
+Load/speed: 23.5 tons at 0-15m/min
+Light line speed 0-40 m/min
 
 2.	What is the manufacturer, size, and capacity of the anchor windlass?  List and describe its installation and operation.
 

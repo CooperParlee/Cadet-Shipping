@@ -27,7 +27,7 @@ As far as tasks I was allowed to perform, I often performed a lot of the basic g
 
 The fuel remaining on board is calculated automatically using the Kongsberg system. The system has a list of tanks on the vessel, what fuel is in them and the respective level via tank level indicators (TLI). If a precise measurement was needed, the chief engineer would send the third engineer to go and take soundings for the various tanks. From there, he would sound the tank and then use the tank table for the respective trim of the vessel. Temperature was not something that the engineers really accommodated for, but they would note it in their record books. That way, if there were any "missing" items on the oil record book, for example, they would be able to suggest that a discrepancy in a few cubic meters of heavy oil could be due to the fact that an original sounding was taken under heat. Also, the vessel rarely heeled. However, if the ship was rolling a lot, a couple soundings would be taken to minimize the effect of tank sloshing for lower viscosity fuel tanks like diesel.
 
-![Example of a tank sounding table found for the main engine lube oil sump](Pictures/part9/tank_table_ex.PNG)
+![Example of a tank sounding table found for the main engine lube oil sump](Pictures/part9/tank_table_ex.png)
 
 3.  List and describe the system used to keep track of spare parts on the vessel. If no system was used on your ship, describe how a system might be instituted.
 
@@ -105,7 +105,7 @@ The majority of values recorded in a typical logbook were recorded electronicall
 1650 ER UNMANNED
 2400 NIGHT ROUND COMPLETE, ER UNMANNED
 
-![Engine room logbook from 5 May](Pictures/part9/er_log.PNG)
+![Engine room logbook from 5 May](Pictures/part9/er_log.png)
 
 11. Provide a reproduced and completed oiler's round of temperatures and pressures for one underway watch.
 
@@ -151,7 +151,7 @@ The cylinder oil could be obtained at each cylinder and drained from the stuffin
 
 Since the diesel generators ran on a single oil for the whole system, there was a single drain for the whole machine which resembled the cylinder oil drain and was located on the driving end of the generator.
 
-![Diesel engine oil sampling point](Pictures/part9/gen_sample.PNG)
+![Diesel engine oil sampling point](Pictures/part9/gen_sample.png)
 
 17. What is the make and model number of the fuel and lube oil purifiers used?
 
@@ -171,7 +171,7 @@ Typical entries found in the oil record book include ballasting or cleaning of f
 
 The OWS was a Marinflock AB model CB 1.0 manufactured in 2006 with a max flowrate of 1000 L/hr, a service volume of 580 L. It was tested for an oil content between 0-5 ppm and has a USCG approval number of 162.050/1263/0.
 
-![Marinflock AB oily water separator](Pictures/part9/MF_nameplate.PNG)
+![Marinflock AB oily water separator](Pictures/part9/MF_nameplate.png)
 
 21. List and describe in detail how the oily bilge separator functions. What are the USCG requirements for oil/water separators? List the articles.
 

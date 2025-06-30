@@ -47,7 +47,7 @@ Hydraulic fluid begins at the power unit driving the rudder. The fluid is pressu
 
 8.	Explain how the steering gear/system answers a rudder signal from the bridge correctly without overcompensating.
 
-In the follow up mode of the steering gear, the rudder's position is continuously monitored by a potentiometer connected to the rudder by a mechanical linkage. The potentiometer is calibrated to know the angle of the rudder at any given time. As such, one the rudder is sent an order from the bridge, say 20\deg port, the directional control valves are sent a signal to turn to that direction and the rudder begins to turn in that direction. As the rudder is approaching the new set angle, the angle is measured on the potentiometer and the turn rate is reduced to check the rudder swing to ensure that the rudder does not overcompensate.
+In the follow up mode of the steering gear, the rudder's position is continuously monitored by a potentiometer connected to the rudder by a mechanical linkage. The potentiometer is calibrated to know the angle of the rudder at any given time. As such, one the rudder is sent an order from the bridge, say 20° port, the directional control valves are sent a signal to turn to that direction and the rudder begins to turn in that direction. As the rudder is approaching the new set angle, the angle is measured on the potentiometer and the turn rate is reduced to check the rudder swing to ensure that the rudder does not overcompensate.
 
 9.	What is used on the steering system for rudder stops? Explain their operation.
 

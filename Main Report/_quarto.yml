@@ -1,0 +1,32 @@
+project:
+  type: book
+book:
+  title: "Main Report"
+  author: "Cooper Parlee"
+  chapters:
+    - index.qmd
+    - tab2.qmd
+    - tab3.qmd
+    - tab4.qmd
+    - tab5.qmd
+    - tab6.qmd
+    - tab7.qmd
+    - table_of_contents.qmd
+    - part1.qmd
+    - part2.qmd
+    - part3.qmd
+    - part4.qmd
+    - part5.qmd
+    - part6.qmd
+    - part7.qmd
+    - part8.qmd
+    - part9.qmd
+    - part10.qmd
+    - part11.qmd
+
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    include-in-header: page-style.tex
+    output-file: my-report

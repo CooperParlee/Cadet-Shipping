@@ -19,7 +19,7 @@ The line shafting on my vessel was forged steel of 495mm in diameter. It started
 
 2.  How is a line shaft bearing lubricated? What type and viscosity oil is used?
 
-On my ship, line shaft bearings were oil lubricated. The bearing is partially submerged into an oil sump and as the shaft rotates around, it splashes oil up and around the housing, coating the bearing surfaces. The excess oil then drips back down into the sump. The line shaft bearings were lubricated with Atlanta Marine D 3005. It is SAE grade 30 oil with a viscosity of 105 cSt at 40\degC.
+On my ship, line shaft bearings were oil lubricated. The bearing is partially submerged into an oil sump and as the shaft rotates around, it splashes oil up and around the housing, coating the bearing surfaces. The excess oil then drips back down into the sump. The line shaft bearings were lubricated with Atlanta Marine D 3005. It is SAE grade 30 oil with a viscosity of 105 cSt at 40°C.
 
 3.  List and describe some of the reasons that would cause a line shaft bearing to run hot. What actions would you take if your ship had a hot line shaft bearing?
 

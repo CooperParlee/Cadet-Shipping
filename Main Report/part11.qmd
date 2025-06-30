@@ -44,7 +44,7 @@ The emergency generator serviced a limited amount of equipment. It serviced the 
 
 4.	What is the emergency diesel engine operating speed, L.O., F.O. and cooling water pressures and temperatures while operating under load?
 
-The diesel engine operating speed is 1800 rpm. Oil hovered around 300 kPa and 90 \degC. Coolant remained around 200 kPa and 70 \degC. Fuel oil pressure or temperatures were not a gauges on the engine and there were no values provided within the diesel engine manual.
+The diesel engine operating speed is 1800 rpm. Oil hovered around 300 kPa and 90 °C. Coolant remained around 200 kPa and 70 °C. Fuel oil pressure or temperatures were not a gauges on the engine and there were no values provided within the diesel engine manual.
 
 5.	How often should emergency generator's engine be test operated according to Coast Guard regulations? How often was it operated to meet this regulation?
 

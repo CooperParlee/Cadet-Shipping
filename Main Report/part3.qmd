@@ -23,7 +23,7 @@ KangRim Marine Aux Boiler
 - Type Designation: MA0302P32
 - Max Allowable Working Pressure: 9 Bar
 - Hydro Test Pressure: 13.5 Bar
-- Design Temp: 250 \degC
+- Design Temp: 250 °C
 - Steam Capacity: 2000 kg/hr
 
 Oilon RP130M Heavy Oil Burner

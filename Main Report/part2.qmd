@@ -30,7 +30,7 @@ Shaft Generator:
 - Voltage: 415-420 V
 - Rating: Continuous
 - Insulation: Class F
-- Temp Rise: 104 \degC Armature
+- Temp Rise: 104 °C Armature
 - Total Mass: 34700 kg
 - Excitation Voltage/Current: 181 VDC/120 A
 - Date: 2006.6
@@ -49,7 +49,7 @@ The overspeed protection system is designed to prevent the engine from destroyin
 
 6.	What differences in the plant operation/setup did you observe when entering and leaving port (at sea-maneuvering modes)?   i.e., sea suctions, type fuel oil, pressure and temperature adjustments made, extra equipment started etc.?
 
-There were quite a few differences in plant operation between maneuvering and at-sea operation. When maneuvering, both diesel generators were running and the shaft generator was offline. The main engine used MGO instead of heavy fuel (B30 or VLSFO) when navigating near port both due to emission control areas and for reliability. The evaporator was taken offline when near port and maneuvering. The auxiliary boiler was brought online instead of the exhaust gas boiler when maneuvering into port. Additionally, the jacket water inlet temperature to the main engine was closely monitored to ensure that it was not too low if the engine was being run at lower speeds for maneuvering. If this was likely, the jacket water preheater was used to keep the temperatures up. Additionally, they would raise the jacket water heater setpoints to keep the temperatures around 75-85 \degC. Instead of using the low sea suction, the high sea suction was used, especially for shallow depths. 
+There were quite a few differences in plant operation between maneuvering and at-sea operation. When maneuvering, both diesel generators were running and the shaft generator was offline. The main engine used MGO instead of heavy fuel (B30 or VLSFO) when navigating near port both due to emission control areas and for reliability. The evaporator was taken offline when near port and maneuvering. The auxiliary boiler was brought online instead of the exhaust gas boiler when maneuvering into port. Additionally, the jacket water inlet temperature to the main engine was closely monitored to ensure that it was not too low if the engine was being run at lower speeds for maneuvering. If this was likely, the jacket water preheater was used to keep the temperatures up. Additionally, they would raise the jacket water heater setpoints to keep the temperatures around 75-85 °C. Instead of using the low sea suction, the high sea suction was used, especially for shallow depths. 
 
 7.	List and describe the fuel oil storage and transfer system.
 
@@ -67,7 +67,7 @@ The fuel injection system on my vessel was a mechanical injection system that wa
 
 The other rack connected to each of the pumps individually and was electrically driven. This was the VIT rack. The VIT rack changes the position of the fuel pump sleeve to make the timing of fuel admission earlier or later to either speed up or delay combustion.
 
-![1. Fuel pump rack and position indicator; 2. Variable Injection Timing (VIT) rack and indicator](Pictures/part2/fuel_rack-vit.PNG)
+![1. Fuel pump rack and position indicator; 2. Variable Injection Timing (VIT) rack and indicator](Pictures/part2/fuel_rack-vit.png)
 
 10.	Explain the path of lube oil flow throughout the engine. How are the liners and bearings lubricated?
 
@@ -82,10 +82,10 @@ The main engine used two different types of lubrication oils. These are Talusia 
 Specifications for Talusia Universal are as follows:
 
 SAE Grade: 50
-Density at 15\degC: 930 $kg/m^3$
-Kinematic Viscosity at 100\degC: 19 $mm^2/s$
-Flash Point: 230\degC
-Pour Point: -9\degC
+Density at 15°C: 930 $kg/m^3$
+Kinematic Viscosity at 100°C: 19 $mm^2/s$
+Flash Point: 230°C
+Pour Point: -9°C
 Base Number: 57
 
 The recommended storage temperature range is 5°C to 50°C.
@@ -93,11 +93,11 @@ The recommended storage temperature range is 5°C to 50°C.
 Specifications for Atlanta Marine D 3005 are as follows:
 
 SAE Grade: 30
-Density at 15\degC: 890 $kg/m^3$
-Kinematic Viscosity at 40\degC: 105 $mm^2/s$
-Kinematic Viscosity at 100\degC: 11.5 $mm^2/s$
-Flash Point: 220\degC
-Pour Point: -9\degC
+Density at 15°C: 890 $kg/m^3$
+Kinematic Viscosity at 40°C: 105 $mm^2/s$
+Kinematic Viscosity at 100°C: 11.5 $mm^2/s$
+Flash Point: 220°C
+Pour Point: -9°C
 Base Number: 6
 
 The recommended storage temperature range is 5°C to 50°C.
@@ -112,7 +112,7 @@ The average cylinder oil consumption per day over the 2025 calendar year was 121
 
 12.	Describe the procedure for getting the engine ready for sea, that is, ready for leaving port.
 
-In order to get the engine ready to leave port, we first put the second diesel generator in standby mode to start when the bow thruster is started. The main engine lube oil pump is started and the lube oil temperature regulator (LC09) is set to 45\degC. The central fresh water cooling pump is started and the smaller "in port" CFW pump is stopped. The start air compressors are set to the manual position. The control air and safety air valves on the main engine are opened to be blown down; this is found on the forward end of the main engine on the lower level. The bridge is then called for wheel clearance and the main engine is put into pre-lube mode by pressing the "pre lub" button on the Alpha Lubricator panel in the ECR. Next, the turning gear is run for 7 minutes. The turning gear must first be engaged by pulling the big lever by the gear, closing the breaker and pushing the forward button. After 7 minutes, the turning gear can be secured and the start air and start air pilot valves can be opened on the aft end of the upper level near the main engine. Next is the "slow turn" main engine blowdown procedure. The engine is put into this mode by pushing the slow turn button on the main engine indicating panel and putting the telegraph to the dead slow position. The maneuvering panel to the left of the telegram is brought up to the start position to admit turning air to the main engine. When this is complete, the telegraph can be moved to the stop position and the slow turn indicator can be disabled on the indicator panel. With this completed, the indicator cocks can be closed on the main engine. Wait for the pilot to board, then start the second diesel generator, placing both in "stop block" mode to prevent the automation from taking a generator offline due to low load. Now, notify the bridge that the generators are online. Start the main engine fuel oil supply and circulating pumps. Now, wait for the bridge standby order for the main engine.
+In order to get the engine ready to leave port, we first put the second diesel generator in standby mode to start when the bow thruster is started. The main engine lube oil pump is started and the lube oil temperature regulator (LC09) is set to 45°C. The central fresh water cooling pump is started and the smaller "in port" CFW pump is stopped. The start air compressors are set to the manual position. The control air and safety air valves on the main engine are opened to be blown down; this is found on the forward end of the main engine on the lower level. The bridge is then called for wheel clearance and the main engine is put into pre-lube mode by pressing the "pre lub" button on the Alpha Lubricator panel in the ECR. Next, the turning gear is run for 7 minutes. The turning gear must first be engaged by pulling the big lever by the gear, closing the breaker and pushing the forward button. After 7 minutes, the turning gear can be secured and the start air and start air pilot valves can be opened on the aft end of the upper level near the main engine. Next is the "slow turn" main engine blowdown procedure. The engine is put into this mode by pushing the slow turn button on the main engine indicating panel and putting the telegraph to the dead slow position. The maneuvering panel to the left of the telegram is brought up to the start position to admit turning air to the main engine. When this is complete, the telegraph can be moved to the stop position and the slow turn indicator can be disabled on the indicator panel. With this completed, the indicator cocks can be closed on the main engine. Wait for the pilot to board, then start the second diesel generator, placing both in "stop block" mode to prevent the automation from taking a generator offline due to low load. Now, notify the bridge that the generators are online. Start the main engine fuel oil supply and circulating pumps. Now, wait for the bridge standby order for the main engine.
 
 Now that the bridge is calling for standby, acknowledge the standby call on the telegraph. Switch the main engine control switch from engine room control to bridge control and put the auxiliary blowers in auto. Start the main engine jacket water cooling pump at the first bell from the bridge. Adjust the jacket water preheater (SL67) as needed, starting the preheating pump if the preheater is necessary. Once the exhaust gas boiler reaches 5 bar, open the EGB feed water valves to start the boiler. 
 
@@ -148,10 +148,10 @@ There were three different water cooling systems involved with the main engine, 
 18.	Fully describe the starting system equipment and its operation.
 
 Starting with the compressors, the two Sperre HV2 compressors kept the two Kumkang 7,000L start air reservoirs pressurized to 30 bar. After the start air reservoirs, the start air ran into the main start air valve. This valve was electronically operated when the engine was starting and stayed in the normally closed position. There was a manual actuator outside of the valve to force the valve open for starting.
-![Main start air valve with manual actuator: 1. M/E start air blocker (cw to lock, ccw to unlock) 2. manual actuator located underneath](Pictures/part2/main_start_valve.PNG)
+![Main start air valve with manual actuator: 1. M/E start air blocker (cw to lock, ccw to unlock) 2. manual actuator located underneath](Pictures/part2/main_start_valve.png)
 After the actuator, some of the start air traveled to the start air distributor which included a cam that was directly connected and timed to the main engine. This distributor sent air to drive the start air valves on each of the cylinders at the appropriate time (TDC) to drive the piston down and turn over the engine
-![Start air distributor](Pictures/part2/start_dist.PNG)
-![Cylinder start air valve](Pictures/part2/me_start_air_valve.PNG)
+![Start air distributor](Pictures/part2/start_dist.png)
+![Cylinder start air valve](Pictures/part2/me_start_air_valve.png)
 
 19.	What is "tappet clearance” or “valve lash" and how is it adjusted on the intake/exhaust valves?
 
@@ -171,15 +171,15 @@ On June 18, it was determined that the start air valve for cylinder #1 was leaki
 
 For the main engine start air, there are two Sperre HV2 4-cylinder V-type reciprocating compressors with a capacity of 250 $m^3/hr$ rated for a pressure of 30 bar. The compressed air is used for starting the main engine. 
 
-![Sperre HV2 air compressor](Pictures/part2/main_start_ac.PNG)
+![Sperre HV2 air compressor](Pictures/part2/main_start_ac.png)
 
 There is also a much smaller Sperre HL2/77 2-cylinder V-type reciprocating compressor rated at 20 $m^3/hr$ at 30 bar used for producing start air for the diesel generators during the event of a plant blackout. This compressor is the only one on the emergency bus. 
 
-![Sperre HL2/77](Pictures/part2/estart_air.PNG)
+![Sperre HL2/77](Pictures/part2/estart_air.png)
 
 The last air compressor was the Atlas Copco GA37FF screw-type working air compressor rated for 7.1 $m^3/hr$ at 7.5 bar. It also provided control air after that air traveled through a drier. It is important to note that the chief on my vessel chose to use the crossover from the start air lines to provide control air because he felt that it provided higher capacity, but the previous chief felt that control air should be provided by the working air compressor.
 
-![Atlas Copco GA37FF](Pictures/part2/working_air.PNG)
+![Atlas Copco GA37FF](Pictures/part2/working_air.png)
 
 22.	If the main engines could be controlled from the bridge, list in order the process of transferring control from engine control room to bridge. List precautions.
 
@@ -189,20 +189,20 @@ In order to transfer control from the engine room to the bridge, one must first 
 
 In order to transfer engine control from ECR to the local operating panel, first the engine control selector switch must be in "C/R Control" instead of "Bridge Control" in the engine control room. Before switching, it is important to ensure that you have communications with the bridge from the local operating panel and have someone in the control room to acknowledge a "local control" alarm that comes up when switching modes. Additionally, it is important to make sure that there is adequate air pressure in the start air tanks to handle stopping and starting because to switch control modes, there will be a change in fuel rack position. For example in switching from ECR to local control, if your throttle was set to 80 rpm on the ECR throttle and 40 rpm on the local throttle, a noticeable "bump" (as the Chief called it) will be observed in the main engine. That is why it was recommended that switching modes for testing was conducted when the engine was offline. Additionally, it is crucial to note that operating from the local control station cuts out all safeties and the governor for the engine. In doing so, if a lube oil pump stops pumping oil or the pressure is too low, the local control console will continue to actuate the engine. As such, it is important to keep an oiler doing continuous rounds around the engine room to ensure that everything is running properly. This process requires that the engine room be continuously manned. In order to actually conduct the changeover, a magnet has to be removed from the position blocking device (which was added because the blocking device tended to vibrate loose). 
 The handwheel below the console is then set to the manual position.
-![Remove magnet, remove block, and set handwheel to the manual position]()
+<1!--![Remove magnet, remove block, and set handwheel to the manual position]()--->
 Then, set the valve for ahead or astern to the correct position.
-![Ahead/astern selector valve]()
+<1!--![Ahead/astern selector valve]()--->
 Finally, change the valve from remote to manual mode.
-![Remote/manual valve]()
+<1!--![Remote/manual valve]()--->
 From there, one pushes and holds the start button on the control console until the engine catches, then slide the fuel rack controller into the "start" position.
 
 24.	What is the viscosity of the fuels used on board? Was the injection viscosity controlled? If so, explain this process.
 
-The Independence burned MGO, VLSFO and B30 biofuel. The viscosity of MGO at 40\deg C was determined via lab testing to be 3.3 cSt. The viscosities for VLSFO and B30 at 50\deg C are 171.4 cSt and 57 cSt respectively. At 100\deg C, they are 21.4 cSt and 10.7 cSt respectively. Given the low viscosity of MGO, the injection viscosity was not controlled. However, with the high viscosities for VLSFO and B30, these injection viscosities were controlled electronically with the Alfa Laval OPrem system. This system measured the viscosity and temperature of the fuel oil going to the engine and adjusted the amount of steam going to the fuel oil heaters. When switching to and from MGO and a residual fuel, the temperature was controlled manually by the OPrem system, not the viscosity. This was because the MGO was not to be heated above 85\degC. 
+The Independence burned MGO, VLSFO and B30 biofuel. The viscosity of MGO at 40° C was determined via lab testing to be 3.3 cSt. The viscosities for VLSFO and B30 at 50° C are 171.4 cSt and 57 cSt respectively. At 100° C, they are 21.4 cSt and 10.7 cSt respectively. Given the low viscosity of MGO, the injection viscosity was not controlled. However, with the high viscosities for VLSFO and B30, these injection viscosities were controlled electronically with the Alfa Laval OPrem system. This system measured the viscosity and temperature of the fuel oil going to the engine and adjusted the amount of steam going to the fuel oil heaters. When switching to and from MGO and a residual fuel, the temperature was controlled manually by the OPrem system, not the viscosity. This was because the MGO was not to be heated above 85°C. 
 
-The only time the engineers really had to manually adjust the OPrem system was when they were changing from a heavy fuel to diesel fuel. To adjust the system, they would slowly increase or decrease (for switching to or from a heavy fuel, respectively) the manual temperature setpoint on the system in increments of 5-10\degC so as not to cause the system to go into a thermal runaway alarm. They found that the system would go into this runaway alarm if they explicitly set the final setpoint because the system felt it was not reaching that temperature fast enough and would raise an alarm. As such, the engineers learned to manually adjust the system in times of changeover.
+The only time the engineers really had to manually adjust the OPrem system was when they were changing from a heavy fuel to diesel fuel. To adjust the system, they would slowly increase or decrease (for switching to or from a heavy fuel, respectively) the manual temperature setpoint on the system in increments of 5-10°C so as not to cause the system to go into a thermal runaway alarm. They found that the system would go into this runaway alarm if they explicitly set the final setpoint because the system felt it was not reaching that temperature fast enough and would raise an alarm. As such, the engineers learned to manually adjust the system in times of changeover.
 
-![OPrem referred to by the crew as "ViscoChief"](Pictures/part2/Viscochief.PNG)
+![OPrem referred to by the crew as "ViscoChief"](Pictures/part2/Viscochief.png)
 
 25.	List and describe the main engine protection devices, including alarms and trips. Explain how they were tested for satisfactory operation. How often are they tested?
 
@@ -220,7 +220,7 @@ Wear on these bearings is checked a bunch of ways. First, bearing temperature is
 
 The crosshead bearings are checked by first removing the crankcase door and turning the crankthrow for that cylinder to bottom-dead center (BDC). A feeler gauge is then inserted between the bearing cap and the crosshead journal. This is shown in the below diagram.
 
-![DOOSAN MAN B&W crosshead bearing inspection M90401-0249C03]()
+<!---![DOOSAN MAN B&W crosshead bearing inspection M90401-0249C03]()--->
 
 The value observed is then checked against the minimum and maximum crosshead clearances of 0.2 mm and 0.55 mm respectively.
 
@@ -230,7 +230,7 @@ A crank web deflection is an important tool in checking the health of your main 
 
 To perform the deflection, a dial gauge is placed axially between the throws of the crank for that respective cylinder, opposite the crankpin. Our dial gauge came with a wireless handheld that showed the indicated position from outside of the engine which was very convenient. Zero the dial gauge at B1 per the diagram below, then rotate the turning gear forward to reach all positions shown in the diagram, stopping at each to record the appropriate readings. Once the E value is reached, continue moving the turning gear forward until the crosshead bearing is level with the crankshaft door, then have a competent engineer (in our case, the first engineer) climb over the crosshead bearing to give turning directions until you reach the B2 position. This is to ensure that the crankshaft does not collide with the the dial gauge. Once the B2 is reached, the engineer should remove the dial indicator to prevent this collision.
 
-![DOOSAN MAN B&@ Instructions for crank web deflection, diagram XZ905-1.1 204 03]()
+<!---![DOOSAN MAN B&@ Instructions for crank web deflection, diagram XZ905-1.1 204 03]()--->
 
 The crank web deflection report is provided in APPENDIX __.
 

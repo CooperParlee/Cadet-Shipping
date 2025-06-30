@@ -9,5 +9,9 @@
 *.min.js
 *.tex
 *.log
+*.png
+*.heic
 venv
 "Main Report/part1_files/"
+"Main Report/_book/*"
+daily_log_files/*

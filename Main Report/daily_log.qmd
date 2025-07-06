@@ -12,38 +12,38 @@ format:
 header-includes: |
   \usepackage{graphicx}
   \setkeys{Gin}{width=0.6\textwidth,keepaspectratio}
-editor: visual
+
 ---
 
 ## Daily Log
 
 ### Day 0: 5/10
 
-Location: Loading cargo in Baltimore
+Location: Moored in Baltimore
 
 This morning, I arrived to the ship after a very early flight. After spending the majority of the morning completing paperwork with the Captain, I spent the early afternoon meeting the engineers and getting a tour of the engine room. The M/V ARC Independence burns a heavy fuel distillate called very low sulfur fuel oil (VLSFO) and, as such, it requires steam heating to reduce the viscosity of the fuel and improve atomization and flow. While there are larger steam heaters, there are steam lines that wrap around the fuel oil lines to the main engine and one of these lines was leaking causing steam condensate to drip below the line onto the deck. I assisted the engineers in performing quick temporary repairs on the line, including using pipe clamps to reduce the pressure of steam into the line and thus reducing the amount of steam that was allowed to leak out. Next, I followed the Third Assistant Engineer around as he started to perform some pre-departure checks given that the vessel was slated to leave tomorrow.
 
 ### Day 1: 5/11
 
-Location: Loading cargo in Baltimore
+Location: Moored in Baltimore
 
 The morning's work involved exercising the at-sea spares for the main engine and ship service diesel generator exhaust valves. According to the First Engineer, this maintenance is typical prior to an Atlantic crossing. After threading in a service air connection to the side of the valve body and using the chain hoist to lift the assembly, the exhaust valves were allowed to move about their full length of travel and lubricated with Never-Seez. After the valves were completed. I assisted the Third in troubleshooting some non-functional deck lighting which included replacing light bulbs and chasing bad grounds.
 
 ### Day 2: 5/12
 
-Location: Loading cargo in Baltimore
+Location: Moored in Baltimore
 
 Today's work began by shadowing the oiler on her engine room round. This round was much shorter than the TSSOM oiler round as most of the items recorded were to be measured on the computer. There were only 4 manual tank soundings. Afterwards, I assisted the 3rd Engineer on continuing the LED fog light conversion project mentioned for the previous day. This involved removing the ballast for the previous light and then rewiring the leads directly.
 
-![Note: Foglight ballasts after they are removed from the control box](Pictures/log/day2/ballasts_removed.png)
+![Foglight ballasts after they are removed from the control box](Pictures/log/day2/ballasts_removed.png)
 
-![Note: Empty control box with "straight piped" LED light feeder lines](Pictures/log/day2/ballasts_removed2.png)
+![Empty control box with "straight piped" LED light feeder lines](Pictures/log/day2/ballasts_removed2.png)
 
-Ultimately, I was taken away from this project to perform an inspection on the secondary of the step-down transformer (440v to 220v) for the accommodation space and the upper car deck lighting. In this process, I learned that one cannot run two transformers in parallel because the secondaries act like two distinct sources. This was not intuitive to me. As such, it was necessary to de-energize the running starboard-side transformer before energizing the port-side transformer which meant a momentary blackout. 
+Ultimately, I was taken away from this project to perform an inspection on the secondary of the step-down transformer (440v to 220v) for the accommodation space and the upper car deck lighting. In this process, I learned that one cannot run two transformers in parallel because the secondaries act like two distinct sources. This was not intuitive to me. As such, it was necessary to de-energize the running starboard-side transformer before energizing the port-side transformer which meant a momentary blackout.
 
-![Note: Secondary stepdown transformer](Pictures/log/day2/transformer.png)
+![Secondary stepdown transformer](Pictures/log/day2/transformer.png)
 
-After that, I returned to the LED fog light conversion project where I was responsible for milling slots into the brackets for the new lights. 
+After that, I returned to the LED fog light conversion project where I was responsible for milling slots into the brackets for the new lights.
 
 ![Lighting bracket after milling is concluded](Pictures/log/day2/lighting_brack.png)
 
@@ -55,7 +55,7 @@ Location: Underway from Baltimore
 
 Today, the M/V Arc Independence finally got underway. At 0800, I assumed the maneuvering watch with the Third Engineer. It involved mostly walking around the engine room, looking for leaks and checking the important temperatures and pressures. It also provided an opportunity to get familiar with the Kongsberg system. In the afternoon, it was back to maintenance. This began with the transformer that we had worked on yesterday, which was re-energized successfully with no major complications. With that being said, the transformer did create a small ground. I learned that this is due to the accumulation of moisture within the transformer. This is why it is very important to leave the transformer powered on the primary end even if the secondary is disconnected. This configuration will allow the energy stored within the field to heat up the copper windings and drive out moisture. After this, we made our way to the bow thruster compartment to take measurements on a motor that had an improperly-sized coupling installed on it.
 
-![Note: Steering gear oil pump inspected](Pictures/log/day3/strg_pump.png)
+![Steering gear oil pump inspected](Pictures/log/day3/strg_pump.png)
 
 Finally, the side vehicle bay loading door is not regularly used and the ship's crew is in the process of phasing it out due to leaking hydraulic components connected to the door. As such, I helped the first engineer remove two hydraulic cylinders from the door: one to be used as a spare and the other to be rebuilt.
 
@@ -65,27 +65,27 @@ Location: Underway in Atlantic Ocean
 
 Today, my day began by performing a 12 month inspection of the inboard diesel oil circulating pump. It involved checking the motor current draw, observing for vibrations and checking the telltale hole for leaks. Shortly after which, I conducted the MGO/HFO changeover. Prior to conducting the changeover, I was very unfamiliar with the process. It involved turning on the fuel oil viscosity control to manual temperature control and using it to heat both the MGO and B30 (the biofuel blend we burn when traveling to Europe). Once the MGO was hot enough, you would open the valve from the B30 tank that you wanted to draw from and it would be drawn into the line and mixed in the small fuel oil return tank for the main engine just after the engine. Over time, this B30/MGO blend would transfer over over to completely B30 as the blend was burned off and replaced completely with B30. After some time, the viscosity control system would be set back to viscosity control. After that point, the third engineer taught me how to do a bilge water transfer where we transferred bilge water from the clean bilge tank after the oily water separator to the high bilge tank. This afternoon, we conducted our first fire and emergency drill and were given a scenario where the laundry room was on fire and had a safety discussion afterwards. After the conclusion of the safety meeting, the second engineer and I tested the quick closing valves for the generator fuel oil pumps. Here, I learned that there are three zones for the quick closing valves: the generators and aux boiler (which we tested today), lube oil for both the main engine and generators, and main engine fuel oil and the purifier system.
 
-![Note: MGO day tank quick-closing valve for the diesel generator.](Pictures/log/day4/quick_closer.png)
+![MGO day tank quick-closing valve for the diesel generator.](Pictures/log/day4/quick_closer.png)
 
 ### Day 5: 5/15
 
 Location: Underway in Atlantic Ocean
 
-This morning, my day began by helping to troubleshoot an issue with the auxiliary boiler where the boiler would pant and not switch to a low firing mode once it hit its steam pressure set point. We began by removing and replacing the solenoid valves on the fuel line to the burner as the seats on the valve were pitted. The second engineer did not believe these to be the cause of the issue, but since we had two spare solenoids, we chose to replace them anyways. 
+This morning, my day began by helping to troubleshoot an issue with the auxiliary boiler where the boiler would pant and not switch to a low firing mode once it hit its steam pressure set point. We began by removing and replacing the solenoid valves on the fuel line to the burner as the seats on the valve were pitted. The second engineer did not believe these to be the cause of the issue, but since we had two spare solenoids, we chose to replace them anyways.
 
-![Note: boiler solenoid piping rebuilt with new solenoid housings.](Pictures/log/day5/rebuilt_boiler_solenoid.png)
+![boiler solenoid piping rebuilt with new solenoid housings.](Pictures/log/day5/rebuilt_boiler_solenoid.png)
 
 Afterwards, we tested the boiler and did not say any improvement or worsening of the existing "panting" issue. Next, we removed the burner from the burner flange, cleaned out the injector nozzle and wire brushed the diffuser plate within the boiler. Once these maintenance items were complete, we went on to test the emergency start and low water level functionality of the boiler. We observed that the float sensor for the boiler water level got stuck in the channel so this was a future maintenance item to be added. After that, I went to assist the 3rd engineer with the fog light bracket project that we started earlier this week. He had managed to break off a drill bit in the mounting holes, so the first reassigned me to the job to clean up the mess. After some careful work with the milling machine, I was able to clean up and finish the mounting bracket. This evening, I volunteered for some unpaid overtime to see the 600-hour inspection being conducted on the inboard diesel generator. Generally, the intake and exhaust valves looked fine, however, we did identify a chip in one of the cam lobes for cylinder number 4.
 
-![Note: intake and exhaust valve lifters.](Pictures/log/day5/int_exh_valves.png)
+![intake and exhaust valve lifters.](Pictures/log/day5/int_exh_valves.png)
 
-![Note: camshaft doors removed from inboard ship service diesel generator.](Pictures/log/day5/camshaft_doors_rem.png)
+![camshaft doors removed from inboard ship service diesel generator.](Pictures/log/day5/camshaft_doors_rem.png)
 
-![Note: cylinder 4 cam lobe chip identified.](Pictures/log/day5/cam_chip.png)
+![cylinder 4 cam lobe chip identified.](Pictures/log/day5/cam_chip.png)
 
 Additionally, the fuel oil filter was removed and cleaned. This was a cadet job.
 
-![Note: fuel filter in a bucket after being cleaned.](Pictures/log/day5/fuel_filter_cleaning.png)
+![fuel filter in a bucket after being cleaned.](Pictures/log/day5/fuel_filter_cleaning.png)
 
 ### Day 6: 5/16
 
@@ -103,46 +103,41 @@ Today was the day of the chief engineer's big main engine performance test. It r
 
 Location: Underway in Atlantic Ocean
 
-Sundays are generally "days off" for the engineers where they work an abbreviated day and often do safety-related tasks. The company decided that Sundays are largely days for cadets to work on projects. As such, I spent most of the day working on that. However, during the afternoon, I had the opportunity to clean and replace the central sea water strainer for the LT cooling loop. 
+Sundays are generally "days off" for the engineers where they work an abbreviated day and often do safety-related tasks. The company decided that Sundays are largely days for cadets to work on projects. As such, I spent most of the day working on that. However, during the afternoon, I had the opportunity to clean and replace the central sea water strainer for the LT cooling loop.
 
-![Note: LT/Central Sea Water heat exchanger](Pictures/log/day8/heat_ex_sw.PNG)
+![LT/Central Sea Water heat exchanger](Pictures/log/day8/heat_ex_sw.PNG)
 
 First, we had to remove the sealing flange and drain the heat exchanger, but not too quickly because that might cause the containment below to overflow. With the heat exchanger drained, we could completely remove the strainer bolts and remove the strainer basket. From there, it was just a couple of taps to get some of the accumulated gunk to fall out of the exchanger (we would end up needing to use the sink to really clean it). Then, a big scraping brush would be used to clean the ocean detritus from the edges of the plates before the exchanger was backflushed to clean out more gunk. From there, we installed a new strainer basket that had been modified to better fit within the exchanger and reinstalled the mounting plates.
 
-![Note: New sea creature discovered?](Pictures/log/day8/strainer_sea_creature.PNG)
+![New sea creature discovered?](Pictures/log/day8/strainer_sea_creature.PNG)
 
-![Note: Strainer basket removed](Pictures/log/day8/strainer_rem.PNG) 
+![Strainer basket removed](Pictures/log/day8/strainer_rem.PNG)
 
 ### Day 9: 5/19
+
 Location: Underway in Atlantic Ocean
 
 After an easier day yesterday, it was back to work today. My morning began by doing a continuation of the battery testing that I started on day 6. Instead of measuring the voltages of the batteries, I instead connected an inductive load to the battery (called the load tester) and measured the battery voltage while loaded.
 
-![Note: Battery load tester "electric cheese grater"](Pictures/log/day9/electric_cheese_grater.PNG)
+![Battery load tester "electric cheese grater"](Pictures/log/day9/electric_cheese_grater.PNG)
 
-Afterwards, all of the engineers received training on both the oily water separator (OWS) and how to start up the plant after a blackout. Apparently, the Independence is so automated that it can basically start up most of the plant independently, pun intended. Still, we went back to basics and both the third engineer and I had the opportunity to manually start the generators and parallel them with the bus. As far as the oily water separator goes, the chief engineer pulled me aside and gave me a full rundown on OWS operation and really dispelled many fears about the system. I learned that it is the addition of significant heat that causes the oil and the water to separate. In the afternoon, the third engineer and I load tested both of the generators and compiled Teknomar reports to submit to the company. My responsibility was to measure and record the fuel rack setting after he measured the peak combustion pressure for that specific cylinder. 
+Afterwards, all of the engineers received training on both the oily water separator (OWS) and how to start up the plant after a blackout. Apparently, the Independence is so automated that it can basically start up most of the plant independently, pun intended. Still, we went back to basics and both the third engineer and I had the opportunity to manually start the generators and parallel them with the bus. As far as the oily water separator goes, the chief engineer pulled me aside and gave me a full rundown on OWS operation and really dispelled many fears about the system. I learned that it is the addition of significant heat that causes the oil and the water to separate. In the afternoon, the third engineer and I load tested both of the generators and compiled Teknomar reports to submit to the company. My responsibility was to measure and record the fuel rack setting after he measured the peak combustion pressure for that specific cylinder.
 
-![Note: fuel rack index](Pictures/log/day9/ae_fuel_rack_index.PNG)
+![fuel rack index](Pictures/log/day9/ae_fuel_rack_index.PNG)
 
-![Note: fuel rack index (close up)](Pictures/log/day9/ae_rack_close.PNG)
+![fuel rack index (close up)](Pictures/log/day9/ae_rack_close.PNG)
 
-After which point, we used pulverized walnuts to clean the exhaust gas turbocharger turbine and water to clean the intake side. 
+After which point, we used pulverized walnuts to clean the exhaust gas turbocharger turbine and water to clean the intake side.
 
-![Note: Walnut polishing tool "nut blaster"](Pictures/log/day9/nut_blaster.PNG)
+![Walnut polishing tool "nut blaster"](Pictures/log/day9/nut_blaster.PNG)
 
-![Note: Polishing tool inserted into diesel generator](Pictures/log/day9/nuts_penetrating.PNG)
+![Polishing tool inserted into diesel generator](Pictures/log/day9/nuts_penetrating.PNG)
 
 ### Day 10: 5/20
-Location: Underway in Atlantic Ocean
-Today my work began with the first of what is expected to be my regular morning round. My first wanted me to get into the routine of doing a morning round for when I get my 3rd's license. Mostly, this round consisted of walking around the engine room, looking for leaks, and seeing what's running with an emphasis on the third engineer's systems like sewage, stern tube, the main engine and the important head tanks (M/E lube oil and jacket water). This went by fairly quickly because the first engineer wanted to get started on the acid wash for the central salt water heat exchanger that we cleaned yesterday. After mixing a tank of gross pink Scale-X and water, we connected it up to the heat exchanger via a diaphragm pump and left it running for about an hour. 
 
-After that, it was time to do the biannual EDG inspection and testing of EDG safety trips. Below is a list of items that we checked:
-- Generator windings and cables
-- General cleaning
-- Electrical connections
-- Bearings
-- Space heater function
-- Oil
+Location: Underway in Atlantic Ocean Today my work began with the first of what is expected to be my regular morning round. My first wanted me to get into the routine of doing a morning round for when I get my 3rd's license. Mostly, this round consisted of walking around the engine room, looking for leaks, and seeing what's running with an emphasis on the third engineer's systems like sewage, stern tube, the main engine and the important head tanks (M/E lube oil and jacket water). This went by fairly quickly because the first engineer wanted to get started on the acid wash for the central salt water heat exchanger that we cleaned yesterday. After mixing a tank of gross pink Scale-X and water, we connected it up to the heat exchanger via a diaphragm pump and left it running for about an hour.
+
+After that, it was time to do the biannual EDG inspection and testing of EDG safety trips. Below is a list of items that we checked: - Generator windings and cables - General cleaning - Electrical connections - Bearings - Space heater function - Oil
 
 As far as the safety trips, we tested the overspeed trip and alarm, high cooling water temperature, low cooling water pressure, lube oil high temperature and low pressure, and the start failure alarm.
 
@@ -154,7 +149,7 @@ In the afternoon, I was sent off on my own to use the megger to test about sixty
 
 Location: Underway in Atlantic Ocean
 
-Today, I began my day by resuming yesterday's grand megging project. Fortunately, I managed to meg all of the ventilation fans before 11 and I was able to determine the source of the ground fault. I definitely learned how useful a tool megging can be to identify problems within the electrical system. After that, I assisted the first engineer in testing the Hyper Mist fire suppression system over the inboard diesel generator. Using the fire testing wand (a tool that resembles a transparent plunger with a can attached to the stick) and a UV flashlight, we triggered both of the required zones to automatically trigger the system and tested that the mist would be properly admitted from the nozzles above the generator. After disabling the alarm, we proceeded to the fire control room (fire locker A) and manually tested that the system could be started from there. 
+Today, I began my day by resuming yesterday's grand megging project. Fortunately, I managed to meg all of the ventilation fans before 11 and I was able to determine the source of the ground fault. I definitely learned how useful a tool megging can be to identify problems within the electrical system. After that, I assisted the first engineer in testing the Hyper Mist fire suppression system over the inboard diesel generator. Using the fire testing wand (a tool that resembles a transparent plunger with a can attached to the stick) and a UV flashlight, we triggered both of the required zones to automatically trigger the system and tested that the mist would be properly admitted from the nozzles above the generator. After disabling the alarm, we proceeded to the fire control room (fire locker A) and manually tested that the system could be started from there.
 
 In the afternoon, we had a fire and oil spill drill and received instructions on fire control if it is to happen while bunkering because we are nearing our European bunkering port of Antwerp. After that, I spent the remainder of the afternoon producing mounting brackets for the LED fog light conversions.
 
@@ -186,7 +181,7 @@ Ordinarily, a Sunday is an easier day for most of the engineers, but with our an
 
 Location: Latvia
 
-Today, we made our arrival into Latvia to deliver our peaceful beige and camo cargo. This meant doing a procedure for arrivals in the engine room. Particularly, I had to make much more regular rounds of the engine room to make sure everything was running properly and I was assigned the task of managing the steam heat to the main engine given the vastly fluctuating demands on the engine from the bridge. To do this, I had to watch the engine outlet temperature, the jacket water cooler control valve opening percent and use these to set the jacket water steam heater setpoint. It was a complicated dance, but basically the engineers wanted to make sure that the jacket water cooler didn't open at low speeds (35-45 rpm) as this would subcool the engine. Once we made our arrival, we were informed that someone from port state would be coming in the afternoon to inspect the engine room, so I was sent into the bilge to clean up the mess created by a leaking stern tube lube oil cooler. After that, I assisted the chief engineer in conducting preventative maintenance tasks on the main engine, which included blowing down the control and service air to the main engine (but not spring air because then the engine would drop some valves). After that, we tested the fuel cam disengagement solenoids by turning on the turning gear and twisting some air-actuated knobs to engage and disengage the cams, making sure they are fully seated once we were done. 
+Today, we made our arrival into Latvia to deliver our peaceful beige and camo cargo. This meant doing a procedure for arrivals in the engine room. Particularly, I had to make much more regular rounds of the engine room to make sure everything was running properly and I was assigned the task of managing the steam heat to the main engine given the vastly fluctuating demands on the engine from the bridge. To do this, I had to watch the engine outlet temperature, the jacket water cooler control valve opening percent and use these to set the jacket water steam heater setpoint. It was a complicated dance, but basically the engineers wanted to make sure that the jacket water cooler didn't open at low speeds (35-45 rpm) as this would subcool the engine. Once we made our arrival, we were informed that someone from port state would be coming in the afternoon to inspect the engine room, so I was sent into the bilge to clean up the mess created by a leaking stern tube lube oil cooler. After that, I assisted the chief engineer in conducting preventative maintenance tasks on the main engine, which included blowing down the control and service air to the main engine (but not spring air because then the engine would drop some valves). After that, we tested the fuel cam disengagement solenoids by turning on the turning gear and twisting some air-actuated knobs to engage and disengage the cams, making sure they are fully seated once we were done.
 
 ### Day 17: 5/27
 
@@ -200,8 +195,7 @@ Location: underway in the North Sea
 
 This morning, I was assigned the task of carrying out an important 6-month preventative maintenance item for all of the ship's air conditioning equipment. There are 8 air conditioners on the ship: two in the bridge, one in the machine shop, one in the switchboard room, two in the control room, one in the galley and one very large unit for the accommodations space. I had to go around inspecting and cleaning all of them. Particularly, I was looking for the condition of the drive belts and would tension them as necessary. The switchboard room air conditioner, the largest of all of the package air conditioners, had a failing belt and was likely weeks away from failing. I secured the air conditioner and replaced this belt. Afterwards, I managed to get my finger crushed in pulley while inspecting an offline air handler unit for the accommodations space, so I definitely learned to appreciate hand placement.
 
-![Main switchboard room air handler belt system]()
-![Belt nearing failure]()
+![Main switchboard room air handler belt system]() ![Belt nearing failure]()
 
 ### Day 19: 5/29
 
@@ -219,7 +213,7 @@ With the main engine offline, the engineers took the time to work on a lot of ma
 
 Location: Bremerhaven, Germany
 
-Today the Independence was shifting docks and I was given the maneuvering watch. I reported to the engine room at 2330 (the day prior) and continued to do regular rounds of the engine room until 0150 when we received the finished with engine telegraph and secured the engine. After trying to get some sleep, I returned to the engine room to change over the fuel oil Moatti filters. This was a relatively simple process that involved unbolting the upper flange bolts, then lifting the top casing off of the Moatti. After draining it, we pulled the filter itself out of the casing and transferred it to a bucket full of diesel to soak. From there, it was as simple as dropping the new filter into the casing, installing the casing bolts, then bleeding the air from the newly-installed filter. After that, we pulled the start air valve from the number six cylinder as it was over its hours between overhauls. Once it was removed, we installed a spare which had been relapped and reconditioned. The exciting part was that I got to operate the main engine overhead crane. 
+Today the Independence was shifting docks and I was given the maneuvering watch. I reported to the engine room at 2330 (the day prior) and continued to do regular rounds of the engine room until 0150 when we received the finished with engine telegraph and secured the engine. After trying to get some sleep, I returned to the engine room to change over the fuel oil Moatti filters. This was a relatively simple process that involved unbolting the upper flange bolts, then lifting the top casing off of the Moatti. After draining it, we pulled the filter itself out of the casing and transferred it to a bucket full of diesel to soak. From there, it was as simple as dropping the new filter into the casing, installing the casing bolts, then bleeding the air from the newly-installed filter. After that, we pulled the start air valve from the number six cylinder as it was over its hours between overhauls. Once it was removed, we installed a spare which had been relapped and reconditioned. The exciting part was that I got to operate the main engine overhead crane.
 
 ### Day 22: 6/1
 
@@ -243,7 +237,7 @@ Today was a relatively unproductive day on the day-work side given my requiremen
 
 Location: Zeebrugge, Belgium
 
-After an eight hour maneuver today, we arrived in Zeebrugge. My day began by finishing reassembly of the start air valve I started yesterday. I pulled the valve completely apart and lapped the valve to the valve seat. I hadn't done this since Power Equipment Lab almost 2 and a half years ago, so it was like relearning this for the first time. The divers returned today to repair the crack in our rudder stock, so I was the one to walk around and lock out the various important pieces of equipment. After that, I assisted the second engineer in installing new gauges on the exhaust gas boiler--one for the inlet and outlet gas temperatures. In this experience, I was reminded of how much I loathe pop rivets. We must have used 20 pop rivets to place 4 successful rivets into the courtesy loops of the capillary tubes. Once this was done, I assisted in receiving delivery of the new retrofit equipment from MacGregor which contained new PLCs and other equipment for install in the ramp control system. 
+After an eight hour maneuver today, we arrived in Zeebrugge. My day began by finishing reassembly of the start air valve I started yesterday. I pulled the valve completely apart and lapped the valve to the valve seat. I hadn't done this since Power Equipment Lab almost 2 and a half years ago, so it was like relearning this for the first time. The divers returned today to repair the crack in our rudder stock, so I was the one to walk around and lock out the various important pieces of equipment. After that, I assisted the second engineer in installing new gauges on the exhaust gas boiler--one for the inlet and outlet gas temperatures. In this experience, I was reminded of how much I loathe pop rivets. We must have used 20 pop rivets to place 4 successful rivets into the courtesy loops of the capillary tubes. Once this was done, I assisted in receiving delivery of the new retrofit equipment from MacGregor which contained new PLCs and other equipment for install in the ramp control system.
 
 ### Day 26: 6/5
 
@@ -261,7 +255,7 @@ My day began at 0330 when we began maneuvering into Southampton. It was a slow s
 
 Location: Underway in the Atlantic Ocean
 
-After being up late last night doing maneuvering, I woke up very excited to begin my day at 0700 this morning. We began by bringing the evaporator online and lining up the tanks for new freshwater. After that, I did the noon report for the chief engineer, which, I'll admit was a little more complicated than the previous numbers I had completed for maneuvering. He followed my completion of these numbers by explaining how the bunkering lab samples get added to the S-Insight software and explaining how a Proof of Sustainability report works for B30 fuels and the European carbon taxes. After our lecture was complete, I went and helped the third engineer (who has learned a lot more about tubing bending since yesterday) make a new fuel sensing line for the other generator after our mishap yesterday which we are hoping to avoid with this generator. 
+After being up late last night doing maneuvering, I woke up very excited to begin my day at 0700 this morning. We began by bringing the evaporator online and lining up the tanks for new freshwater. After that, I did the noon report for the chief engineer, which, I'll admit was a little more complicated than the previous numbers I had completed for maneuvering. He followed my completion of these numbers by explaining how the bunkering lab samples get added to the S-Insight software and explaining how a Proof of Sustainability report works for B30 fuels and the European carbon taxes. After our lecture was complete, I went and helped the third engineer (who has learned a lot more about tubing bending since yesterday) make a new fuel sensing line for the other generator after our mishap yesterday which we are hoping to avoid with this generator.
 
 ### Day 29: 6/8
 
@@ -293,7 +287,7 @@ Today was much less exciting than yesterday although I spent much less time dest
 
 Location: Underway in the Atlantic Ocean
 
-Today was a day comprising a lot of smaller tasks. I began by helping get the deck cadet set up to work on a valve that she was rebuilding. I explained how to disassemble the valve, clean the flange surfaces, and replace the packing. While she was working on that, I fabricated a mounting plate and strut for a junction box being installed on the Marsat mast where the helicopter deck floodlight was being installed. In the afternoon, we then went and installed that bracket. I also had to remove all of the old floodlight wiring. This involved me climbing up the mast about 20 feet in the air and prying the clamps loose. 
+Today was a day comprising a lot of smaller tasks. I began by helping get the deck cadet set up to work on a valve that she was rebuilding. I explained how to disassemble the valve, clean the flange surfaces, and replace the packing. While she was working on that, I fabricated a mounting plate and strut for a junction box being installed on the Marsat mast where the helicopter deck floodlight was being installed. In the afternoon, we then went and installed that bracket. I also had to remove all of the old floodlight wiring. This involved me climbing up the mast about 20 feet in the air and prying the clamps loose.
 
 ### Day 34: 6/13
 
@@ -345,7 +339,7 @@ Location: Davisville, RI
 
 Today we were on track to arrive in Davisville. As such, my morning was fairly uneventful and the engineers only wanted me to do small tasks that wouldn't get in the way of me assisting in the arrival procedures. As such, the first engineer sent me away to troubleshoot a 3-phase electrical cable for the boatswain. I determined that the cable bracing inside of the connector was attached to the wires inside and not to the cable insulation which caused the wires to get pulled out of the connector gradually.
 
-In the afternoon, we made our arrival into Davisville. It was a very uneventful maneuver and I didn't learn many new details about plant operation in doing this. However, the new second engineer allowed me to fine-tune the jacket water preheater given the low engine loads we were experiencing. This was especially necessary because the jacket water temperature regulating valve was leaking by even when it was fully closed. 
+In the afternoon, we made our arrival into Davisville. It was a very uneventful maneuver and I didn't learn many new details about plant operation in doing this. However, the new second engineer allowed me to fine-tune the jacket water preheater given the low engine loads we were experiencing. This was especially necessary because the jacket water temperature regulating valve was leaking by even when it was fully closed.
 
 ### Day 42: 6/21
 
@@ -369,7 +363,7 @@ Like all of my days aboard the ship, I first began with a very extensive round o
 
 With the valve finished and stored with the other spares, I went with the engineer to help the chief mate with some trouble he was having with the pedestrian gangway. When we arrived, we found that one of the brackets for the securing mechanism of the gangway was rusted and falling apart. So, I went back to the engine room and got to work fabricating a new bracket with angle iron and flat bar. It was interesting using the welder again. Unfortunately, someone left one of the welding helmets in grinding mode unbeknownst to me and I nearly gave myself welder's flash. Checking that was probably my biggest lesson learned today.
 
-Eventually, I was pulled away from this project to help with the maneuver into Brunswick. It was an uneventful maneuver, but it somehow became my responsibility to start the whole plant up and operate it without any assistance from the engineers. It was a good learning experience and somehow not stressful because I've done it so many times. 
+Eventually, I was pulled away from this project to help with the maneuver into Brunswick. It was an uneventful maneuver, but it somehow became my responsibility to start the whole plant up and operate it without any assistance from the engineers. It was a good learning experience and somehow not stressful because I've done it so many times.
 
 ### Day 45: 6/24
 
@@ -413,4 +407,44 @@ Today, I worked with the second engineer replacing boiler valves. When we were i
 
 Location: Moored in Galveston, TX
 
-Since the engineers were ahead on their preventative maintenance tasks, I was given the day to finish up on my project, but returned to the engine room for our departure from Galveston. We had a smooth maneuver with no major engine issues
+Since the engineers were ahead on their preventative maintenance tasks, I was given the day to finish up on my project, but returned to the engine room for our departure from Galveston. We had a smooth maneuver with no major engine issues.
+
+### Day 52: 7/1
+
+Location: Underway in the Gulf of America
+
+Today I was responsible for getting the cargo deck fan shroud prepped and painted for installation. Although I wire wheeled the shroud a few days prior, it was already rusted again, so I spent most of the morning trying to clean up the shroud again, then before lunch, I primed the shroud for install. Afterwards, the first engineer and second engineer came to help jack and install the fan motor into the fan. Unfortunately, we discovered that the motor lead box was obstructing itself from reaching the fan shroud flange. To remedy this problem, we had to pull the entirety of the motor rotor out of the motor stator and flip it around so that the mating flange was on the opposite side of the motor lead box. This comprised the bulk of the afternoon, but it gave me the opportunity to actually see a very large motor disassembled.
+
+### Day 53: 7/2
+
+Location: Underway in the Gulf of America
+
+Like yesterday, we continued working on the cargo deck fan and motor install. With the motor inverted, it was ready to install into the fan shroud. This took careful work with some chainfalls and the clever use of a pallet jack to get everything fitted up. Once the motor was mounted and the fan was ready to be installed, we wheeled the assembly over using the pallet jack and connected it to the custom fan housting jig that someone in shipyard had made a few years prior. This was essentially a 3-point mounting system that was created from an engine hoist. The new fan was lifted up and carefully applied to the cleaned and RTV-ed gasket that had been installed inside of the fan box. Then, it was my turn to wire up the motor and test it. Once everyone was clear and the 3-phases of the motor were connected, I radioed the Chief Mate to start up that specific fan on supply mode (since it was able to be run in either supply or exhaust mode). When he started the fan up, it ran in the wrong direction so I knew I had to swap two of the leads to get that to change. After that, it was just a matter of getting one of the oilers to paint the whole apparatus. Finally, after several days of work, the repaired deck fan was back in operation.
+
+### Day 54: 7/3
+
+Location: Underway near Florida
+
+Given that today was the day before Independence Day, which most of the crew generally take off if they're not in port, most of the engineers worked very little today given that we'll be in port tomorrow. As such, they had very little work for me to do. My day began by taking a lube oil sample from the emergency diesel generator where I had to take several careful steps to properly secure the generator so it didn't start up while I was working on it. Once this was done, I helped the first engineer secure and leak test the Nyrex before putting it back in service. 
+
+### Day 55: 7/4
+
+Location: Moored in Jacksonville, FL
+
+My day began pretty early given the start of our maneuver into Jacksonville this morning. It was another very uneventful maneuver and, unfortunately, the second engineer managed most of it so I didn't have much opportunity to operate equipment while we were changing from at sea to pilotage operating parameters. Once we arrived, I got to work helping the other engineers troubleshoot some issues that the Chief Mate was having with the 1-to-2 deck cargo ramp locking cleats. Basically, one cleat was actuating very slowly and the automation was not accommodating for this and would trigger a fault that the cleat was not actuating in sufficient time. This had been an ongoing issue and the first engineer believes that there is water inside of the hydraulic line that is causing this issue. I personally do not see how this could be causing the slow actuation as the water would still allow the transmission of fluid pressure to and throughout the cylinder. I believe that the cylinder itself is failing on some of the internal seals causing the fluid to leak by and not actuate the cylinder as quickly. Regardless, we tested the first engineer's theory by draining several hundred liters from the system at that point by removing the line to the hydraulic cylinder and draining it into a tank. This process helped a little bit but did not completely remedy the issue.
+
+### Day 56: 7/5
+
+Location: Moored in Jacksonville, FL
+
+Today we began taking on our military cargo in Jacksonville which meant that the engineers were no longer able to try and fix the problematic cylinder that we worked on yesterday. As such, I began my day with an engine room round which was highly uneventful because very little was running. This gave us a great opportunity to work on changing the stern tube lube oil strainer. The exciting part about this job was that it was something I was already pretty familiar with so I was sent off on my own to work on the job without supervision (very dangerous decision). The changeover and cleaning was completed without any issues.
+
+Next, I worked with the first engineer in troubleshooting a small refrigerator in the galley. He's suspecting that the unit is low on refrigerant and I'm inclined to agree because the unit was short cycling pretty frequently.
+
+Finally, in the afternoon, I continued working on fabricating another pedestrian gangway bracket to serve as a spare for the Chief Mate. This one wasn't going together as well as the last one as I was having some trouble with the welder and issues with the material contracting after it was welded. I discovered that the welder was turned to a pretty low amperage and had much better results once I turned the unit up. To solve the issue with contraction, I heated up one of the wings with a MAP gas cylinder and bent it back into shape with a set of vice grips. It wasn't really a functional issue-- it just was aesthetically unpleasant.
+
+### Day 57: 7/6
+
+Location: Brunswick, Georgia
+
+Today we made a very early arrival into Brunswick. Fortunately, despite being an early 0405 wakeup, the maneuver was very routine. I made regular rounds throughout the engine room and didn't discover any issues besides a steam relief valve that had opened and was causing condensation throughout the port side of the engine room near the boilers. Although immediately concerning, it was quickly cleaned up with a mop once I discovered what the issue was. Once the maneuver was over, I was set free to work on my project and to prepare for the interview portion of the Chief's Special Project version of my cadet shipping project. To me, it seemed like it went very well and that the chief engineer was adequately impressed. 

@@ -8,10 +8,10 @@ format:
         colorlinks: true
         highlight-style: github
         sansfont: Latin Modern Roman
-editor: visual
+
 ---
 
-## Part 7 Refrigeration/Air-Conditioning (All Vessels)
+# Part 7 Refrigeration/Air-Conditioning (All Vessels) {.unnumbered}
 
 
 1.	Write a detailed description of your ship’s refrigeration system and its operation, incorporating the following items:
@@ -74,4 +74,4 @@ The switchboard AC was a model USP15H with two JT236DATFYE scroll type compresso
 
 10.	List and describe any maintenance performed on the air conditioning system while you were aboard.  
 
-Very minimal maintenance was performed on the air conditioning system while I was onboard. Most of the air conditioning units were self-contained package units which did not require much in the way of servicing. While I was onboard, I was assigned the task of the 6-month service, which included cleaning the internals of the system, filters, inspecting for corrosion and checking the belts. I had to replace two belts on the air conditioner air handler unit for the main switchboard room. 
+Very minimal maintenance was performed on the air conditioning system while I was onboard. Most of the air conditioning units were self-contained package units which did not require much in the way of servicing. While I was onboard, I was assigned the task of the 6-month service, which included cleaning the internals of the system, filters, inspecting for corrosion and checking the belts. I had to replace two belts on the air conditioner air handler unit for the main switchboard room.

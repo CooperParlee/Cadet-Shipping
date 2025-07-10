@@ -8,10 +8,10 @@ format:
         colorlinks: true
         highlight-style: github
         sansfont: Latin Modern Roman
-editor: visual
+
 ---
 
-## Part 6 Steering Gear (As Applicable)
+# Part 6 Steering Gear (As Applicable) {.unnumbered}
 
 1.  List and describe the manufacturer and type of steering gear/system used on the ship.
 

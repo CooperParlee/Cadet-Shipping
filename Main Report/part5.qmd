@@ -8,10 +8,10 @@ format:
         colorlinks: true
         highlight-style: github
         sansfont: Latin Modern Roman
-editor: visual
+
 ---
 
-## Part 5 Line Shafting and Stern Tube (As Applicable)
+# Part 5 Line Shafting and Stern Tube (As Applicable) {.unnumbered}
 
 1.  List and describe the line shafting, including the number and construction of line shaft or spring bearings and the material and construction of the shafting.
 
@@ -66,6 +66,6 @@ Percent Slip: 17.56 %
 To compute the average RPMs and total revolutions in a 24 hour period, one could measure the revolutions on the shaft counter at a specific time, say 10:00 (which we did), over two days. The revolutions from the first day could be subtracted from the second day and this number would be divided by 1,440 (24 hours * 60 minutes). This would give the average speed of the engine in RPM. 
 
 These were metrics sent to our company in our noon report, but they weren't the most important metric used for fuel economy. Fuel economy was reported as Specific Fuel Oil Consumption (SFOC). This was the sum of the burned heavy fuel and diesel as used for propulsion all divided by the observed miles for the day.
-	
+
 
 

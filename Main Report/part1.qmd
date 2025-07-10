@@ -8,10 +8,10 @@ format:
         colorlinks: true
         highlight-style: github
         sansfont: Latin Modern Roman
-editor: visual
+
 ---
 
-## Part 1: Emergency Rules and Safety Equipment (All Vessels)
+# Part 1: Emergency Rules and Safety Equipment (All Vessels) {.unnumbered}
 
 1.  List and describe the fire-fighting equipment found in your ship’s machinery spaces.
 
@@ -25,19 +25,19 @@ Dry chemical fire extinguishers (class ABC) were the primary type of fire exting
 
 There were two main fixed fire extinguishing systems aboard the M/V ARC Independence, the Hyper Mist and the $CO_2$ inert gas fire fighting systems. The Hyper Mist is a localized high-pressure water mist deluge system that releases droplets of water over protected zones in the engine room. The zones included the main engine, one; the auxiliary boiler, two; the purifier room, three; the outboard and inboard ship service diesel generators, four and five, respectively; and the incinerator room, zone six. This system could be operated manually from a console in the engine room, the bridge or fire locker A. The $CO_2$ inert gas system was installed to protect machinery spaces and all thirteen levels of the cargo decks. A room on the aft upper deck contained two large cylinders of pressurized $CO_2$. The system could be operated by using the controls mounted in either fire locker A (fire control room) or locally in the fixed fire fighting system at the tanks on the upper deck.
 
-![Note: CO_2 protected zones for the ship](Pictures/part1/co2_zones.png)
+![$CO_2$ protected zones for the ship](Pictures/part1/co2_zones.png)
 
 Maintenance for the Hyper Mist was mostly limited to shipyard periods and included certification of the system using a pressure test, testing the functionality of the system pump and zone sensor testing. Each of the zones contained two sensors and the system would only be alarmed if both sensors were triggered. The two sensors for each zone included a flame eye and a smoke detector, that way if equipment was behaving in such a way that emulated properties of a fire (like an exhaust leak), the system would not be triggered and make a mess in the engine room. Local in-house testing by the engineers did occur and included manually triggering the sensor pair for one zone a month. That zone rotated such that each zone was tested twice yearly. The lamps and buzzers were tested on the Hyper Mist system weekly.
 
-![Note: image of Hyper Mist local control panel within the Engine Control Room.](Pictures/part1/hyper_mist.png)
+![Image of Hyper Mist local control panel within the Engine Control Room.](Pictures/part1/hyper_mist.png)
 
-Maintenance for the fixed $CO_2$ system involved regularly checking the tank levels on the upper deck. While I was onboard, it also involved replacing the $CO_2$ detection sensor (for leaks) within the $CO_2$ room as it had failed. The majority of the maintenance was not in the purview of the the operating engineers. Whenever the ship was recertified by Lloyd's Register, the classification society, the company would have technicians come onto the vessel and exercise the valves for the fixed CO_2 system. According to the first engineer, the CO_2 system would be blocked off from the tanks and the system would be triggered in all zones, and the alarms would be tested. However, this testing did not occur while I was onboard and the maintenance manual for this equipment was no longer in the engine room. Regardless, the only maintenance that the operating engineers would conduct would be to maintain the refrigeration system cooling the tanks for the CO_2 tanks as needed.
+Maintenance for the fixed $CO_2$ system involved regularly checking the tank levels on the upper deck. While I was onboard, it also involved replacing the $CO_2$ detection sensor (for leaks) within the $CO_2$ room as it had failed. The majority of the maintenance was not in the purview of the the operating engineers. Whenever the ship was recertified by Lloyd's Register, the classification society, the company would have technicians come onto the vessel and exercise the valves for the fixed $CO_2$ system. According to the first engineer, the $CO_2$ system would be blocked off from the tanks and the system would be triggered in all zones, and the alarms would be tested. However, this testing did not occur while I was onboard and the maintenance manual for this equipment was no longer in the engine room. Regardless, the only maintenance that the operating engineers would conduct would be to maintain the refrigeration system cooling the tanks for the $CO_2$ tanks as needed.
 
-![Note: fixed CO_2 fire fighting system tanks within the CO_2 room on the upper deck](Pictures/part1/co2_tanks.png)
+![fixed $CO_2$ fire fighting system tanks within the $CO_2$ room on the upper deck](Pictures/part1/co2_tanks.png)
 
-![Note: CO_2 fire fighting system control panel within the CO_2 room](Pictures/part1/co2_control.png)
+![$CO_2$ fire fighting system control panel within the $CO_2$ room](Pictures/part1/co2_control.png)
 
-Additionally, there was a localized fire fighting system for the deep fryer in the galley. The system was an Ansul R-102 Restaurant Fire Suppression System. The system was operated by a metal control box just adjacent to the protected cooking hood. When activated, a pressurized $CO_2$ cylinder would disperse a canister of Ansulex Low pH Fire Suppressant compound, a potassium-based class-K extinguisher, over the affected fryer. This system was relatively low-maintenance and involved regreasing the mechanical components, and checking the weight of the CO_2 and fire suppressant once every two years. Every 12 years, in addition to the 2-year requirements, the CO_2 tank and fire suppressant chemical should both be replaced, regardless of their conditions.
+Additionally, there was a localized fire fighting system for the deep fryer in the galley. The system was an Ansul R-102 Restaurant Fire Suppression System. The system was operated by a metal control box just adjacent to the protected cooking hood. When activated, a pressurized $CO_2$ cylinder would disperse a canister of Ansulex Low pH Fire Suppressant compound, a potassium-based class-K extinguisher, over the affected fryer. This system was relatively low-maintenance and involved regreasing the mechanical components, and checking the weight of the $CO_2$ and fire suppressant once every two years. Every 12 years, in addition to the 2-year requirements, the $CO_2$ tank and fire suppressant chemical should both be replaced, regardless of their conditions.
 
 4.  What are the USCG regulations regarding boat and fire drill? Provide the CFR Reference. What were your assigned duties for Fire AND Boat Drills? What were the instructions you received at your boat station?
 

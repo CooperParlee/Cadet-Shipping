@@ -8,10 +8,10 @@ format:
         colorlinks: true
         highlight-style: github
         sansfont: Latin Modern Roman
-editor: visual
+
 ---
 
-## Part 8 Fresh Water Generating Plants/Supply Systems (All Vessels)
+# Part 8 Fresh Water Generating Plants/Supply Systems (All Vessels) {.unnumbered}
 
 1.  For ships equipped with evaporators (such as Nyrex or flash type), describe how sea water is pumped into the evaporator, how the water level is maintained, how heat for the evaporator is provided, what the operating pressure is in the evaporator shell, and how the shell is protected against excess pressure.
 

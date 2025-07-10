@@ -8,10 +8,10 @@ format:
         colorlinks: true
         highlight-style: github
         sansfont: Latin Modern Roman
-editor: visual
+
 ---
 
-## Part 3 Auxiliary Boilers or Continuation of Main Propulsion Boilers (As Applicable)
+# Part 3 Auxiliary Boilers or Continuation of Main Propulsion Boilers (As Applicable) {.unnumbered}
 
 1.  List and describe the fuel oil service system and operation, including atomizers.
 

@@ -8,10 +8,10 @@ format:
         colorlinks: true
         highlight-style: github
         sansfont: Latin Modern Roman
-editor: visual
+
 ---
 
-Part 9 Engine Room Records and Watch Standing Practices (All Vessels)
+# Part 9 Engine Room Records and Watch Standing Practices (All Vessels) {.unnumbered}
 
 1.  List and describe in detail the duties of the assistant engineers on your vessel, with emphasis on the third assistant’s role. What, if any, of these duties were you allowed to perform?
 

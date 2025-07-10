@@ -1,4 +1,17 @@
-Part 2A Main Propulsion, Diesel or Diesel Electric
+---
+format:
+    html: 
+        code-fold: false
+    pdf:
+        papersize: letter
+        number-sections: false
+        colorlinks: true
+        highlight-style: github
+        sansfont: Latin Modern Roman
+
+---
+
+# Part 2A Main Propulsion, Diesel or Diesel Electric {.unnumbered}
 
 1.	List and describe the main propulsion diesel engine(s) on your ship in detail including size, speed, power, cycle, type drive, reversing method, control, and the timing of events.
 
@@ -141,6 +154,7 @@ Turbocharging and supercharging function to raise the effective scavenging press
 After the charge air cooler are electrically-driven auxiliary blowers. These can further increase the scavenge air pressure going into the engine but are not entirely necessary to the operation of the plant except in conditions with little exhaust gas pressure when the engine is not at high enough speed (such as maneuvering). 
 
 ![Main engine aftermost blower/supercharger](Pictures/part2/blower.png)
+
 17.	Give a full description of the complete cooling water system, including any seawater or Closed Fresh Water circuits.
 
 There were three different water cooling systems involved with the main engine, jacket water, central fresh water and sea water systems. The jacket water system was a treated demineralized water system that comprised three pumps. Two of the pumps were large centrifugal pumps which provided the bulk of the flow through the system. There was an additional pump which pumped jacket water through a steam preheater which was a small plate-type heat exchanger. After the jacket water traveled through the main engine, it went through the Nyrex which effectively acted as a heat exchanger for the jacket water system. After the Nyrex came the three way temperature control valve which determined how much flow was bypassed and how much flow was sent to the coolers. The two large plate-type coolers cooled the jacket water system with central fresh water (or the LT system). The central fresh water system cooled many of the secondary engine systems, including the turbochargers, lube oil, stern tube, shaft generator and charge air cooler. It comprised three pumps; two pumps were large centrifugal pumps that were on/off and used when at sea, and the third pump was a smaller centrifugal pump that was controlled by a VFD and used in port. This VFD-controlled pump was a rare exception aboard the ship and was installed during a shipyard retrofit. There were two CFW coolers that were plate type heat exchangers. These were cooled by the sea water system. The sea water system did not include any heat exchangers except for the ocean. It comprised three pumps and two sea suctions, a high and a low. The three pumps were started and stopped as needed by the automation and were not VFD-controlled. 
@@ -148,16 +162,20 @@ There were three different water cooling systems involved with the main engine, 
 18.	Fully describe the starting system equipment and its operation.
 
 Starting with the compressors, the two Sperre HV2 compressors kept the two Kumkang 7,000L start air reservoirs pressurized to 30 bar. After the start air reservoirs, the start air ran into the main start air valve. This valve was electronically operated when the engine was starting and stayed in the normally closed position. There was a manual actuator outside of the valve to force the valve open for starting.
+
 ![Main start air valve with manual actuator: 1. M/E start air blocker (cw to lock, ccw to unlock) 2. manual actuator located underneath](Pictures/part2/main_start_valve.png)
-After the actuator, some of the start air traveled to the start air distributor which included a cam that was directly connected and timed to the main engine. This distributor sent air to drive the start air valves on each of the cylinders at the appropriate time (TDC) to drive the piston down and turn over the engine
+
+After the actuator, some of the start air traveled to the start air distributor which included a cam that was directly connected and timed to the main engine. This distributor sent air to drive the start air valves on each of the cylinders at the appropriate time (TDC) to drive the piston down and turn over the engine.
+
 ![Start air distributor](Pictures/part2/start_dist.png)
+
 ![Cylinder start air valve](Pictures/part2/me_start_air_valve.png)
 
 19.	What is "tappet clearance” or “valve lash" and how is it adjusted on the intake/exhaust valves?
 
 Valve lash is the gap between the top of the valve stem and the valve train. It is used to accomodate for wear and thermal expansion on intake and exhaust valves. The engine on my vessel was port scavenged, meaning it doesn't have intake valves, only exhaust valves. This is adjusted by turning the specific cylinder to top dead center (TDC) and inserting the feeler gauge per the manufacturer instructions between the rocker arm and the valve stem. Then, turn the adjusting screw until drag is experienced on the feeler gauge. Finally, lock the adjusting screw and recheck the clearance with that feeler gauge by ensuring there is sufficient drag on that feeler gauge.
 
-Given that our engine was on a prolonged condition-based maintenance schedule, this maintenance was not performed while I was on the vessel as 
+Given that our engine was on a prolonged condition-based maintenance schedule, this maintenance was not performed while I was on the vessel.
 
 20.	List and describe in detail any maintenance or repairs performed on the main engine while you were on board.
 
@@ -189,11 +207,11 @@ In order to transfer control from the engine room to the bridge, one must first 
 
 In order to transfer engine control from ECR to the local operating panel, first the engine control selector switch must be in "C/R Control" instead of "Bridge Control" in the engine control room. Before switching, it is important to ensure that you have communications with the bridge from the local operating panel and have someone in the control room to acknowledge a "local control" alarm that comes up when switching modes. Additionally, it is important to make sure that there is adequate air pressure in the start air tanks to handle stopping and starting because to switch control modes, there will be a change in fuel rack position. For example in switching from ECR to local control, if your throttle was set to 80 rpm on the ECR throttle and 40 rpm on the local throttle, a noticeable "bump" (as the Chief called it) will be observed in the main engine. That is why it was recommended that switching modes for testing was conducted when the engine was offline. Additionally, it is crucial to note that operating from the local control station cuts out all safeties and the governor for the engine. In doing so, if a lube oil pump stops pumping oil or the pressure is too low, the local control console will continue to actuate the engine. As such, it is important to keep an oiler doing continuous rounds around the engine room to ensure that everything is running properly. This process requires that the engine room be continuously manned. In order to actually conduct the changeover, a magnet has to be removed from the position blocking device (which was added because the blocking device tended to vibrate loose). 
 The handwheel below the console is then set to the manual position.
-<1!--![Remove magnet, remove block, and set handwheel to the manual position]()--->
+<1!--[Remove magnet, remove block, and set handwheel to the manual position]()--->
 Then, set the valve for ahead or astern to the correct position.
-<1!--![Ahead/astern selector valve]()--->
+<1!--[Ahead/astern selector valve]()--->
 Finally, change the valve from remote to manual mode.
-<1!--![Remote/manual valve]()--->
+<1!--[Remote/manual valve]()--->
 From there, one pushes and holds the start button on the control console until the engine catches, then slide the fuel rack controller into the "start" position.
 
 24.	What is the viscosity of the fuels used on board? Was the injection viscosity controlled? If so, explain this process.
@@ -220,7 +238,7 @@ Wear on these bearings is checked a bunch of ways. First, bearing temperature is
 
 The crosshead bearings are checked by first removing the crankcase door and turning the crankthrow for that cylinder to bottom-dead center (BDC). A feeler gauge is then inserted between the bearing cap and the crosshead journal. This is shown in the below diagram.
 
-<!---![DOOSAN MAN B&W crosshead bearing inspection M90401-0249C03]()--->
+<!---[DOOSAN MAN B&W crosshead bearing inspection M90401-0249C03]()--->
 
 The value observed is then checked against the minimum and maximum crosshead clearances of 0.2 mm and 0.55 mm respectively.
 
@@ -230,7 +248,7 @@ A crank web deflection is an important tool in checking the health of your main 
 
 To perform the deflection, a dial gauge is placed axially between the throws of the crank for that respective cylinder, opposite the crankpin. Our dial gauge came with a wireless handheld that showed the indicated position from outside of the engine which was very convenient. Zero the dial gauge at B1 per the diagram below, then rotate the turning gear forward to reach all positions shown in the diagram, stopping at each to record the appropriate readings. Once the E value is reached, continue moving the turning gear forward until the crosshead bearing is level with the crankshaft door, then have a competent engineer (in our case, the first engineer) climb over the crosshead bearing to give turning directions until you reach the B2 position. This is to ensure that the crankshaft does not collide with the the dial gauge. Once the B2 is reached, the engineer should remove the dial indicator to prevent this collision.
 
-<!---![DOOSAN MAN B&@ Instructions for crank web deflection, diagram XZ905-1.1 204 03]()--->
+<!---[DOOSAN MAN B&@ Instructions for crank web deflection, diagram XZ905-1.1 204 03]()--->
 
 The crank web deflection report is provided in APPENDIX __.
 
